@@ -13,7 +13,8 @@ pub struct MonitorApp {
     top_cpu: Vec<(i32, String, f32)>,
     top_ram: Vec<(i32, String, f64)>,
     dark_mode: bool,
-    selected_pid: Option<i32>, // <-- nuevo campo
+    selected_pid: Option<i32>,
+    monitoring: bool, // <-- nuevo campo
 }
 
 impl Default for MonitorApp {
@@ -28,7 +29,8 @@ impl Default for MonitorApp {
             top_cpu: Vec::new(),
             top_ram: Vec::new(),
             dark_mode: true,
-            selected_pid: None, // <-- inicializa
+            selected_pid: None,
+            monitoring: true, // <-- inicializa activado
         }
     }
 }
@@ -41,7 +43,7 @@ impl App for MonitorApp {
             ctx.set_visuals(egui::Visuals::light());
         }
 
-        if self.last_update.elapsed() > Duration::from_secs(1) {
+        if self.monitoring && self.last_update.elapsed() > Duration::from_secs(1) {
             self.sys.refresh_all();
 
             let cpus = self.sys.cpus();
@@ -91,6 +93,9 @@ impl App for MonitorApp {
         egui::CentralPanel::default().show(ctx, |ui| {
             ui.horizontal(|ui| {
                 ui.heading("Monitor de Sistema");
+                if ui.button(if self.monitoring { "Detener Monitoreo" } else { "Iniciar Monitoreo" }).clicked() {
+                    self.monitoring = !self.monitoring;
+                }
                 ui.with_layout(egui::Layout::right_to_left(egui::Align::TOP), |ui| {
                     if ui.button(if self.dark_mode { "Modo Claro" } else { "Modo Oscuro" }).clicked() {
                         self.dark_mode = !self.dark_mode;
