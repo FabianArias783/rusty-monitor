@@ -23,7 +23,7 @@ impl AlertManager {
             alerts: vec![
                 AlertCondition {
                     cpu_threshold: 80.0,
-                    memory_threshold: 80.0,
+                    memory_threshold: 70.0,
                     network_threshold: 10.0,
                 },
             ],

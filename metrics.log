@@ -7240,3 +7240,1123 @@ Wi-Fi: 0.01 Mbps (down) / 0.00 Mbps (up)
 Datos insertados en SQLite exitosamente.
 =====================================
 
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:08:25
+CPU Uso (por núcleo): CPU 1: 86.17% | CPU 2: 91.00% | CPU 3: 89.07% | CPU 4: 86.23% | CPU 5: 98.05% | CPU 6: 87.10% | CPU 7: 89.45% | CPU 8: 88.08%
+CPU Uso (promedio total): 89.39%
+Memoria total: 16221.05 MB, Memoria usada: 8453.01 MB
+Procesos más demandantes de CPU:
+[11024] explorer.exe (CPU: 1.61%) | [14984] PowerToys.PowerLauncher.exe (CPU: 1.37%) | [14732] Microsoft.CmdPal.UI.exe (CPU: 1.26%) | [7080] Code.exe (CPU: 1.19%) | [19520] Code.exe (CPU: 1.11%)
+Procesos más demandantes de RAM:
+[19756] Code.exe (Mem: 473.26 MB) | [19592] rust-analyzer.exe (Mem: 454.98 MB) | [18696] Code.exe (Mem: 452.78 MB) | [13196] rust-analyzer.exe (Mem: 412.00 MB) | [11024] explorer.exe (Mem: 382.60 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 318.63 MB | Escritura: 80.25 MB | [C:\][Tipo: SSD] Lectura: 5928.92 MB | Escritura: 5784.42 MB
+Redes:
+Wi-Fi: 10.68 Mbps (down) / 0.07 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:08:31
+CPU Uso (por núcleo): CPU 1: 78.64% | CPU 2: 79.66% | CPU 3: 83.90% | CPU 4: 79.11% | CPU 5: 80.54% | CPU 6: 78.37% | CPU 7: 81.93% | CPU 8: 82.75%
+CPU Uso (promedio total): 80.61%
+Memoria total: 16221.05 MB, Memoria usada: 8645.88 MB
+Procesos más demandantes de CPU:
+[8136] Trading Paints.exe (CPU: 5.88%) | [8588] metricas-bueno.exe (CPU: 3.07%) | [11024] explorer.exe (CPU: 2.71%) | [17968] Code.exe (CPU: 2.01%) | [7080] Code.exe (CPU: 1.30%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 556.87 MB) | [19756] Code.exe (Mem: 473.88 MB) | [13196] rust-analyzer.exe (Mem: 470.41 MB) | [18696] Code.exe (Mem: 452.93 MB) | [11024] explorer.exe (Mem: 386.03 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 318.72 MB | Escritura: 110.52 MB | [C:\][Tipo: SSD] Lectura: 5963.75 MB | Escritura: 5795.00 MB
+Redes:
+Wi-Fi: 3.50 Mbps (down) / 0.03 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:08:37
+CPU Uso (por núcleo): CPU 1: 57.34% | CPU 2: 53.19% | CPU 3: 56.89% | CPU 4: 57.42% | CPU 5: 59.49% | CPU 6: 47.97% | CPU 7: 63.53% | CPU 8: 48.64%
+CPU Uso (promedio total): 55.56%
+Memoria total: 16221.05 MB, Memoria usada: 8662.08 MB
+Procesos más demandantes de CPU:
+[8136] Trading Paints.exe (CPU: 4.02%) | [8588] metricas-bueno.exe (CPU: 2.18%) | [16284] WindowsPackageManagerServer.exe (CPU: 1.94%) | [17968] Code.exe (CPU: 1.66%) | [9708] nvcontainer.exe (CPU: 1.39%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 574.34 MB) | [13196] rust-analyzer.exe (Mem: 487.68 MB) | [19756] Code.exe (Mem: 471.70 MB) | [18696] Code.exe (Mem: 452.40 MB) | [11024] explorer.exe (Mem: 388.98 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 318.72 MB | Escritura: 138.93 MB | [C:\][Tipo: SSD] Lectura: 5981.54 MB | Escritura: 5800.72 MB
+Redes:
+Wi-Fi: 7.28 Mbps (down) / 0.03 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:08:42
+CPU Uso (por núcleo): CPU 1: 45.14% | CPU 2: 41.34% | CPU 3: 43.77% | CPU 4: 46.47% | CPU 5: 45.52% | CPU 6: 30.48% | CPU 7: 46.73% | CPU 8: 33.26%
+CPU Uso (promedio total): 41.59%
+Memoria total: 16221.05 MB, Memoria usada: 8679.38 MB
+Procesos más demandantes de CPU:
+[8136] Trading Paints.exe (CPU: 3.93%) | [7080] Code.exe (CPU: 1.79%) | [17968] Code.exe (CPU: 1.41%) | [9708] nvcontainer.exe (CPU: 1.38%) | [8588] metricas-bueno.exe (CPU: 1.38%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 589.25 MB) | [13196] rust-analyzer.exe (Mem: 502.66 MB) | [19756] Code.exe (Mem: 471.47 MB) | [18696] Code.exe (Mem: 452.34 MB) | [11024] explorer.exe (Mem: 387.57 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 319.06 MB | Escritura: 149.71 MB | [C:\][Tipo: SSD] Lectura: 5989.17 MB | Escritura: 5803.82 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:08:48
+CPU Uso (por núcleo): CPU 1: 72.74% | CPU 2: 76.89% | CPU 3: 78.76% | CPU 4: 71.17% | CPU 5: 75.75% | CPU 6: 68.91% | CPU 7: 77.00% | CPU 8: 71.47%
+CPU Uso (promedio total): 74.09%
+Memoria total: 16221.05 MB, Memoria usada: 8999.14 MB
+Procesos más demandantes de CPU:
+[19592] rust-analyzer.exe (CPU: 12.77%) | [13196] rust-analyzer.exe (CPU: 11.27%) | [17968] Code.exe (CPU: 1.75%) | [7080] Code.exe (CPU: 1.37%) | [8588] metricas-bueno.exe (CPU: 1.34%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 626.68 MB) | [13196] rust-analyzer.exe (Mem: 531.60 MB) | [19756] Code.exe (Mem: 471.34 MB) | [18696] Code.exe (Mem: 452.69 MB) | [11024] explorer.exe (Mem: 387.48 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 363.41 MB | Escritura: 149.94 MB | [C:\][Tipo: SSD] Lectura: 5989.64 MB | Escritura: 5876.36 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:08:54
+CPU Uso (por núcleo): CPU 1: 78.00% | CPU 2: 75.71% | CPU 3: 80.69% | CPU 4: 78.56% | CPU 5: 80.28% | CPU 6: 78.57% | CPU 7: 83.67% | CPU 8: 82.02%
+CPU Uso (promedio total): 79.69%
+Memoria total: 16221.05 MB, Memoria usada: 9077.71 MB
+Procesos más demandantes de CPU:
+[19592] rust-analyzer.exe (CPU: 7.00%) | [13196] rust-analyzer.exe (CPU: 6.86%) | [17968] Code.exe (CPU: 2.39%) | [19520] Code.exe (CPU: 1.98%) | [8588] metricas-bueno.exe (CPU: 1.95%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 746.74 MB) | [13196] rust-analyzer.exe (Mem: 654.71 MB) | [19756] Code.exe (Mem: 471.08 MB) | [18696] Code.exe (Mem: 452.93 MB) | [11024] explorer.exe (Mem: 387.48 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 363.41 MB | Escritura: 150.07 MB | [C:\][Tipo: SSD] Lectura: 5990.54 MB | Escritura: 5885.93 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:09:08
+CPU Uso (por núcleo): CPU 1: 84.29% | CPU 2: 82.94% | CPU 3: 87.55% | CPU 4: 86.30% | CPU 5: 85.71% | CPU 6: 87.70% | CPU 7: 89.44% | CPU 8: 92.43%
+CPU Uso (promedio total): 87.04%
+Memoria total: 16221.05 MB, Memoria usada: 11715.43 MB
+Procesos más demandantes de CPU:
+[19592] rust-analyzer.exe (CPU: 31.79%) | [13196] rust-analyzer.exe (CPU: 29.74%) | [19520] Code.exe (CPU: 2.96%) | [17968] Code.exe (CPU: 2.54%) | [17464] Code.exe (CPU: 1.57%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 2178.81 MB) | [13196] rust-analyzer.exe (Mem: 2077.46 MB) | [19756] Code.exe (Mem: 471.11 MB) | [18696] Code.exe (Mem: 452.56 MB) | [11024] explorer.exe (Mem: 386.29 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 363.41 MB | Escritura: 151.41 MB | [C:\][Tipo: SSD] Lectura: 6019.17 MB | Escritura: 5893.01 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:09:14
+CPU Uso (por núcleo): CPU 1: 90.13% | CPU 2: 90.27% | CPU 3: 90.76% | CPU 4: 90.41% | CPU 5: 91.21% | CPU 6: 88.64% | CPU 7: 91.13% | CPU 8: 89.71%
+CPU Uso (promedio total): 90.28%
+Memoria total: 16221.05 MB, Memoria usada: 11940.64 MB
+Procesos más demandantes de CPU:
+[19592] rust-analyzer.exe (CPU: 23.22%) | [13196] rust-analyzer.exe (CPU: 15.02%) | [19520] Code.exe (CPU: 3.36%) | [1864] rust-analyzer-proc-macro-srv.exe (CPU: 2.59%) | [17464] Code.exe (CPU: 2.22%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 2627.68 MB) | [13196] rust-analyzer.exe (Mem: 2143.69 MB) | [19756] Code.exe (Mem: 471.09 MB) | [18696] Code.exe (Mem: 432.54 MB) | [11024] explorer.exe (Mem: 386.30 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 363.41 MB | Escritura: 151.50 MB | [C:\][Tipo: SSD] Lectura: 6021.29 MB | Escritura: 5897.40 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:09:20
+CPU Uso (por núcleo): CPU 1: 37.21% | CPU 2: 37.55% | CPU 3: 43.99% | CPU 4: 37.06% | CPU 5: 42.03% | CPU 6: 24.94% | CPU 7: 39.26% | CPU 8: 45.40%
+CPU Uso (promedio total): 38.43%
+Memoria total: 16221.05 MB, Memoria usada: 11880.54 MB
+Procesos más demandantes de CPU:
+[19592] rust-analyzer.exe (CPU: 12.47%) | [7080] Code.exe (CPU: 1.23%) | [16052] TextInputHost.exe (CPU: 1.16%) | [17968] Code.exe (CPU: 1.13%) | [19520] Code.exe (CPU: 1.13%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 2580.52 MB) | [13196] rust-analyzer.exe (Mem: 2143.69 MB) | [19756] Code.exe (Mem: 471.09 MB) | [18696] Code.exe (Mem: 433.22 MB) | [11024] explorer.exe (Mem: 385.09 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 363.44 MB | Escritura: 151.81 MB | [C:\][Tipo: SSD] Lectura: 6116.41 MB | Escritura: 5993.41 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:09:25
+CPU Uso (por núcleo): CPU 1: 37.20% | CPU 2: 35.55% | CPU 3: 41.81% | CPU 4: 35.01% | CPU 5: 39.28% | CPU 6: 30.17% | CPU 7: 37.13% | CPU 8: 53.03%
+CPU Uso (promedio total): 38.65%
+Memoria total: 16221.05 MB, Memoria usada: 11940.14 MB
+Procesos más demandantes de CPU:
+[19592] rust-analyzer.exe (CPU: 12.06%) | [19520] Code.exe (CPU: 1.66%) | [8588] metricas-bueno.exe (CPU: 0.78%) | [11024] explorer.exe (CPU: 0.58%) | [17968] Code.exe (CPU: 0.58%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 2645.05 MB) | [13196] rust-analyzer.exe (Mem: 2143.69 MB) | [19756] Code.exe (Mem: 471.07 MB) | [18696] Code.exe (Mem: 433.36 MB) | [11024] explorer.exe (Mem: 385.38 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 363.48 MB | Escritura: 152.02 MB | [C:\][Tipo: SSD] Lectura: 6179.64 MB | Escritura: 6015.21 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.02 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:09:31
+CPU Uso (por núcleo): CPU 1: 48.11% | CPU 2: 34.21% | CPU 3: 42.41% | CPU 4: 48.94% | CPU 5: 38.32% | CPU 6: 35.92% | CPU 7: 34.21% | CPU 8: 55.65%
+CPU Uso (promedio total): 42.22%
+Memoria total: 16221.05 MB, Memoria usada: 12234.40 MB
+Procesos más demandantes de CPU:
+[19592] rust-analyzer.exe (CPU: 11.95%) | [16052] TextInputHost.exe (CPU: 1.20%) | [19520] Code.exe (CPU: 1.20%) | [8588] metricas-bueno.exe (CPU: 1.07%) | [17464] Code.exe (CPU: 0.58%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 2818.49 MB) | [13196] rust-analyzer.exe (Mem: 2143.69 MB) | [19756] Code.exe (Mem: 471.09 MB) | [18696] Code.exe (Mem: 433.55 MB) | [11024] explorer.exe (Mem: 384.48 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 375.03 MB | Escritura: 152.48 MB | [C:\][Tipo: SSD] Lectura: 6228.96 MB | Escritura: 6028.28 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:09:37
+CPU Uso (por núcleo): CPU 1: 46.34% | CPU 2: 34.78% | CPU 3: 44.30% | CPU 4: 43.11% | CPU 5: 43.00% | CPU 6: 32.12% | CPU 7: 37.88% | CPU 8: 51.78%
+CPU Uso (promedio total): 41.66%
+Memoria total: 16221.05 MB, Memoria usada: 12616.46 MB
+Procesos más demandantes de CPU:
+[19592] rust-analyzer.exe (CPU: 12.08%) | [8588] metricas-bueno.exe (CPU: 0.80%) | [16052] TextInputHost.exe (CPU: 0.66%) | [19520] Code.exe (CPU: 0.66%) | [7080] Code.exe (CPU: 0.31%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3070.27 MB) | [13196] rust-analyzer.exe (Mem: 2143.38 MB) | [19756] Code.exe (Mem: 471.76 MB) | [18696] Code.exe (Mem: 433.58 MB) | [11024] explorer.exe (Mem: 384.39 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 381.74 MB | Escritura: 153.06 MB | [C:\][Tipo: SSD] Lectura: 6267.17 MB | Escritura: 6076.14 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:09:42
+CPU Uso (por núcleo): CPU 1: 43.82% | CPU 2: 28.89% | CPU 3: 42.71% | CPU 4: 26.92% | CPU 5: 35.90% | CPU 6: 26.20% | CPU 7: 28.23% | CPU 8: 51.11%
+CPU Uso (promedio total): 35.47%
+Memoria total: 16221.05 MB, Memoria usada: 12757.87 MB
+Procesos más demandantes de CPU:
+[19592] rust-analyzer.exe (CPU: 2.62%) | [9708] nvcontainer.exe (CPU: 1.36%) | [19520] Code.exe (CPU: 1.19%) | [8588] metricas-bueno.exe (CPU: 0.92%) | [16052] TextInputHost.exe (CPU: 0.92%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3137.79 MB) | [13196] rust-analyzer.exe (Mem: 2143.38 MB) | [19756] Code.exe (Mem: 471.04 MB) | [18696] Code.exe (Mem: 432.97 MB) | [11024] explorer.exe (Mem: 384.16 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 381.74 MB | Escritura: 153.40 MB | [C:\][Tipo: SSD] Lectura: 6323.58 MB | Escritura: 6083.78 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:09:48
+CPU Uso (por núcleo): CPU 1: 34.95% | CPU 2: 15.73% | CPU 3: 34.33% | CPU 4: 14.42% | CPU 5: 30.92% | CPU 6: 15.85% | CPU 7: 20.13% | CPU 8: 41.32%
+CPU Uso (promedio total): 25.95%
+Memoria total: 16221.05 MB, Memoria usada: 12767.53 MB
+Procesos más demandantes de CPU:
+[8588] metricas-bueno.exe (CPU: 0.89%) | [16052] TextInputHost.exe (CPU: 0.79%) | [11024] explorer.exe (CPU: 0.34%) | [17464] Code.exe (CPU: 0.27%) | [7080] Code.exe (CPU: 0.24%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3137.79 MB) | [13196] rust-analyzer.exe (Mem: 2143.38 MB) | [19756] Code.exe (Mem: 471.04 MB) | [18696] Code.exe (Mem: 432.95 MB) | [11024] explorer.exe (Mem: 384.16 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 381.74 MB | Escritura: 153.58 MB | [C:\][Tipo: SSD] Lectura: 6331.06 MB | Escritura: 6097.62 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:09:54
+CPU Uso (por núcleo): CPU 1: 19.75% | CPU 2: 16.36% | CPU 3: 23.42% | CPU 4: 18.32% | CPU 5: 23.34% | CPU 6: 16.23% | CPU 7: 26.37% | CPU 8: 41.51%
+CPU Uso (promedio total): 23.16%
+Memoria total: 16221.05 MB, Memoria usada: 12801.29 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 1.38%) | [8588] metricas-bueno.exe (CPU: 1.34%) | [16052] TextInputHost.exe (CPU: 0.67%) | [19520] Code.exe (CPU: 0.44%) | [17968] Code.exe (CPU: 0.40%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3137.79 MB) | [13196] rust-analyzer.exe (Mem: 2143.38 MB) | [19756] Code.exe (Mem: 471.03 MB) | [18696] Code.exe (Mem: 433.41 MB) | [11024] explorer.exe (Mem: 384.19 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 381.74 MB | Escritura: 153.68 MB | [C:\][Tipo: SSD] Lectura: 6336.75 MB | Escritura: 6098.00 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:10:00
+CPU Uso (por núcleo): CPU 1: 25.80% | CPU 2: 17.88% | CPU 3: 28.75% | CPU 4: 23.83% | CPU 5: 24.49% | CPU 6: 26.31% | CPU 7: 22.36% | CPU 8: 46.02%
+CPU Uso (promedio total): 26.93%
+Memoria total: 16221.05 MB, Memoria usada: 12849.55 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 2.87%) | [8588] metricas-bueno.exe (CPU: 1.78%) | [16052] TextInputHost.exe (CPU: 0.99%) | [7080] Code.exe (CPU: 0.34%) | [3512] FxSound.exe (CPU: 0.27%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3137.79 MB) | [13196] rust-analyzer.exe (Mem: 2143.38 MB) | [19756] Code.exe (Mem: 471.00 MB) | [18696] Code.exe (Mem: 433.41 MB) | [11024] explorer.exe (Mem: 384.19 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 381.74 MB | Escritura: 153.75 MB | [C:\][Tipo: SSD] Lectura: 6386.92 MB | Escritura: 6101.68 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:10:05
+CPU Uso (por núcleo): CPU 1: 28.33% | CPU 2: 23.19% | CPU 3: 35.30% | CPU 4: 24.13% | CPU 5: 30.45% | CPU 6: 36.04% | CPU 7: 30.13% | CPU 8: 45.51%
+CPU Uso (promedio total): 31.64%
+Memoria total: 16221.05 MB, Memoria usada: 12914.41 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 2.35%) | [19756] Code.exe (CPU: 1.46%) | [16052] TextInputHost.exe (CPU: 0.97%) | [8588] metricas-bueno.exe (CPU: 0.80%) | [17968] Code.exe (CPU: 0.31%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3137.64 MB) | [13196] rust-analyzer.exe (Mem: 2143.22 MB) | [19756] Code.exe (Mem: 444.86 MB) | [18696] Code.exe (Mem: 433.14 MB) | [11024] explorer.exe (Mem: 384.19 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 381.74 MB | Escritura: 154.15 MB | [C:\][Tipo: SSD] Lectura: 6422.03 MB | Escritura: 6102.03 MB
+Redes:
+Wi-Fi: 0.07 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:10:11
+CPU Uso (por núcleo): CPU 1: 35.91% | CPU 2: 29.09% | CPU 3: 39.77% | CPU 4: 25.67% | CPU 5: 41.68% | CPU 6: 33.66% | CPU 7: 38.77% | CPU 8: 51.98%
+CPU Uso (promedio total): 37.07%
+Memoria total: 16221.05 MB, Memoria usada: 12439.13 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 3.46%) | [7080] Code.exe (CPU: 1.12%) | [8588] metricas-bueno.exe (CPU: 0.78%) | [16052] TextInputHost.exe (CPU: 0.54%) | [17968] Code.exe (CPU: 0.34%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.91 MB) | [13196] rust-analyzer.exe (Mem: 2142.48 MB) | [19756] Code.exe (Mem: 439.03 MB) | [18696] Code.exe (Mem: 429.05 MB) | [11024] explorer.exe (Mem: 378.39 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 381.74 MB | Escritura: 154.25 MB | [C:\][Tipo: SSD] Lectura: 6439.73 MB | Escritura: 6164.78 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:10:17
+CPU Uso (por núcleo): CPU 1: 21.64% | CPU 2: 10.32% | CPU 3: 21.26% | CPU 4: 11.02% | CPU 5: 19.53% | CPU 6: 16.99% | CPU 7: 22.97% | CPU 8: 37.76%
+CPU Uso (promedio total): 20.19%
+Memoria total: 16221.05 MB, Memoria usada: 12403.32 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 3.98%) | [16052] TextInputHost.exe (CPU: 0.73%) | [8588] metricas-bueno.exe (CPU: 0.52%) | [3512] FxSound.exe (CPU: 0.31%) | [7080] Code.exe (CPU: 0.17%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.91 MB) | [13196] rust-analyzer.exe (Mem: 2142.48 MB) | [19756] Code.exe (Mem: 439.03 MB) | [18696] Code.exe (Mem: 428.53 MB) | [11024] explorer.exe (Mem: 378.23 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 381.74 MB | Escritura: 154.32 MB | [C:\][Tipo: SSD] Lectura: 6497.85 MB | Escritura: 6220.09 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:10:22
+CPU Uso (por núcleo): CPU 1: 36.49% | CPU 2: 10.33% | CPU 3: 29.57% | CPU 4: 10.15% | CPU 5: 22.00% | CPU 6: 12.23% | CPU 7: 57.68% | CPU 8: 22.85%
+CPU Uso (promedio total): 25.16%
+Memoria total: 16221.05 MB, Memoria usada: 12479.84 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 11.84%) | [16052] TextInputHost.exe (CPU: 0.38%) | [8588] metricas-bueno.exe (CPU: 0.35%) | [3512] FxSound.exe (CPU: 0.31%) | [17968] Code.exe (CPU: 0.21%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.91 MB) | [13196] rust-analyzer.exe (Mem: 2142.48 MB) | [19756] Code.exe (Mem: 439.03 MB) | [18696] Code.exe (Mem: 429.00 MB) | [11024] explorer.exe (Mem: 378.24 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 381.74 MB | Escritura: 154.48 MB | [C:\][Tipo: SSD] Lectura: 6832.85 MB | Escritura: 6221.62 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:10:28
+CPU Uso (por núcleo): CPU 1: 35.00% | CPU 2: 13.39% | CPU 3: 33.35% | CPU 4: 12.31% | CPU 5: 24.23% | CPU 6: 14.58% | CPU 7: 66.66% | CPU 8: 20.18%
+CPU Uso (promedio total): 27.46%
+Memoria total: 16221.05 MB, Memoria usada: 12719.08 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 14.57%) | [8588] metricas-bueno.exe (CPU: 0.48%) | [16052] TextInputHost.exe (CPU: 0.38%) | [7080] Code.exe (CPU: 0.24%) | [3512] FxSound.exe (CPU: 0.17%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.91 MB) | [13196] rust-analyzer.exe (Mem: 2142.48 MB) | [19756] Code.exe (Mem: 439.03 MB) | [18696] Code.exe (Mem: 428.55 MB) | [11024] explorer.exe (Mem: 374.75 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 381.74 MB | Escritura: 154.56 MB | [C:\][Tipo: SSD] Lectura: 7191.76 MB | Escritura: 6222.77 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:10:34
+CPU Uso (por núcleo): CPU 1: 22.40% | CPU 2: 42.95% | CPU 3: 29.15% | CPU 4: 8.09% | CPU 5: 19.08% | CPU 6: 9.39% | CPU 7: 34.24% | CPU 8: 20.29%
+CPU Uso (promedio total): 23.20%
+Memoria total: 16221.05 MB, Memoria usada: 12926.82 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 12.29%) | [8588] metricas-bueno.exe (CPU: 0.69%) | [16052] TextInputHost.exe (CPU: 0.48%) | [840] sihost.exe (CPU: 0.21%) | [17968] Code.exe (CPU: 0.17%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.91 MB) | [13196] rust-analyzer.exe (Mem: 2142.48 MB) | [19756] Code.exe (Mem: 439.02 MB) | [18696] Code.exe (Mem: 428.56 MB) | [11024] explorer.exe (Mem: 374.71 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 381.74 MB | Escritura: 154.64 MB | [C:\][Tipo: SSD] Lectura: 7644.54 MB | Escritura: 6227.73 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:10:39
+CPU Uso (por núcleo): CPU 1: 31.11% | CPU 2: 71.97% | CPU 3: 42.34% | CPU 4: 26.85% | CPU 5: 35.11% | CPU 6: 26.37% | CPU 7: 32.00% | CPU 8: 37.61%
+CPU Uso (promedio total): 37.92%
+Memoria total: 16221.05 MB, Memoria usada: 13097.29 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 13.63%) | [8588] metricas-bueno.exe (CPU: 1.10%) | [16052] TextInputHost.exe (CPU: 0.79%) | [840] sihost.exe (CPU: 0.45%) | [3512] FxSound.exe (CPU: 0.27%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.40 MB) | [19756] Code.exe (Mem: 439.01 MB) | [18696] Code.exe (Mem: 428.61 MB) | [11024] explorer.exe (Mem: 375.06 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 381.74 MB | Escritura: 154.79 MB | [C:\][Tipo: SSD] Lectura: 7668.47 MB | Escritura: 6282.37 MB
+Redes:
+Wi-Fi: 0.05 Mbps (down) / 0.02 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:10:45
+CPU Uso (por núcleo): CPU 1: 15.31% | CPU 2: 79.78% | CPU 3: 19.50% | CPU 4: 13.11% | CPU 5: 18.46% | CPU 6: 9.69% | CPU 7: 15.79% | CPU 8: 10.46%
+CPU Uso (promedio total): 22.76%
+Memoria total: 16221.05 MB, Memoria usada: 13028.70 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 11.46%) | [8588] metricas-bueno.exe (CPU: 0.93%) | [16052] TextInputHost.exe (CPU: 0.48%) | [840] sihost.exe (CPU: 0.42%) | [7080] Code.exe (CPU: 0.24%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.40 MB) | [19756] Code.exe (Mem: 439.01 MB) | [18696] Code.exe (Mem: 428.63 MB) | [11024] explorer.exe (Mem: 371.21 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 381.74 MB | Escritura: 154.88 MB | [C:\][Tipo: SSD] Lectura: 7671.13 MB | Escritura: 6282.84 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:10:51
+CPU Uso (por núcleo): CPU 1: 10.42% | CPU 2: 79.77% | CPU 3: 17.67% | CPU 4: 6.12% | CPU 5: 10.86% | CPU 6: 4.12% | CPU 7: 10.86% | CPU 8: 4.23%
+CPU Uso (promedio total): 18.01%
+Memoria total: 16221.05 MB, Memoria usada: 13022.76 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 11.63%) | [8588] metricas-bueno.exe (CPU: 0.98%) | [16052] TextInputHost.exe (CPU: 0.61%) | [7080] Code.exe (CPU: 0.44%) | [11024] explorer.exe (CPU: 0.37%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.40 MB) | [19756] Code.exe (Mem: 439.01 MB) | [18696] Code.exe (Mem: 428.71 MB) | [11024] explorer.exe (Mem: 372.32 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 381.74 MB | Escritura: 154.95 MB | [C:\][Tipo: SSD] Lectura: 7672.41 MB | Escritura: 6286.51 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:10:57
+CPU Uso (por núcleo): CPU 1: 10.78% | CPU 2: 78.21% | CPU 3: 15.18% | CPU 4: 7.23% | CPU 5: 10.45% | CPU 6: 5.31% | CPU 7: 10.00% | CPU 8: 5.79%
+CPU Uso (promedio total): 17.87%
+Memoria total: 16221.05 MB, Memoria usada: 13013.68 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 11.52%) | [8588] metricas-bueno.exe (CPU: 1.11%) | [16052] TextInputHost.exe (CPU: 0.37%) | [11024] explorer.exe (CPU: 0.24%) | [7080] Code.exe (CPU: 0.24%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.40 MB) | [19756] Code.exe (Mem: 439.01 MB) | [18696] Code.exe (Mem: 428.52 MB) | [11024] explorer.exe (Mem: 372.34 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 381.74 MB | Escritura: 155.11 MB | [C:\][Tipo: SSD] Lectura: 7672.98 MB | Escritura: 6286.79 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:11:02
+CPU Uso (por núcleo): CPU 1: 10.09% | CPU 2: 82.38% | CPU 3: 12.98% | CPU 4: 6.61% | CPU 5: 9.88% | CPU 6: 4.51% | CPU 7: 8.81% | CPU 8: 5.79%
+CPU Uso (promedio total): 17.63%
+Memoria total: 16221.05 MB, Memoria usada: 13001.17 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 11.45%) | [18696] Code.exe (CPU: 1.52%) | [8588] metricas-bueno.exe (CPU: 0.59%) | [17968] Code.exe (CPU: 0.24%) | [7080] Code.exe (CPU: 0.21%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.40 MB) | [19756] Code.exe (Mem: 438.74 MB) | [18696] Code.exe (Mem: 417.71 MB) | [11024] explorer.exe (Mem: 372.45 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.92 MB | Escritura: 155.20 MB | [C:\][Tipo: SSD] Lectura: 7729.18 MB | Escritura: 6292.36 MB
+Redes:
+Wi-Fi: 0.12 Mbps (down) / 0.03 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:11:08
+CPU Uso (por núcleo): CPU 1: 32.13% | CPU 2: 83.86% | CPU 3: 37.24% | CPU 4: 30.44% | CPU 5: 34.80% | CPU 6: 28.40% | CPU 7: 31.72% | CPU 8: 29.47%
+CPU Uso (promedio total): 38.51%
+Memoria total: 16221.05 MB, Memoria usada: 13082.45 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 11.29%) | [840] sihost.exe (CPU: 4.31%) | [8588] metricas-bueno.exe (CPU: 0.86%) | [7080] Code.exe (CPU: 0.69%) | [16052] TextInputHost.exe (CPU: 0.59%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.40 MB) | [19756] Code.exe (Mem: 438.74 MB) | [18696] Code.exe (Mem: 417.93 MB) | [11024] explorer.exe (Mem: 372.48 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.98 MB | Escritura: 155.27 MB | [C:\][Tipo: SSD] Lectura: 7729.43 MB | Escritura: 6301.48 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:11:14
+CPU Uso (por núcleo): CPU 1: 11.00% | CPU 2: 61.22% | CPU 3: 17.07% | CPU 4: 25.95% | CPU 5: 12.67% | CPU 6: 4.93% | CPU 7: 11.93% | CPU 8: 6.07%
+CPU Uso (promedio total): 18.85%
+Memoria total: 16221.05 MB, Memoria usada: 13017.81 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 13.42%) | [8588] metricas-bueno.exe (CPU: 1.11%) | [16052] TextInputHost.exe (CPU: 0.66%) | [3512] FxSound.exe (CPU: 0.42%) | [7080] Code.exe (CPU: 0.31%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.40 MB) | [19756] Code.exe (Mem: 438.74 MB) | [18696] Code.exe (Mem: 418.21 MB) | [11024] explorer.exe (Mem: 372.07 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.98 MB | Escritura: 155.42 MB | [C:\][Tipo: SSD] Lectura: 7729.65 MB | Escritura: 6302.27 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:11:19
+CPU Uso (por núcleo): CPU 1: 19.23% | CPU 2: 10.18% | CPU 3: 15.62% | CPU 4: 77.23% | CPU 5: 21.78% | CPU 6: 13.14% | CPU 7: 16.83% | CPU 8: 10.70%
+CPU Uso (promedio total): 23.09%
+Memoria total: 16221.05 MB, Memoria usada: 13020.61 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 15.80%) | [8588] metricas-bueno.exe (CPU: 0.76%) | [7080] Code.exe (CPU: 0.21%) | [11272] ShellExperienceHost.exe (CPU: 0.17%) | [16052] TextInputHost.exe (CPU: 0.17%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.40 MB) | [19756] Code.exe (Mem: 438.74 MB) | [18696] Code.exe (Mem: 418.35 MB) | [11024] explorer.exe (Mem: 372.08 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.98 MB | Escritura: 155.51 MB | [C:\][Tipo: SSD] Lectura: 7729.96 MB | Escritura: 6303.21 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:11:25
+CPU Uso (por núcleo): CPU 1: 13.12% | CPU 2: 5.38% | CPU 3: 13.98% | CPU 4: 15.98% | CPU 5: 10.53% | CPU 6: 5.09% | CPU 7: 7.76% | CPU 8: 70.51%
+CPU Uso (promedio total): 17.79%
+Memoria total: 16221.05 MB, Memoria usada: 13013.09 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 11.09%) | [7080] Code.exe (CPU: 0.90%) | [8588] metricas-bueno.exe (CPU: 0.45%) | [2412] backgroundTaskHost.exe (CPU: 0.34%) | [16052] TextInputHost.exe (CPU: 0.31%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.40 MB) | [19756] Code.exe (Mem: 438.60 MB) | [18696] Code.exe (Mem: 417.77 MB) | [11024] explorer.exe (Mem: 372.08 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.98 MB | Escritura: 155.58 MB | [C:\][Tipo: SSD] Lectura: 7730.14 MB | Escritura: 6303.60 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:11:38
+CPU Uso (por núcleo): CPU 1: 10.91% | CPU 2: 3.31% | CPU 3: 10.22% | CPU 4: 4.83% | CPU 5: 8.82% | CPU 6: 4.63% | CPU 7: 5.90% | CPU 8: 86.95%
+CPU Uso (promedio total): 16.95%
+Memoria total: 16221.05 MB, Memoria usada: 13001.55 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 11.61%) | [16052] TextInputHost.exe (CPU: 1.35%) | [8588] metricas-bueno.exe (CPU: 0.90%) | [7080] Code.exe (CPU: 0.35%) | [17968] Code.exe (CPU: 0.28%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.40 MB) | [19756] Code.exe (Mem: 438.60 MB) | [18696] Code.exe (Mem: 417.73 MB) | [11024] explorer.exe (Mem: 372.10 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 155.75 MB | [C:\][Tipo: SSD] Lectura: 7899.93 MB | Escritura: 6343.31 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:11:44
+CPU Uso (por núcleo): CPU 1: 43.01% | CPU 2: 26.37% | CPU 3: 41.23% | CPU 4: 27.43% | CPU 5: 35.96% | CPU 6: 26.15% | CPU 7: 33.81% | CPU 8: 66.68%
+CPU Uso (promedio total): 37.58%
+Memoria total: 16221.05 MB, Memoria usada: 13166.94 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 13.20%) | [11024] explorer.exe (CPU: 1.09%) | [8588] metricas-bueno.exe (CPU: 0.84%) | [16052] TextInputHost.exe (CPU: 0.49%) | [7080] Code.exe (CPU: 0.18%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.40 MB) | [19756] Code.exe (Mem: 438.63 MB) | [18696] Code.exe (Mem: 417.77 MB) | [11024] explorer.exe (Mem: 375.72 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 155.82 MB | [C:\][Tipo: SSD] Lectura: 7901.35 MB | Escritura: 6347.34 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:11:49
+CPU Uso (por núcleo): CPU 1: 17.66% | CPU 2: 10.31% | CPU 3: 19.53% | CPU 4: 11.63% | CPU 5: 72.34% | CPU 6: 21.91% | CPU 7: 50.89% | CPU 8: 20.35%
+CPU Uso (promedio total): 28.08%
+Memoria total: 16221.05 MB, Memoria usada: 13283.10 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 20.49%) | [19756] Code.exe (CPU: 1.49%) | [8588] metricas-bueno.exe (CPU: 1.04%) | [16052] TextInputHost.exe (CPU: 0.31%) | [17968] Code.exe (CPU: 0.28%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.40 MB) | [19756] Code.exe (Mem: 439.25 MB) | [18696] Code.exe (Mem: 417.85 MB) | [11024] explorer.exe (Mem: 375.73 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 156.00 MB | [C:\][Tipo: SSD] Lectura: 7903.07 MB | Escritura: 6349.01 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:11:55
+CPU Uso (por núcleo): CPU 1: 21.12% | CPU 2: 8.84% | CPU 3: 18.33% | CPU 4: 15.40% | CPU 5: 76.73% | CPU 6: 19.03% | CPU 7: 45.08% | CPU 8: 11.86%
+CPU Uso (promedio total): 27.05%
+Memoria total: 16221.05 MB, Memoria usada: 13395.80 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 20.58%) | [8588] metricas-bueno.exe (CPU: 0.58%) | [7080] Code.exe (CPU: 0.51%) | [16052] TextInputHost.exe (CPU: 0.38%) | [17968] Code.exe (CPU: 0.31%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.40 MB) | [19756] Code.exe (Mem: 438.22 MB) | [18696] Code.exe (Mem: 417.96 MB) | [11024] explorer.exe (Mem: 375.75 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 156.06 MB | [C:\][Tipo: SSD] Lectura: 7903.32 MB | Escritura: 6349.81 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:12:01
+CPU Uso (por núcleo): CPU 1: 15.04% | CPU 2: 6.84% | CPU 3: 11.34% | CPU 4: 7.85% | CPU 5: 78.80% | CPU 6: 15.45% | CPU 7: 46.60% | CPU 8: 20.60%
+CPU Uso (promedio total): 25.31%
+Memoria total: 16221.05 MB, Memoria usada: 13519.38 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 21.18%) | [16052] TextInputHost.exe (CPU: 0.83%) | [8588] metricas-bueno.exe (CPU: 0.69%) | [3512] FxSound.exe (CPU: 0.34%) | [1628] lghub_agent.exe (CPU: 0.21%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.79 MB) | [13196] rust-analyzer.exe (Mem: 2142.36 MB) | [17132] Actividad_5.exe (Mem: 455.23 MB) | [19756] Code.exe (Mem: 438.22 MB) | [18696] Code.exe (Mem: 418.25 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 156.20 MB | [C:\][Tipo: SSD] Lectura: 7904.41 MB | Escritura: 6350.71 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:12:06
+CPU Uso (por núcleo): CPU 1: 21.82% | CPU 2: 14.47% | CPU 3: 25.63% | CPU 4: 18.01% | CPU 5: 79.25% | CPU 6: 16.68% | CPU 7: 24.87% | CPU 8: 28.11%
+CPU Uso (promedio total): 28.60%
+Memoria total: 16221.05 MB, Memoria usada: 13632.68 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 21.94%) | [8588] metricas-bueno.exe (CPU: 0.90%) | [16052] TextInputHost.exe (CPU: 0.55%) | [17464] Code.exe (CPU: 0.55%) | [7080] Code.exe (CPU: 0.45%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.79 MB) | [13196] rust-analyzer.exe (Mem: 2142.36 MB) | [17132] Actividad_5.exe (Mem: 586.40 MB) | [19756] Code.exe (Mem: 438.19 MB) | [18696] Code.exe (Mem: 417.82 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 156.29 MB | [C:\][Tipo: SSD] Lectura: 7904.59 MB | Escritura: 6351.01 MB
+Redes:
+Wi-Fi: 0.09 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:12:12
+CPU Uso (por núcleo): CPU 1: 21.82% | CPU 2: 16.68% | CPU 3: 23.12% | CPU 4: 15.69% | CPU 5: 76.46% | CPU 6: 20.21% | CPU 7: 49.80% | CPU 8: 22.31%
+CPU Uso (promedio total): 30.76%
+Memoria total: 16221.05 MB, Memoria usada: 13756.39 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 21.74%) | [19520] Code.exe (CPU: 1.28%) | [8588] metricas-bueno.exe (CPU: 1.01%) | [11024] explorer.exe (CPU: 0.94%) | [16052] TextInputHost.exe (CPU: 0.90%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.79 MB) | [13196] rust-analyzer.exe (Mem: 2142.36 MB) | [17132] Actividad_5.exe (Mem: 714.61 MB) | [19756] Code.exe (Mem: 438.19 MB) | [18696] Code.exe (Mem: 417.97 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 156.37 MB | [C:\][Tipo: SSD] Lectura: 7904.77 MB | Escritura: 6351.19 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:12:18
+CPU Uso (por núcleo): CPU 1: 14.89% | CPU 2: 10.03% | CPU 3: 15.75% | CPU 4: 10.82% | CPU 5: 80.32% | CPU 6: 13.37% | CPU 7: 36.21% | CPU 8: 33.43%
+CPU Uso (promedio total): 26.85%
+Memoria total: 16221.05 MB, Memoria usada: 13884.43 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 20.87%) | [8588] metricas-bueno.exe (CPU: 0.52%) | [16052] TextInputHost.exe (CPU: 0.31%) | [7080] Code.exe (CPU: 0.31%) | [11272] ShellExperienceHost.exe (CPU: 0.21%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.85 MB) | [13196] rust-analyzer.exe (Mem: 2142.36 MB) | [17132] Actividad_5.exe (Mem: 845.79 MB) | [19756] Code.exe (Mem: 438.23 MB) | [18696] Code.exe (Mem: 418.11 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 156.57 MB | [C:\][Tipo: SSD] Lectura: 7904.80 MB | Escritura: 6355.73 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:12:23
+CPU Uso (por núcleo): CPU 1: 19.62% | CPU 2: 12.85% | CPU 3: 15.92% | CPU 4: 13.78% | CPU 5: 77.13% | CPU 6: 17.34% | CPU 7: 36.92% | CPU 8: 28.48%
+CPU Uso (promedio total): 27.75%
+Memoria total: 16221.05 MB, Memoria usada: 13971.22 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 21.12%) | [8588] metricas-bueno.exe (CPU: 0.69%) | [7080] Code.exe (CPU: 0.48%) | [16052] TextInputHost.exe (CPU: 0.42%) | [17464] Code.exe (CPU: 0.35%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.34 MB) | [17132] Actividad_5.exe (Mem: 975.84 MB) | [19756] Code.exe (Mem: 438.28 MB) | [18696] Code.exe (Mem: 417.93 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 156.66 MB | [C:\][Tipo: SSD] Lectura: 7904.97 MB | Escritura: 6373.91 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:12:29
+CPU Uso (por núcleo): CPU 1: 19.78% | CPU 2: 15.71% | CPU 3: 18.65% | CPU 4: 13.87% | CPU 5: 78.46% | CPU 6: 16.78% | CPU 7: 36.15% | CPU 8: 15.51%
+CPU Uso (promedio total): 26.86%
+Memoria total: 16221.05 MB, Memoria usada: 14099.75 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 21.11%) | [8588] metricas-bueno.exe (CPU: 0.86%) | [7080] Code.exe (CPU: 0.83%) | [16052] TextInputHost.exe (CPU: 0.62%) | [3512] FxSound.exe (CPU: 0.28%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.34 MB) | [17132] Actividad_5.exe (Mem: 1109.23 MB) | [19756] Code.exe (Mem: 438.28 MB) | [18696] Code.exe (Mem: 418.06 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 156.73 MB | [C:\][Tipo: SSD] Lectura: 7905.35 MB | Escritura: 6375.05 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:12:35
+CPU Uso (por núcleo): CPU 1: 15.96% | CPU 2: 7.48% | CPU 3: 12.29% | CPU 4: 11.11% | CPU 5: 76.68% | CPU 6: 17.17% | CPU 7: 28.38% | CPU 8: 28.87%
+CPU Uso (promedio total): 24.74%
+Memoria total: 16221.05 MB, Memoria usada: 14222.62 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 21.15%) | [8588] metricas-bueno.exe (CPU: 0.56%) | [16052] TextInputHost.exe (CPU: 0.52%) | [3512] FxSound.exe (CPU: 0.24%) | [17968] Code.exe (CPU: 0.17%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.41 MB) | [17132] Actividad_5.exe (Mem: 1243.15 MB) | [19756] Code.exe (Mem: 438.28 MB) | [18696] Code.exe (Mem: 418.14 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 156.91 MB | [C:\][Tipo: SSD] Lectura: 7905.63 MB | Escritura: 6381.03 MB
+Redes:
+Wi-Fi: 0.03 Mbps (down) / 0.02 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:12:40
+CPU Uso (por núcleo): CPU 1: 21.35% | CPU 2: 8.78% | CPU 3: 12.17% | CPU 4: 15.14% | CPU 5: 78.04% | CPU 6: 17.75% | CPU 7: 40.97% | CPU 8: 19.02%
+CPU Uso (promedio total): 26.65%
+Memoria total: 16221.05 MB, Memoria usada: 14318.70 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 20.75%) | [8588] metricas-bueno.exe (CPU: 0.86%) | [16052] TextInputHost.exe (CPU: 0.69%) | [11272] ShellExperienceHost.exe (CPU: 0.21%) | [7080] Code.exe (CPU: 0.17%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.41 MB) | [17132] Actividad_5.exe (Mem: 1376.00 MB) | [19756] Code.exe (Mem: 438.34 MB) | [18696] Code.exe (Mem: 418.19 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 157.00 MB | [C:\][Tipo: SSD] Lectura: 7906.10 MB | Escritura: 6381.96 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:12:46
+CPU Uso (por núcleo): CPU 1: 22.93% | CPU 2: 6.80% | CPU 3: 13.45% | CPU 4: 9.69% | CPU 5: 79.25% | CPU 6: 13.78% | CPU 7: 38.27% | CPU 8: 17.43%
+CPU Uso (promedio total): 25.20%
+Memoria total: 16221.05 MB, Memoria usada: 14253.82 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 20.50%) | [8588] metricas-bueno.exe (CPU: 0.73%) | [16052] TextInputHost.exe (CPU: 0.52%) | [9708] nvcontainer.exe (CPU: 0.17%) | [1628] lghub_agent.exe (CPU: 0.14%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.41 MB) | [17132] Actividad_5.exe (Mem: 1508.06 MB) | [19756] Code.exe (Mem: 438.30 MB) | [18696] Code.exe (Mem: 418.41 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 157.08 MB | [C:\][Tipo: SSD] Lectura: 7907.05 MB | Escritura: 6382.29 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:12:52
+CPU Uso (por núcleo): CPU 1: 20.73% | CPU 2: 11.53% | CPU 3: 20.99% | CPU 4: 9.29% | CPU 5: 76.18% | CPU 6: 19.84% | CPU 7: 33.33% | CPU 8: 22.41%
+CPU Uso (promedio total): 26.79%
+Memoria total: 16221.05 MB, Memoria usada: 14391.84 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 20.87%) | [16052] TextInputHost.exe (CPU: 0.86%) | [8588] metricas-bueno.exe (CPU: 0.79%) | [3512] FxSound.exe (CPU: 0.17%) | [1628] lghub_agent.exe (CPU: 0.17%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.83 MB) | [13196] rust-analyzer.exe (Mem: 2142.41 MB) | [17132] Actividad_5.exe (Mem: 1641.87 MB) | [19756] Code.exe (Mem: 438.30 MB) | [18696] Code.exe (Mem: 418.45 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 157.36 MB | [C:\][Tipo: SSD] Lectura: 7907.05 MB | Escritura: 6382.70 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:12:57
+CPU Uso (por núcleo): CPU 1: 16.17% | CPU 2: 6.54% | CPU 3: 11.11% | CPU 4: 7.92% | CPU 5: 81.72% | CPU 6: 11.10% | CPU 7: 47.78% | CPU 8: 14.86%
+CPU Uso (promedio total): 24.65%
+Memoria total: 16221.05 MB, Memoria usada: 14509.23 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 20.99%) | [8588] metricas-bueno.exe (CPU: 0.69%) | [16052] TextInputHost.exe (CPU: 0.62%) | [1628] lghub_agent.exe (CPU: 0.17%) | [3512] FxSound.exe (CPU: 0.10%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.82 MB) | [13196] rust-analyzer.exe (Mem: 2142.40 MB) | [17132] Actividad_5.exe (Mem: 1776.10 MB) | [19756] Code.exe (Mem: 438.30 MB) | [18696] Code.exe (Mem: 418.78 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 157.45 MB | [C:\][Tipo: SSD] Lectura: 7907.11 MB | Escritura: 6387.33 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:13:03
+CPU Uso (por núcleo): CPU 1: 18.57% | CPU 2: 9.00% | CPU 3: 15.09% | CPU 4: 7.62% | CPU 5: 71.01% | CPU 6: 21.49% | CPU 7: 36.98% | CPU 8: 31.17%
+CPU Uso (promedio total): 26.37%
+Memoria total: 16221.05 MB, Memoria usada: 14634.48 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 20.96%) | [8588] metricas-bueno.exe (CPU: 1.14%) | [16052] TextInputHost.exe (CPU: 1.14%) | [1628] lghub_agent.exe (CPU: 0.24%) | [11272] ShellExperienceHost.exe (CPU: 0.17%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.82 MB) | [13196] rust-analyzer.exe (Mem: 2142.40 MB) | [17132] Actividad_5.exe (Mem: 1906.15 MB) | [19756] Code.exe (Mem: 438.30 MB) | [18696] Code.exe (Mem: 418.57 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 157.53 MB | [C:\][Tipo: SSD] Lectura: 7907.11 MB | Escritura: 6399.15 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:13:08
+CPU Uso (por núcleo): CPU 1: 14.67% | CPU 2: 7.16% | CPU 3: 16.22% | CPU 4: 15.25% | CPU 5: 81.09% | CPU 6: 10.68% | CPU 7: 43.64% | CPU 8: 15.71%
+CPU Uso (promedio total): 25.55%
+Memoria total: 16221.05 MB, Memoria usada: 14753.25 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 20.88%) | [8588] metricas-bueno.exe (CPU: 0.97%) | [16052] TextInputHost.exe (CPU: 0.38%) | [7080] Code.exe (CPU: 0.28%) | [3512] FxSound.exe (CPU: 0.14%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.82 MB) | [13196] rust-analyzer.exe (Mem: 2142.40 MB) | [17132] Actividad_5.exe (Mem: 2038.14 MB) | [19756] Code.exe (Mem: 438.37 MB) | [18696] Code.exe (Mem: 418.89 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 157.86 MB | [C:\][Tipo: SSD] Lectura: 7907.23 MB | Escritura: 6405.13 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:13:14
+CPU Uso (por núcleo): CPU 1: 15.91% | CPU 2: 9.48% | CPU 3: 14.11% | CPU 4: 6.90% | CPU 5: 78.79% | CPU 6: 14.26% | CPU 7: 45.82% | CPU 8: 21.57%
+CPU Uso (promedio total): 25.85%
+Memoria total: 16221.05 MB, Memoria usada: 14884.97 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 20.79%) | [8588] metricas-bueno.exe (CPU: 0.66%) | [11272] ShellExperienceHost.exe (CPU: 0.21%) | [16052] TextInputHost.exe (CPU: 0.21%) | [11024] explorer.exe (CPU: 0.17%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.82 MB) | [17132] Actividad_5.exe (Mem: 2171.72 MB) | [13196] rust-analyzer.exe (Mem: 2142.40 MB) | [19756] Code.exe (Mem: 438.34 MB) | [18696] Code.exe (Mem: 418.79 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 157.95 MB | [C:\][Tipo: SSD] Lectura: 7908.35 MB | Escritura: 6425.13 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:13:20
+CPU Uso (por núcleo): CPU 1: 15.39% | CPU 2: 10.41% | CPU 3: 11.26% | CPU 4: 8.84% | CPU 5: 81.77% | CPU 6: 11.17% | CPU 7: 48.04% | CPU 8: 15.80%
+CPU Uso (promedio total): 25.34%
+Memoria total: 16221.05 MB, Memoria usada: 14978.02 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 20.82%) | [8588] metricas-bueno.exe (CPU: 1.14%) | [16052] TextInputHost.exe (CPU: 0.42%) | [1628] lghub_agent.exe (CPU: 0.14%) | [11024] explorer.exe (CPU: 0.10%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.82 MB) | [17132] Actividad_5.exe (Mem: 2305.49 MB) | [13196] rust-analyzer.exe (Mem: 2142.39 MB) | [19756] Code.exe (Mem: 438.34 MB) | [18696] Code.exe (Mem: 418.97 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 158.02 MB | [C:\][Tipo: SSD] Lectura: 7908.46 MB | Escritura: 6439.11 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:13:25
+CPU Uso (por núcleo): CPU 1: 21.82% | CPU 2: 8.47% | CPU 3: 18.51% | CPU 4: 9.01% | CPU 5: 73.71% | CPU 6: 24.02% | CPU 7: 45.17% | CPU 8: 15.71%
+CPU Uso (promedio total): 27.05%
+Memoria total: 16221.05 MB, Memoria usada: 15075.86 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 20.96%) | [8588] metricas-bueno.exe (CPU: 0.76%) | [16052] TextInputHost.exe (CPU: 0.52%) | [7080] Code.exe (CPU: 0.28%) | [17968] Code.exe (CPU: 0.21%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.82 MB) | [17132] Actividad_5.exe (Mem: 2436.30 MB) | [13196] rust-analyzer.exe (Mem: 2142.39 MB) | [19756] Code.exe (Mem: 438.34 MB) | [18696] Code.exe (Mem: 419.04 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 386.99 MB | Escritura: 158.18 MB | [C:\][Tipo: SSD] Lectura: 7908.82 MB | Escritura: 6446.15 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:13:31
+CPU Uso (por núcleo): CPU 1: 14.39% | CPU 2: 8.08% | CPU 3: 12.94% | CPU 4: 9.88% | CPU 5: 84.02% | CPU 6: 10.13% | CPU 7: 36.20% | CPU 8: 28.43%
+CPU Uso (promedio total): 25.51%
+Memoria total: 16221.05 MB, Memoria usada: 15176.38 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 20.61%) | [8588] metricas-bueno.exe (CPU: 0.73%) | [16052] TextInputHost.exe (CPU: 0.35%) | [3512] FxSound.exe (CPU: 0.28%) | [19780] lghub_system_tray.exe (CPU: 0.14%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.82 MB) | [17132] Actividad_5.exe (Mem: 2568.25 MB) | [13196] rust-analyzer.exe (Mem: 2142.39 MB) | [19756] Code.exe (Mem: 438.34 MB) | [18696] Code.exe (Mem: 419.10 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 387.00 MB | Escritura: 158.57 MB | [C:\][Tipo: SSD] Lectura: 7911.06 MB | Escritura: 6448.46 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:13:37
+CPU Uso (por núcleo): CPU 1: 21.51% | CPU 2: 9.49% | CPU 3: 15.39% | CPU 4: 15.86% | CPU 5: 73.74% | CPU 6: 19.92% | CPU 7: 43.80% | CPU 8: 18.23%
+CPU Uso (promedio total): 27.24%
+Memoria total: 16221.05 MB, Memoria usada: 15251.79 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 20.70%) | [8588] metricas-bueno.exe (CPU: 0.79%) | [16052] TextInputHost.exe (CPU: 0.24%) | [3512] FxSound.exe (CPU: 0.21%) | [11024] explorer.exe (CPU: 0.14%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.82 MB) | [17132] Actividad_5.exe (Mem: 2699.43 MB) | [13196] rust-analyzer.exe (Mem: 2142.39 MB) | [19756] Code.exe (Mem: 438.35 MB) | [18696] Code.exe (Mem: 419.17 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 387.00 MB | Escritura: 159.71 MB | [C:\][Tipo: SSD] Lectura: 7912.46 MB | Escritura: 6450.29 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:13:42
+CPU Uso (por núcleo): CPU 1: 23.78% | CPU 2: 10.58% | CPU 3: 14.79% | CPU 4: 9.36% | CPU 5: 77.50% | CPU 6: 15.00% | CPU 7: 40.89% | CPU 8: 16.91%
+CPU Uso (promedio total): 26.10%
+Memoria total: 16221.05 MB, Memoria usada: 15331.95 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 21.22%) | [8588] metricas-bueno.exe (CPU: 0.63%) | [16052] TextInputHost.exe (CPU: 0.38%) | [9708] nvcontainer.exe (CPU: 0.17%) | [3512] FxSound.exe (CPU: 0.10%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.82 MB) | [17132] Actividad_5.exe (Mem: 2830.52 MB) | [13196] rust-analyzer.exe (Mem: 2142.39 MB) | [19756] Code.exe (Mem: 438.35 MB) | [18696] Code.exe (Mem: 419.22 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 387.00 MB | Escritura: 160.54 MB | [C:\][Tipo: SSD] Lectura: 7912.69 MB | Escritura: 6455.22 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:13:48
+CPU Uso (por núcleo): CPU 1: 17.87% | CPU 2: 6.76% | CPU 3: 15.22% | CPU 4: 7.67% | CPU 5: 78.75% | CPU 6: 17.86% | CPU 7: 46.21% | CPU 8: 28.05%
+CPU Uso (promedio total): 27.30%
+Memoria total: 16221.05 MB, Memoria usada: 15408.07 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 20.68%) | [7080] Code.exe (CPU: 0.83%) | [8588] metricas-bueno.exe (CPU: 0.80%) | [16052] TextInputHost.exe (CPU: 0.49%) | [3512] FxSound.exe (CPU: 0.21%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.81 MB) | [17132] Actividad_5.exe (Mem: 2960.27 MB) | [13196] rust-analyzer.exe (Mem: 2142.39 MB) | [19756] Code.exe (Mem: 438.35 MB) | [18696] Code.exe (Mem: 419.34 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 387.00 MB | Escritura: 161.04 MB | [C:\][Tipo: SSD] Lectura: 7913.24 MB | Escritura: 6456.12 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:13:54
+CPU Uso (por núcleo): CPU 1: 26.75% | CPU 2: 15.63% | CPU 3: 31.67% | CPU 4: 22.09% | CPU 5: 76.17% | CPU 6: 20.30% | CPU 7: 34.83% | CPU 8: 24.30%
+CPU Uso (promedio total): 31.47%
+Memoria total: 16221.05 MB, Memoria usada: 15505.00 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 22.84%) | [8588] metricas-bueno.exe (CPU: 1.32%) | [16052] TextInputHost.exe (CPU: 0.73%) | [17464] Code.exe (CPU: 0.49%) | [7080] Code.exe (CPU: 0.35%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.81 MB) | [17132] Actividad_5.exe (Mem: 3088.10 MB) | [13196] rust-analyzer.exe (Mem: 2142.39 MB) | [19756] Code.exe (Mem: 438.35 MB) | [18696] Code.exe (Mem: 419.60 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 387.52 MB | Escritura: 161.34 MB | [C:\][Tipo: SSD] Lectura: 7913.48 MB | Escritura: 6456.56 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:13:59
+CPU Uso (por núcleo): CPU 1: 24.37% | CPU 2: 12.77% | CPU 3: 14.81% | CPU 4: 11.38% | CPU 5: 75.72% | CPU 6: 18.31% | CPU 7: 42.69% | CPU 8: 18.62%
+CPU Uso (promedio total): 27.33%
+Memoria total: 16221.05 MB, Memoria usada: 15642.98 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 21.57%) | [8588] metricas-bueno.exe (CPU: 0.83%) | [16052] TextInputHost.exe (CPU: 0.60%) | [7080] Code.exe (CPU: 0.20%) | [3512] FxSound.exe (CPU: 0.17%)
+Procesos más demandantes de RAM:
+[17132] Actividad_5.exe (Mem: 3224.26 MB) | [19592] rust-analyzer.exe (Mem: 3136.80 MB) | [13196] rust-analyzer.exe (Mem: 2142.39 MB) | [19756] Code.exe (Mem: 438.35 MB) | [18696] Code.exe (Mem: 419.85 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 387.52 MB | Escritura: 161.51 MB | [C:\][Tipo: SSD] Lectura: 7914.00 MB | Escritura: 6457.62 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:14:05
+CPU Uso (por núcleo): CPU 1: 15.74% | CPU 2: 9.12% | CPU 3: 11.92% | CPU 4: 6.46% | CPU 5: 78.07% | CPU 6: 14.68% | CPU 7: 33.46% | CPU 8: 30.85%
+CPU Uso (promedio total): 25.04%
+Memoria total: 16221.05 MB, Memoria usada: 15775.82 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 20.99%) | [8588] metricas-bueno.exe (CPU: 0.73%) | [16052] TextInputHost.exe (CPU: 0.55%) | [7080] Code.exe (CPU: 0.24%) | [11024] explorer.exe (CPU: 0.14%)
+Procesos más demandantes de RAM:
+[17132] Actividad_5.exe (Mem: 3356.62 MB) | [19592] rust-analyzer.exe (Mem: 3136.80 MB) | [13196] rust-analyzer.exe (Mem: 2142.39 MB) | [19756] Code.exe (Mem: 438.42 MB) | [18696] Code.exe (Mem: 419.67 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 387.52 MB | Escritura: 161.58 MB | [C:\][Tipo: SSD] Lectura: 7916.18 MB | Escritura: 6475.58 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:14:11
+CPU Uso (por núcleo): CPU 1: 19.94% | CPU 2: 11.63% | CPU 3: 21.00% | CPU 4: 14.19% | CPU 5: 77.99% | CPU 6: 18.38% | CPU 7: 37.82% | CPU 8: 21.42%
+CPU Uso (promedio total): 27.80%
+Memoria total: 16221.05 MB, Memoria usada: 15601.51 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 20.85%) | [8588] metricas-bueno.exe (CPU: 0.59%) | [16052] TextInputHost.exe (CPU: 0.24%) | [11272] ShellExperienceHost.exe (CPU: 0.17%) | [3512] FxSound.exe (CPU: 0.14%)
+Procesos más demandantes de RAM:
+[17132] Actividad_5.exe (Mem: 3486.62 MB) | [19592] rust-analyzer.exe (Mem: 3136.77 MB) | [13196] rust-analyzer.exe (Mem: 2142.39 MB) | [19756] Code.exe (Mem: 414.66 MB) | [18696] Code.exe (Mem: 400.54 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 387.52 MB | Escritura: 161.64 MB | [C:\][Tipo: SSD] Lectura: 7918.60 MB | Escritura: 6550.18 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:14:17
+CPU Uso (por núcleo): CPU 1: 14.51% | CPU 2: 10.83% | CPU 3: 13.74% | CPU 4: 14.44% | CPU 5: 83.72% | CPU 6: 8.81% | CPU 7: 33.77% | CPU 8: 21.82%
+CPU Uso (promedio total): 25.21%
+Memoria total: 16221.05 MB, Memoria usada: 15723.77 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 20.69%) | [16052] TextInputHost.exe (CPU: 0.77%) | [8588] metricas-bueno.exe (CPU: 0.67%) | [3512] FxSound.exe (CPU: 0.23%) | [1628] lghub_agent.exe (CPU: 0.20%)
+Procesos más demandantes de RAM:
+[17132] Actividad_5.exe (Mem: 3626.45 MB) | [19592] rust-analyzer.exe (Mem: 3136.77 MB) | [13196] rust-analyzer.exe (Mem: 2142.38 MB) | [19756] Code.exe (Mem: 414.66 MB) | [18696] Code.exe (Mem: 400.71 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 387.52 MB | Escritura: 162.02 MB | [C:\][Tipo: SSD] Lectura: 7919.72 MB | Escritura: 6550.33 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:14:22
+CPU Uso (por núcleo): CPU 1: 16.24% | CPU 2: 17.01% | CPU 3: 19.82% | CPU 4: 18.53% | CPU 5: 61.46% | CPU 6: 10.81% | CPU 7: 32.85% | CPU 8: 18.78%
+CPU Uso (promedio total): 24.44%
+Memoria total: 16221.05 MB, Memoria usada: 12170.91 MB
+Procesos más demandantes de CPU:
+[17132] Actividad_5.exe (CPU: 13.44%) | [16052] TextInputHost.exe (CPU: 1.16%) | [8588] metricas-bueno.exe (CPU: 0.99%) | [1628] lghub_agent.exe (CPU: 0.34%) | [3512] FxSound.exe (CPU: 0.24%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.77 MB) | [13196] rust-analyzer.exe (Mem: 2142.38 MB) | [19756] Code.exe (Mem: 414.62 MB) | [18696] Code.exe (Mem: 401.46 MB) | [11024] explorer.exe (Mem: 375.23 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 387.52 MB | Escritura: 162.10 MB | [C:\][Tipo: SSD] Lectura: 7919.87 MB | Escritura: 6550.48 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:14:28
+CPU Uso (por núcleo): CPU 1: 18.89% | CPU 2: 4.22% | CPU 3: 19.93% | CPU 4: 5.52% | CPU 5: 12.76% | CPU 6: 4.81% | CPU 7: 10.89% | CPU 8: 3.74%
+CPU Uso (promedio total): 10.10%
+Memoria total: 16221.05 MB, Memoria usada: 12168.87 MB
+Procesos más demandantes de CPU:
+[8588] metricas-bueno.exe (CPU: 1.71%) | [16052] TextInputHost.exe (CPU: 1.23%) | [3512] FxSound.exe (CPU: 0.51%) | [1628] lghub_agent.exe (CPU: 0.38%) | [3648] Code.exe (CPU: 0.27%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.77 MB) | [13196] rust-analyzer.exe (Mem: 2142.38 MB) | [19756] Code.exe (Mem: 414.61 MB) | [18696] Code.exe (Mem: 401.04 MB) | [11024] explorer.exe (Mem: 375.23 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 387.52 MB | Escritura: 162.18 MB | [C:\][Tipo: SSD] Lectura: 7919.87 MB | Escritura: 6550.48 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:14:34
+CPU Uso (por núcleo): CPU 1: 18.83% | CPU 2: 5.93% | CPU 3: 18.51% | CPU 4: 7.62% | CPU 5: 14.36% | CPU 6: 6.55% | CPU 7: 12.56% | CPU 8: 4.27%
+CPU Uso (promedio total): 11.08%
+Memoria total: 16221.05 MB, Memoria usada: 12161.34 MB
+Procesos más demandantes de CPU:
+[8588] metricas-bueno.exe (CPU: 2.01%) | [16052] TextInputHost.exe (CPU: 1.40%) | [1628] lghub_agent.exe (CPU: 0.65%) | [3512] FxSound.exe (CPU: 0.48%) | [11024] explorer.exe (CPU: 0.24%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.77 MB) | [13196] rust-analyzer.exe (Mem: 2142.38 MB) | [19756] Code.exe (Mem: 414.61 MB) | [18696] Code.exe (Mem: 401.05 MB) | [11024] explorer.exe (Mem: 375.00 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 387.52 MB | Escritura: 162.33 MB | [C:\][Tipo: SSD] Lectura: 7920.06 MB | Escritura: 6550.90 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:14:39
+CPU Uso (por núcleo): CPU 1: 23.37% | CPU 2: 6.00% | CPU 3: 30.92% | CPU 4: 8.36% | CPU 5: 23.39% | CPU 6: 6.51% | CPU 7: 19.26% | CPU 8: 5.59%
+CPU Uso (promedio total): 15.43%
+Memoria total: 16221.05 MB, Memoria usada: 12165.57 MB
+Procesos más demandantes de CPU:
+[8588] metricas-bueno.exe (CPU: 3.43%) | [16052] TextInputHost.exe (CPU: 1.61%) | [17132] Actividad_5.exe (CPU: 1.20%) | [3512] FxSound.exe (CPU: 0.48%) | [17968] Code.exe (CPU: 0.31%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 3136.77 MB) | [13196] rust-analyzer.exe (Mem: 2142.38 MB) | [19756] Code.exe (Mem: 414.61 MB) | [18696] Code.exe (Mem: 401.17 MB) | [11024] explorer.exe (Mem: 375.00 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 388.27 MB | Escritura: 162.42 MB | [C:\][Tipo: SSD] Lectura: 7976.14 MB | Escritura: 6551.48 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:14:45
+CPU Uso (por núcleo): CPU 1: 44.04% | CPU 2: 31.09% | CPU 3: 47.03% | CPU 4: 35.47% | CPU 5: 41.91% | CPU 6: 35.27% | CPU 7: 39.59% | CPU 8: 32.40%
+CPU Uso (promedio total): 38.35%
+Memoria total: 16221.05 MB, Memoria usada: 9336.16 MB
+Procesos más demandantes de CPU:
+[8588] metricas-bueno.exe (CPU: 2.25%) | [17968] Code.exe (CPU: 1.47%) | [16052] TextInputHost.exe (CPU: 1.33%) | [19520] Code.exe (CPU: 1.16%) | [7080] Code.exe (CPU: 1.06%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 2217.81 MB) | [13196] rust-analyzer.exe (Mem: 2142.38 MB) | [19756] Code.exe (Mem: 418.40 MB) | [18696] Code.exe (Mem: 401.53 MB) | [11024] explorer.exe (Mem: 374.99 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 388.27 MB | Escritura: 162.51 MB | [C:\][Tipo: SSD] Lectura: 8118.94 MB | Escritura: 6551.99 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:14:51
+CPU Uso (por núcleo): CPU 1: 99.98% | CPU 2: 99.95% | CPU 3: 99.98% | CPU 4: 100.00% | CPU 5: 100.00% | CPU 6: 100.00% | CPU 7: 99.98% | CPU 8: 99.97%
+CPU Uso (promedio total): 99.98%
+Memoria total: 16221.05 MB, Memoria usada: 7344.20 MB
+Procesos más demandantes de CPU:
+[7080] Code.exe (CPU: 2.06%) | [17968] Code.exe (CPU: 2.00%) | [8588] metricas-bueno.exe (CPU: 1.29%) | [19520] Code.exe (CPU: 1.16%) | [16052] TextInputHost.exe (CPU: 0.84%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 2217.81 MB) | [13196] rust-analyzer.exe (Mem: 2142.38 MB) | [19756] Code.exe (Mem: 418.50 MB) | [18696] Code.exe (Mem: 402.30 MB) | [11024] explorer.exe (Mem: 374.99 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 388.34 MB | Escritura: 162.72 MB | [C:\][Tipo: SSD] Lectura: 8357.78 MB | Escritura: 6552.27 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:14:57
+CPU Uso (por núcleo): CPU 1: 97.60% | CPU 2: 97.02% | CPU 3: 97.96% | CPU 4: 97.08% | CPU 5: 98.27% | CPU 6: 98.62% | CPU 7: 97.87% | CPU 8: 97.22%
+CPU Uso (promedio total): 97.71%
+Memoria total: 16221.05 MB, Memoria usada: 8173.07 MB
+Procesos más demandantes de CPU:
+[3164] rust-analyzer.exe (CPU: 7.12%) | [6656] rust-analyzer.exe (CPU: 5.51%) | [17968] Code.exe (CPU: 2.28%) | [19520] Code.exe (CPU: 1.64%) | [8588] metricas-bueno.exe (CPU: 1.41%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 2217.81 MB) | [13196] rust-analyzer.exe (Mem: 2142.38 MB) | [3164] rust-analyzer.exe (Mem: 513.90 MB) | [6656] rust-analyzer.exe (Mem: 442.86 MB) | [19756] Code.exe (Mem: 418.88 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 388.69 MB | Escritura: 162.81 MB | [C:\][Tipo: SSD] Lectura: 8617.16 MB | Escritura: 6552.50 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:15:03
+CPU Uso (por núcleo): CPU 1: 76.59% | CPU 2: 73.45% | CPU 3: 76.57% | CPU 4: 79.54% | CPU 5: 78.13% | CPU 6: 71.96% | CPU 7: 76.18% | CPU 8: 74.59%
+CPU Uso (promedio total): 75.88%
+Memoria total: 16221.05 MB, Memoria usada: 8466.94 MB
+Procesos más demandantes de CPU:
+[3164] rust-analyzer.exe (CPU: 13.38%) | [6656] rust-analyzer.exe (CPU: 12.70%) | [8588] metricas-bueno.exe (CPU: 3.33%) | [7080] Code.exe (CPU: 2.52%) | [17968] Code.exe (CPU: 2.04%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 2217.81 MB) | [13196] rust-analyzer.exe (Mem: 2142.38 MB) | [3164] rust-analyzer.exe (Mem: 637.95 MB) | [6656] rust-analyzer.exe (Mem: 547.00 MB) | [19756] Code.exe (Mem: 419.02 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 433.15 MB | Escritura: 163.07 MB | [C:\][Tipo: SSD] Lectura: 8658.73 MB | Escritura: 6600.33 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:15:09
+CPU Uso (por núcleo): CPU 1: 70.87% | CPU 2: 69.40% | CPU 3: 75.61% | CPU 4: 73.15% | CPU 5: 70.15% | CPU 6: 71.38% | CPU 7: 76.37% | CPU 8: 74.84%
+CPU Uso (promedio total): 72.72%
+Memoria total: 16221.05 MB, Memoria usada: 8548.97 MB
+Procesos más demandantes de CPU:
+[6656] rust-analyzer.exe (CPU: 5.54%) | [3164] rust-analyzer.exe (CPU: 5.44%) | [7080] Code.exe (CPU: 2.28%) | [17968] Code.exe (CPU: 1.90%) | [19520] Code.exe (CPU: 1.10%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 2217.81 MB) | [13196] rust-analyzer.exe (Mem: 2142.38 MB) | [3164] rust-analyzer.exe (Mem: 739.24 MB) | [6656] rust-analyzer.exe (Mem: 646.53 MB) | [19756] Code.exe (Mem: 419.14 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 433.17 MB | Escritura: 163.15 MB | [C:\][Tipo: SSD] Lectura: 8660.26 MB | Escritura: 6600.65 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 12:15:22
+CPU Uso (por núcleo): CPU 1: 75.80% | CPU 2: 75.66% | CPU 3: 78.65% | CPU 4: 80.57% | CPU 5: 76.77% | CPU 6: 73.64% | CPU 7: 79.35% | CPU 8: 76.85%
+CPU Uso (promedio total): 77.16%
+Memoria total: 16221.05 MB, Memoria usada: 11517.78 MB
+Procesos más demandantes de CPU:
+[3164] rust-analyzer.exe (CPU: 32.08%) | [6656] rust-analyzer.exe (CPU: 31.80%) | [17968] Code.exe (CPU: 2.58%) | [19520] Code.exe (CPU: 1.14%) | [8588] metricas-bueno.exe (CPU: 1.08%)
+Procesos más demandantes de RAM:
+[19592] rust-analyzer.exe (Mem: 2217.81 MB) | [3164] rust-analyzer.exe (Mem: 2216.16 MB) | [13196] rust-analyzer.exe (Mem: 2142.38 MB) | [6656] rust-analyzer.exe (Mem: 2111.96 MB) | [19756] Code.exe (Mem: 419.01 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 433.17 MB | Escritura: 163.30 MB | [C:\][Tipo: SSD] Lectura: 8662.83 MB | Escritura: 6601.13 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
