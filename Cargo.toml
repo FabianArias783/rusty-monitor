@@ -4,9 +4,15 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-sysinfo = { version = "0.35.0", features = ["network"] }
-# netstat2 = "0.11.1"  # Probablemente no se usa
-chrono = "0.4.41"
+eframe = "0.27"
+egui = "0.27"
+egui_plot = "0.27"
+sysinfo = "0.35.0"
 rusqlite = { version = "0.35.0", features = ["chrono", "bundled"] }
+chrono = "0.4"
 winreg = "0.55.0"
 notify-rust = "4.11.7"
+
+[features]
+default = ["eframe/default"]
+

@@ -1,4 +1,4 @@
-use std::{fs::OpenOptions, io::{self, Write}, path::Path, thread::sleep, time::Duration};
+use std::{fs::OpenOptions, io::{self, Write}, path::Path, thread::{sleep, spawn}, time::Duration};
 use chrono::Local;
 use rusqlite::{Connection, Result, params};
 use sysinfo::{System, Disks, Networks, ProcessesToUpdate, RefreshKind};
@@ -6,8 +6,11 @@ use sysinfo::{System, Disks, Networks, ProcessesToUpdate, RefreshKind};
 use winreg::enums::*;
 use winreg::RegKey;
 use notify_rust::Notification;
+
 mod alert;
 use alert::AlertManager;
+
+mod gui;
 
 fn redirect_stdout() -> io::BufWriter<std::fs::File> {
     let log_file = OpenOptions::new()
@@ -32,7 +35,7 @@ fn osstr_to_string(os: &std::ffi::OsStr) -> String {
     os.to_string_lossy().into_owned()
 }
 
-fn main() -> Result<()> {
+fn run_monitoring() -> Result<()> {
     let mut log_writer = redirect_stdout();  // Redirigir la salida a un archivo de log
     add_to_startup();
     let mut alert_manager = AlertManager::new();
@@ -63,22 +66,22 @@ fn main() -> Result<()> {
     let mut sys = System::new_with_specifics(RefreshKind::everything());
     let num_cores = sys.cpus().len() as f32;
 
-    // Primera actualización "silenciosa" de la CPU y procesos
     sys.refresh_cpu_all();
     sys.refresh_processes(ProcessesToUpdate::All, false);
-    sleep(Duration::from_millis(500)); // Esperar un poco después de la primera actualización
+    sleep(Duration::from_millis(500));
 
     loop {
         sys.refresh_cpu_all();
         sys.refresh_processes(ProcessesToUpdate::All, false);
         sys.refresh_memory();
+
         let mut networks = Networks::new_with_refreshed_list();
         let before_rx = networks.get("Wi-Fi").map(|d| d.total_received());
         let before_tx = networks.get("Wi-Fi").map(|d| d.total_transmitted());
 
-        sleep(Duration::from_secs(5)); // Esperamos 5 segundos
+        sleep(Duration::from_secs(5));
 
-        networks.refresh(true); // Refrescar red
+        networks.refresh(true);
         let after_rx = networks.get("Wi-Fi").map(|d| d.total_received());
         let after_tx = networks.get("Wi-Fi").map(|d| d.total_transmitted());
 
@@ -97,25 +100,24 @@ fn main() -> Result<()> {
         let used_memory = sys.used_memory();
 
         let total_cpu_usage: f32 = sys.cpus().iter().map(|c| c.cpu_usage()).sum();
-        let avg_system_cpu_usage = total_cpu_usage / num_cores; // Promedio del uso total
+        let avg_system_cpu_usage = total_cpu_usage / num_cores;
 
         let mut cpu_usages = Vec::new();
         for (i, cpu) in sys.cpus().iter().enumerate() {
-            cpu_usages.push(format!("CPU {}: {:.2}%", i + 1, cpu.cpu_usage())); // Uso por núcleo
+            cpu_usages.push(format!("CPU {}: {:.2}%", i + 1, cpu.cpu_usage()));
         }
         let cpu_usage_str = cpu_usages.join(" | ");
 
         let mem_percentage = (used_memory as f64 / total_memory as f64) * 100.0;
 
         alert_manager.check_alerts(
-            avg_system_cpu_usage, // Usar el promedio del uso total del sistema
+            avg_system_cpu_usage,
             received_mbps as f32,
             mem_percentage as f32,
             &sys,
             num_cores,
         );
 
-        // Obtener los procesos más demandantes por CPU
         let mut processes_cpu: Vec<_> = sys.processes().values().collect();
         processes_cpu.sort_by(|a, b| b.cpu_usage().partial_cmp(&a.cpu_usage()).unwrap());
         let mut process_cpu_info = Vec::new();
@@ -130,7 +132,6 @@ fn main() -> Result<()> {
         }
         let process_cpu_info_str = process_cpu_info.join(" | ");
 
-        // Obtener los procesos más demandantes por RAM
         let mut procesos_mem: Vec<_> = sys.processes().values().collect();
         procesos_mem.sort_by(|a, b| b.memory().partial_cmp(&a.memory()).unwrap());
         let mut process_mem_info = Vec::new();
@@ -209,9 +210,31 @@ fn main() -> Result<()> {
         );
 
         log_writer.write_all(output.as_bytes()).expect("Failed to write to log file");
+        println!("{}", output);
 
-        println!("{}", output); // También imprime a la terminal
-
-        sleep(Duration::from_millis(500)); // Espera 500 milisegundos antes de la siguiente iteración
+        sleep(Duration::from_millis(500));
     }
+}
+
+fn main() -> Result<()> {
+    // Lanzar el hilo de monitoreo (no bloqueante)
+    spawn(|| {
+        if let Err(e) = run_monitoring() {
+            eprintln!("Error en monitoreo: {}", e);
+        }
+    });
+
+    // Ejecutar la GUI en el hilo principal (sin spawn)
+    let options = eframe::NativeOptions::default();
+    let result = eframe::run_native(
+        "Monitor de Sistema",
+        options,
+        Box::new(|_cc| Box::new(gui::MonitorApp::default())),
+    );
+
+    if let Err(err) = result {
+        eprintln!("Error en la GUI: {}", err);
+    }
+
+    Ok(())
 }
