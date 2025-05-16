@@ -1,6 +1,6 @@
 use notify_rust::Notification;
 use std::time::{Instant, Duration};
-use sysinfo::{System, Process};
+use sysinfo::System;
 
 #[derive(Clone, Debug)]
 pub struct AlertCondition {
