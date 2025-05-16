@@ -1,7 +1,7 @@
 use eframe::egui;
 use eframe::App;
 use egui_plot::{Plot, Line, PlotPoints};
-use sysinfo::System;
+use sysinfo::{System, Process};
 
 use std::time::{Duration, Instant};
 
@@ -61,64 +61,64 @@ impl App for MonitorApp {
 
             let mut processes: Vec<_> = self.sys.processes().values().collect();
             processes.sort_by(|a, b| b.cpu_usage().partial_cmp(&a.cpu_usage()).unwrap());
-
             self.top_cpu = processes.iter()
                 .take(10)
-                .map(|p| (
-                    p.pid().as_u32() as i32,
-                    p.name().to_string_lossy().to_string(),
-                    p.cpu_usage(),
-                ))
+                .map(|p| (p.pid().as_u32() as i32, p.name().to_string_lossy().to_string(), p.cpu_usage()))
                 .collect();
 
             processes.sort_by(|a, b| b.memory().cmp(&a.memory()));
-
             self.top_ram = processes.iter()
                 .take(10)
-                .map(|p| (
-                    p.pid().as_u32() as i32,
-                    p.name().to_string_lossy().to_string(),
-                    p.memory(),
-                ))
+                .map(|p| (p.pid().as_u32() as i32, p.name().to_string_lossy().to_string(), p.memory()))
                 .collect();
 
             self.last_update = Instant::now();
         }
 
         egui::CentralPanel::default().show(ctx, |ui| {
-            egui::ScrollArea::vertical().show(ui, |ui| {
-                ui.horizontal(|ui| {
-                    ui.heading("Monitor de Sistema");
-                    ui.with_layout(egui::Layout::right_to_left(egui::Align::TOP), |ui| {
-                        if ui.button(if self.dark_mode { "Modo Claro" } else { "Modo Oscuro" }).clicked() {
-                            self.dark_mode = !self.dark_mode;
-                        }
-                    });
+            ui.horizontal(|ui| {
+                ui.heading("Monitor de Sistema");
+                ui.with_layout(egui::Layout::right_to_left(egui::Align::TOP), |ui| {
+                    if ui.button(if self.dark_mode { "Modo Claro" } else { "Modo Oscuro" }).clicked() {
+                        self.dark_mode = !self.dark_mode;
+                    }
+                });
+            });
+
+            ui.horizontal(|ui| {
+                ui.vertical(|ui| {
+                    ui.label(format!("CPU: {:.2}%", self.cpu_history.last().unwrap()));
+                    Plot::new("cpu_plot")
+                        .view_aspect(1.5)
+                        .height(150.0)
+                        .show(ui, |plot_ui| {
+                            plot_ui.line(Line::new(PlotPoints::from_iter(
+                                self.cpu_history.iter().enumerate().map(|(i, v)| [i as f64, *v as f64]),
+                            ))
+                            .color(egui::Color32::LIGHT_BLUE)
+                            .name("CPU %"));
+                        });
                 });
 
-                ui.label(format!("CPU: {:.2}%", self.cpu_history.last().unwrap()));
-                Plot::new("cpu_plot").view_aspect(2.0).show(ui, |plot_ui| {
-                    plot_ui.line(Line::new(PlotPoints::from_iter(
-                        self.cpu_history.iter().enumerate().map(|(i, v)| [i as f64, *v as f64]),
-                    ))
-                    .color(egui::Color32::LIGHT_BLUE)
-                    .name("CPU %"));
+                ui.vertical(|ui| {
+                    ui.label(format!("RAM: {:.2}%", self.ram_history.last().unwrap()));
+                    Plot::new("ram_plot")
+                        .view_aspect(1.5)
+                        .height(150.0)
+                        .show(ui, |plot_ui| {
+                            plot_ui.line(Line::new(PlotPoints::from_iter(
+                                self.ram_history.iter().enumerate().map(|(i, v)| [i as f64, *v as f64]),
+                            ))
+                            .color(egui::Color32::LIGHT_GREEN)
+                            .name("RAM %"));
+                        });
                 });
+            });
 
-                ui.label(format!("RAM: {:.2}%", self.ram_history.last().unwrap()));
-                Plot::new("ram_plot").view_aspect(2.0).show(ui, |plot_ui| {
-                    plot_ui.line(Line::new(PlotPoints::from_iter(
-                        self.ram_history.iter().enumerate().map(|(i, v)| [i as f64, *v as f64]),
-                    ))
-                    .color(egui::Color32::LIGHT_GREEN)
-                    .name("RAM %"));
-                });
-
-                ui.separator();
-                ui.label("Top 10 Procesos por uso de CPU:");
-
-                // Scroll con max height, limita ancho del nombre para evitar overlap
-                egui::ScrollArea::vertical().max_height(150.0).show(ui, |ui| {
+            ui.separator();
+            ui.label("Top 10 Procesos por uso de CPU:");
+            egui::ScrollArea::vertical().max_height(150.0).show(ui, |ui| {
+                ui.push_id("cpu_scroll", |ui| {
                     egui::Grid::new("cpu_grid").striped(true).show(ui, |ui| {
                         ui.label("PID");
                         ui.label("Nombre");
@@ -126,18 +126,18 @@ impl App for MonitorApp {
                         ui.end_row();
                         for (pid, name, cpu) in &self.top_cpu {
                             ui.label(pid.to_string());
-                            // Limitar ancho de nombre para evitar que crezca demasiado
-                            ui.add_sized([200.0, 20.0], egui::Label::new(name).wrap(true));
+                            ui.label(name);
                             ui.label(format!("{:.2}%", cpu));
                             ui.end_row();
                         }
                     });
                 });
+            });
 
-                ui.separator();
-                ui.label("Top 10 Procesos por uso de RAM:");
-
-                egui::ScrollArea::vertical().max_height(150.0).show(ui, |ui| {
+            ui.separator();
+            ui.label("Top 10 Procesos por uso de RAM:");
+            egui::ScrollArea::vertical().max_height(150.0).show(ui, |ui| {
+                ui.push_id("ram_scroll", |ui| {
                     egui::Grid::new("ram_grid").striped(true).show(ui, |ui| {
                         ui.label("PID");
                         ui.label("Nombre");
@@ -145,7 +145,7 @@ impl App for MonitorApp {
                         ui.end_row();
                         for (pid, name, ram) in &self.top_ram {
                             ui.label(pid.to_string());
-                            ui.add_sized([200.0, 20.0], egui::Label::new(name).wrap(true));
+                            ui.label(name);
                             ui.label(format!("{}", ram));
                             ui.end_row();
                         }
