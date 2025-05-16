@@ -5,13 +5,8 @@ edition = "2021"
 
 [dependencies]
 sysinfo = { version = "0.35.0", features = ["network"] }
-netstat2 = "0.11.1"
+# netstat2 = "0.11.1"  # Probablemente no se usa
 chrono = "0.4.41"
 rusqlite = { version = "0.35.0", features = ["chrono", "bundled"] }
 winreg = "0.55.0"
 notify-rust = "4.11.7"
-eframe = "0.31.1"
-egui = "0.31.1"
-iced = "0.13.1"
-windows = { version = "0.48", features = ["Win32_UI_WindowsAndMessaging"] }
-windows-sys = "0.59.0"
