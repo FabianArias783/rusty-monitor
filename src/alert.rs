@@ -1,7 +1,6 @@
 use notify_rust::Notification;
 use std::time::{Instant, Duration};
 use sysinfo::System; // Importa solo System
-use crate::osstr_to_string; // Necesitamos esta función desde main.rs
 
 #[derive(Clone)]
 pub struct AlertCondition {
@@ -53,8 +52,8 @@ impl AlertManager {
             } else if mem > alert.memory_threshold {
                 // Obtener el proceso con mayor uso de memoria
                 let mut processes_mem = system.processes().values().collect::<Vec<_>>();
-                processes_mem.sort_by(|a, b| b.memory().cmp(&b.memory())); // Orden ascendente, invertimos
-                if let Some(top_process_mem) = processes_mem.last() {
+                processes_mem.sort_by(|a, b| b.memory().cmp(&a.memory())); // Orden descendente
+                if let Some(top_process_mem) = processes_mem.first() {
                     let mem_mb = top_process_mem.memory() as f64 / (1024.0 * 1024.0);
                     self.trigger_memory_alert(&alert, mem, &top_process_mem.name().to_string_lossy(), mem_mb);
                 } else {
