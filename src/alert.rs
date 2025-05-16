@@ -1,6 +1,7 @@
 use notify_rust::Notification;
 use std::time::{Instant, Duration};
-use sysinfo::{System}; // Importa solo System
+use sysinfo::System; // Importa solo System
+use crate::osstr_to_string; // Necesitamos esta función desde main.rs
 
 #[derive(Clone)]
 pub struct AlertCondition {
@@ -49,8 +50,18 @@ impl AlertManager {
                 } else {
                     self.trigger_alert(&alert, cpu, net, mem); // Si no hay procesos, alerta genérica
                 }
-            } else if net > alert.network_threshold || mem > alert.memory_threshold {
-                self.trigger_alert(&alert, cpu, net, mem);
+            } else if mem > alert.memory_threshold {
+                // Obtener el proceso con mayor uso de memoria
+                let mut processes_mem = system.processes().values().collect::<Vec<_>>();
+                processes_mem.sort_by(|a, b| b.memory().cmp(&b.memory())); // Orden ascendente, invertimos
+                if let Some(top_process_mem) = processes_mem.last() {
+                    let mem_mb = top_process_mem.memory() as f64 / (1024.0 * 1024.0);
+                    self.trigger_memory_alert(&alert, mem, &top_process_mem.name().to_string_lossy(), mem_mb);
+                } else {
+                    self.trigger_memory_alert(&alert, mem, "", 0.0); // Si no hay procesos
+                }
+            } else if net > alert.network_threshold {
+                self.trigger_network_alert(&alert, net);
             }
         }
     }
@@ -82,6 +93,59 @@ impl AlertManager {
             .show();
     }
 
+    fn trigger_memory_alert(&mut self, alert: &AlertCondition, mem_percent: f32, process_name: &str, mem_mb: f64) {
+        let now = Instant::now();
+
+        if let Some(last) = self.last_alert {
+            if now.duration_since(last) < Duration::from_secs(60) {
+                return; // Cooldown de 60 segundos
+            }
+        }
+
+        self.last_alert = Some(now);
+
+        println!(
+            "⚠️ ALERTA: ¡Alto uso de memoria detectado!\n\
+             Proceso: {} ({:.2} MB)\n\
+             Uso de memoria: {:.2}% (Umbral: {:.2}%)",
+            process_name, mem_mb, mem_percent, alert.memory_threshold
+        );
+
+        let _ = Notification::new()
+            .summary("⚠️ ¡Alerta de Memoria!")
+            .body(&format!(
+                "Proceso: {} ({:.2} MB)\nUso de memoria: {:.2}% (>{:.2}%)",
+                process_name, mem_mb, mem_percent, alert.memory_threshold
+            ))
+            .show();
+    }
+
+    fn trigger_network_alert(&mut self, alert: &AlertCondition, net: f32) {
+        let now = Instant::now();
+
+        if let Some(last) = self.last_alert {
+            if now.duration_since(last) < Duration::from_secs(60) {
+                return; // Cooldown de 60 segundos
+            }
+        }
+
+        self.last_alert = Some(now);
+
+        println!(
+            "⚠️ ALERTA: ¡Alto tráfico de red detectado!\n\
+             Velocidad de red: {:.2} MB/s (Umbral: {:.2} MB/s)",
+            net, alert.network_threshold
+        );
+
+        let _ = Notification::new()
+            .summary("⚠️ ¡Alerta de Red!")
+            .body(&format!(
+                "Velocidad de red: {:.2} MB/s (>{:.2} MB/s)",
+                net, alert.network_threshold
+            ))
+            .show();
+    }
+
     fn trigger_alert(&mut self, alert: &AlertCondition, cpu: f32, net: f32, mem: f32) {
         let now = Instant::now();
 
@@ -97,14 +161,14 @@ impl AlertManager {
             "⚠️ ALERTA: Condición crítica detectada!\n\
              CPU: {:.2}% (Umbral: {:.2}%)\n\
              Memoria: {:.2}% (Umbral: {:.2}%)\n\
-             Red: {:.2} MB (Umbral: {:.2} MB)",
+             Red: {:.2} MB/s (Umbral: {:.2} MB/s)",
             cpu, alert.cpu_threshold, mem, alert.memory_threshold, net, alert.network_threshold
         );
 
         let _ = Notification::new()
             .summary("⚠️ ¡Alerta del sistema!")
             .body(&format!(
-                "CPU: {:.2}% (>{:.2}%)\nMemoria: {:.2}% (>{:.2}%)\nRed: {:.2} MB (>{:.2} MB)",
+                "CPU: {:.2}% (>{:.2}%)\nMemoria: {:.2}% (>{:.2}%)\nRed: {:.2} MB/s (>{:.2} MB/s)",
                 cpu, alert.cpu_threshold,
                 mem, alert.memory_threshold,
                 net, alert.network_threshold

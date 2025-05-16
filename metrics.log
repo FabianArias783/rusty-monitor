@@ -1096,3 +1096,131 @@ Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
 Datos insertados en SQLite exitosamente.
 =====================================
 
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:44:12
+CPU Uso (por núcleo): CPU 1: 35.86% | CPU 2: 16.17% | CPU 3: 54.77% | CPU 4: 10.12% | CPU 5: 38.99% | CPU 6: 16.28% | CPU 7: 36.78% | CPU 8: 12.65%
+CPU Uso (promedio total): 27.70%
+Memoria total: 16221.05 MB, Memoria usada: 10902.85 MB
+Procesos más demandantes de CPU:
+[2452] brave.exe (CPU: 3.96%) | [3208] brave.exe (CPU: 1.70%) | [8076] brave.exe (CPU: 0.54%) | [17624] brave.exe (CPU: 0.51%) | [18832] Code.exe (CPU: 0.33%)
+Procesos más demandantes de RAM:
+[24368] brave.exe (Mem: 408.00 MB) | [2452] brave.exe (Mem: 368.59 MB) | [19312] Code.exe (Mem: 366.80 MB) | [22052] Code.exe (Mem: 341.12 MB) | [18832] Code.exe (Mem: 314.07 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 9100.66 MB | Escritura: 13258.84 MB | [C:\][Tipo: SSD] Lectura: 45238.02 MB | Escritura: 58099.78 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:44:18
+CPU Uso (por núcleo): CPU 1: 43.26% | CPU 2: 32.95% | CPU 3: 45.98% | CPU 4: 36.08% | CPU 5: 42.17% | CPU 6: 37.64% | CPU 7: 41.60% | CPU 8: 37.07%
+CPU Uso (promedio total): 39.59%
+Memoria total: 16221.05 MB, Memoria usada: 10933.33 MB
+Procesos más demandantes de CPU:
+[11772] Code.exe (CPU: 3.72%) | [21444] Taskmgr.exe (CPU: 3.01%) | [15868] Code.exe (CPU: 1.49%) | [3968] Code.exe (CPU: 1.42%) | [22052] Code.exe (CPU: 0.98%)
+Procesos más demandantes de RAM:
+[24368] brave.exe (Mem: 404.34 MB) | [2452] brave.exe (Mem: 368.59 MB) | [19312] Code.exe (Mem: 367.01 MB) | [22052] Code.exe (Mem: 341.67 MB) | [18832] Code.exe (Mem: 314.84 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 9100.66 MB | Escritura: 13259.09 MB | [C:\][Tipo: SSD] Lectura: 45238.35 MB | Escritura: 58100.92 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:44:23
+CPU Uso (por núcleo): CPU 1: 42.75% | CPU 2: 26.71% | CPU 3: 49.84% | CPU 4: 30.10% | CPU 5: 44.42% | CPU 6: 32.53% | CPU 7: 42.68% | CPU 8: 29.81%
+CPU Uso (promedio total): 37.36%
+Memoria total: 16221.05 MB, Memoria usada: 11105.40 MB
+Procesos más demandantes de CPU:
+[11772] Code.exe (CPU: 5.80%) | [21444] Taskmgr.exe (CPU: 4.83%) | [15868] Code.exe (CPU: 3.34%) | [3968] Code.exe (CPU: 2.17%) | [18832] Code.exe (CPU: 0.97%)
+Procesos más demandantes de RAM:
+[24368] brave.exe (Mem: 404.34 MB) | [2452] brave.exe (Mem: 368.59 MB) | [19312] Code.exe (Mem: 366.77 MB) | [22052] Code.exe (Mem: 341.79 MB) | [18832] Code.exe (Mem: 315.72 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 9100.66 MB | Escritura: 13259.27 MB | [C:\][Tipo: SSD] Lectura: 45238.35 MB | Escritura: 58101.20 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.02 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:44:29
+CPU Uso (por núcleo): CPU 1: 35.03% | CPU 2: 20.58% | CPU 3: 35.52% | CPU 4: 23.47% | CPU 5: 35.76% | CPU 6: 25.73% | CPU 7: 32.93% | CPU 8: 24.02%
+CPU Uso (promedio total): 29.13%
+Memoria total: 16221.05 MB, Memoria usada: 11533.48 MB
+Procesos más demandantes de CPU:
+[21444] Taskmgr.exe (CPU: 4.52%) | [11772] Code.exe (CPU: 2.48%) | [3968] Code.exe (CPU: 1.79%) | [17816] Code.exe (CPU: 0.55%) | [22052] Code.exe (CPU: 0.45%)
+Procesos más demandantes de RAM:
+[22744] python.exe (Mem: 620.27 MB) | [24368] brave.exe (Mem: 400.43 MB) | [2452] brave.exe (Mem: 368.59 MB) | [19312] Code.exe (Mem: 366.83 MB) | [22052] Code.exe (Mem: 341.54 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 9100.74 MB | Escritura: 13259.39 MB | [C:\][Tipo: SSD] Lectura: 45250.87 MB | Escritura: 58101.94 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:44:35
+CPU Uso (por núcleo): CPU 1: 39.20% | CPU 2: 27.32% | CPU 3: 40.58% | CPU 4: 25.59% | CPU 5: 35.90% | CPU 6: 27.96% | CPU 7: 34.16% | CPU 8: 27.95%
+CPU Uso (promedio total): 32.33%
+Memoria total: 16221.05 MB, Memoria usada: 12023.14 MB
+Procesos más demandantes de CPU:
+[21444] Taskmgr.exe (CPU: 3.49%) | [11772] Code.exe (CPU: 3.36%) | [3968] Code.exe (CPU: 1.20%) | [22744] python.exe (CPU: 1.15%) | [17816] Code.exe (CPU: 0.68%)
+Procesos más demandantes de RAM:
+[22744] python.exe (Mem: 1091.30 MB) | [24368] brave.exe (Mem: 400.43 MB) | [2452] brave.exe (Mem: 368.59 MB) | [19312] Code.exe (Mem: 366.77 MB) | [22052] Code.exe (Mem: 341.53 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 9100.74 MB | Escritura: 13259.57 MB | [C:\][Tipo: SSD] Lectura: 45250.87 MB | Escritura: 58102.41 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:44:41
+CPU Uso (por núcleo): CPU 1: 31.89% | CPU 2: 19.18% | CPU 3: 35.96% | CPU 4: 21.55% | CPU 5: 32.91% | CPU 6: 21.90% | CPU 7: 28.75% | CPU 8: 21.19%
+CPU Uso (promedio total): 26.67%
+Memoria total: 16221.05 MB, Memoria usada: 12513.83 MB
+Procesos más demandantes de CPU:
+[21444] Taskmgr.exe (CPU: 3.96%) | [11772] Code.exe (CPU: 2.93%) | [22744] python.exe (CPU: 1.39%) | [3968] Code.exe (CPU: 1.24%) | [18832] Code.exe (CPU: 0.87%)
+Procesos más demandantes de RAM:
+[22744] python.exe (Mem: 1570.64 MB) | [24368] brave.exe (Mem: 400.43 MB) | [2452] brave.exe (Mem: 368.59 MB) | [19312] Code.exe (Mem: 366.87 MB) | [22052] Code.exe (Mem: 341.56 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 9100.74 MB | Escritura: 13259.75 MB | [C:\][Tipo: SSD] Lectura: 45256.30 MB | Escritura: 58102.95 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:44:46
+CPU Uso (por núcleo): CPU 1: 39.09% | CPU 2: 25.95% | CPU 3: 44.82% | CPU 4: 30.68% | CPU 5: 39.97% | CPU 6: 30.64% | CPU 7: 37.82% | CPU 8: 30.00%
+CPU Uso (promedio total): 34.87%
+Memoria total: 16221.05 MB, Memoria usada: 12970.68 MB
+Procesos más demandantes de CPU:
+[11772] Code.exe (CPU: 4.73%) | [18832] Code.exe (CPU: 3.93%) | [21444] Taskmgr.exe (CPU: 3.22%) | [3968] Code.exe (CPU: 2.05%) | [15868] Code.exe (CPU: 1.71%)
+Procesos más demandantes de RAM:
+[22744] python.exe (Mem: 2050.18 MB) | [24368] brave.exe (Mem: 399.27 MB) | [2452] brave.exe (Mem: 368.59 MB) | [19312] Code.exe (Mem: 366.88 MB) | [22052] Code.exe (Mem: 341.52 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 9100.74 MB | Escritura: 13260.12 MB | [C:\][Tipo: SSD] Lectura: 45256.57 MB | Escritura: 58104.76 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:44:52
+CPU Uso (por núcleo): CPU 1: 38.48% | CPU 2: 21.25% | CPU 3: 38.21% | CPU 4: 26.04% | CPU 5: 34.12% | CPU 6: 32.65% | CPU 7: 34.07% | CPU 8: 27.71%
+CPU Uso (promedio total): 31.57%
+Memoria total: 16221.05 MB, Memoria usada: 13438.77 MB
+Procesos más demandantes de CPU:
+[21444] Taskmgr.exe (CPU: 4.19%) | [3968] Code.exe (CPU: 2.45%) | [11772] Code.exe (CPU: 2.15%) | [18832] Code.exe (CPU: 2.08%) | [22744] python.exe (CPU: 1.33%)
+Procesos más demandantes de RAM:
+[22744] python.exe (Mem: 2510.31 MB) | [24368] brave.exe (Mem: 399.27 MB) | [2452] brave.exe (Mem: 368.59 MB) | [19312] Code.exe (Mem: 367.13 MB) | [22052] Code.exe (Mem: 341.54 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 9100.74 MB | Escritura: 13260.59 MB | [C:\][Tipo: SSD] Lectura: 45260.65 MB | Escritura: 58108.28 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
