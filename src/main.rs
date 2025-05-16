@@ -225,7 +225,10 @@ fn main() -> Result<()> {
     });
 
     // Ejecutar la GUI en el hilo principal (sin spawn)
-    let options = eframe::NativeOptions::default();
+    let options = eframe::NativeOptions {
+        viewport: eframe::egui::ViewportBuilder::default().with_inner_size([1040.0, 640.0]),
+        ..Default::default()
+    };
     let result = eframe::run_native(
         "Monitor de Sistema",
         options,

@@ -1,7 +1,7 @@
 use eframe::egui;
 use eframe::App;
 use egui_plot::{Plot, Line, PlotPoints};
-use sysinfo::{System, Process};
+use sysinfo::System;
 
 use std::time::{Duration, Instant};
 
@@ -11,7 +11,7 @@ pub struct MonitorApp {
     cpu_history: Vec<f32>,
     ram_history: Vec<f32>,
     top_cpu: Vec<(i32, String, f32)>, // (pid, nombre, cpu%)
-    top_ram: Vec<(i32, String, u64)>, // (pid, nombre, memoria KB)
+    top_ram: Vec<(i32, String, f64)>, // (pid, nombre, memoria MB)
     dark_mode: bool,
 }
 
@@ -27,7 +27,7 @@ impl Default for MonitorApp {
             ram_history: vec![0.0; 60],
             top_cpu: Vec::new(),
             top_ram: Vec::new(),
-            dark_mode: false,
+            dark_mode: true,
         }
     }
 }
@@ -59,18 +59,30 @@ impl App for MonitorApp {
             self.ram_history.push(ram_usage);
             self.ram_history.remove(0);
 
+            let num_cores = cpus.len() as f32;
+
             let mut processes: Vec<_> = self.sys.processes().values().collect();
+
+            // Top 5 CPU procesos normalizados por núcleos
             processes.sort_by(|a, b| b.cpu_usage().partial_cmp(&a.cpu_usage()).unwrap());
             self.top_cpu = processes.iter()
-                .take(10)
-                .map(|p| (p.pid().as_u32() as i32, p.name().to_string_lossy().to_string(), p.cpu_usage()))
+                .take(5)
+                .map(|p| {
+                    let cpu_pct = p.cpu_usage() / num_cores;
+                    (p.pid().as_u32() as i32, p.name().to_string_lossy().to_string(), cpu_pct)
+                })
                 .collect();
 
+            // Top 5 RAM en MB, y limitar valores razonables
             processes.sort_by(|a, b| b.memory().cmp(&a.memory()));
             self.top_ram = processes.iter()
-                .take(10)
-                .map(|p| (p.pid().as_u32() as i32, p.name().to_string_lossy().to_string(), p.memory()))
+                .take(5)
+                .map(|p| {
+                    let mem_mb = p.memory() as f64 / 1024.0 / 1024.0;
+                    (p.pid().as_u32() as i32, p.name().to_string_lossy().to_string(), mem_mb)
+                })
                 .collect();
+
 
             self.last_update = Instant::now();
         }
@@ -89,8 +101,8 @@ impl App for MonitorApp {
                 ui.vertical(|ui| {
                     ui.label(format!("CPU: {:.2}%", self.cpu_history.last().unwrap()));
                     Plot::new("cpu_plot")
-                        .view_aspect(1.5)
-                        .height(150.0)
+                        .view_aspect(2.0)
+                        .height(250.0)
                         .show(ui, |plot_ui| {
                             plot_ui.line(Line::new(PlotPoints::from_iter(
                                 self.cpu_history.iter().enumerate().map(|(i, v)| [i as f64, *v as f64]),
@@ -103,8 +115,8 @@ impl App for MonitorApp {
                 ui.vertical(|ui| {
                     ui.label(format!("RAM: {:.2}%", self.ram_history.last().unwrap()));
                     Plot::new("ram_plot")
-                        .view_aspect(1.5)
-                        .height(150.0)
+                        .view_aspect(2.0)
+                        .height(250.0)
                         .show(ui, |plot_ui| {
                             plot_ui.line(Line::new(PlotPoints::from_iter(
                                 self.ram_history.iter().enumerate().map(|(i, v)| [i as f64, *v as f64]),
@@ -116,9 +128,10 @@ impl App for MonitorApp {
             });
 
             ui.separator();
-            ui.label("Top 10 Procesos por uso de CPU:");
-            egui::ScrollArea::vertical().max_height(150.0).show(ui, |ui| {
-                ui.push_id("cpu_scroll", |ui| {
+
+            ui.label("Top 5 Procesos por uso de CPU:");
+            ui.push_id("cpu_scroll", |ui| {
+                egui::ScrollArea::vertical().max_height(150.0).show(ui, |ui| {
                     egui::Grid::new("cpu_grid").striped(true).show(ui, |ui| {
                         ui.label("PID");
                         ui.label("Nombre");
@@ -135,18 +148,19 @@ impl App for MonitorApp {
             });
 
             ui.separator();
-            ui.label("Top 10 Procesos por uso de RAM:");
-            egui::ScrollArea::vertical().max_height(150.0).show(ui, |ui| {
-                ui.push_id("ram_scroll", |ui| {
+
+            ui.label("Top 5 Procesos por uso de RAM:");
+            ui.push_id("ram_scroll", |ui| {
+                egui::ScrollArea::vertical().max_height(150.0).show(ui, |ui| {
                     egui::Grid::new("ram_grid").striped(true).show(ui, |ui| {
                         ui.label("PID");
                         ui.label("Nombre");
-                        ui.label("RAM (KB)");
+                        ui.label("RAM (MB)");
                         ui.end_row();
                         for (pid, name, ram) in &self.top_ram {
                             ui.label(pid.to_string());
                             ui.label(name);
-                            ui.label(format!("{}", ram));
+                            ui.label(format!("{:.2} MB", ram));
                             ui.end_row();
                         }
                     });
