@@ -1,7 +1,7 @@
 use eframe::egui;
 use eframe::App;
 use egui_plot::{Plot, Line, PlotPoints};
-use sysinfo::System;
+use sysinfo::{System, Signal};
 
 use std::time::{Duration, Instant};
 
@@ -10,16 +10,16 @@ pub struct MonitorApp {
     last_update: Instant,
     cpu_history: Vec<f32>,
     ram_history: Vec<f32>,
-    top_cpu: Vec<(i32, String, f32)>, // (pid, nombre, cpu%)
-    top_ram: Vec<(i32, String, f64)>, // (pid, nombre, memoria MB)
+    top_cpu: Vec<(i32, String, f32)>,
+    top_ram: Vec<(i32, String, f64)>,
     dark_mode: bool,
+    selected_pid: Option<i32>, // <-- nuevo campo
 }
 
 impl Default for MonitorApp {
     fn default() -> Self {
         let mut sys = System::new_all();
         sys.refresh_all();
-
         Self {
             sys,
             last_update: Instant::now(),
@@ -28,6 +28,7 @@ impl Default for MonitorApp {
             top_cpu: Vec::new(),
             top_ram: Vec::new(),
             dark_mode: true,
+            selected_pid: None, // <-- inicializa
         }
     }
 }
@@ -141,6 +142,9 @@ impl App for MonitorApp {
                             ui.label(pid.to_string());
                             ui.label(name);
                             ui.label(format!("{:.2}%", cpu));
+                            if ui.button("Matar").clicked() {
+                                self.selected_pid = Some(*pid);
+                            }
                             ui.end_row();
                         }
                     });
@@ -161,12 +165,22 @@ impl App for MonitorApp {
                             ui.label(pid.to_string());
                             ui.label(name);
                             ui.label(format!("{:.2} MB", ram));
+                            if ui.button("Matar").clicked() {
+                                self.selected_pid = Some(*pid);
+                            }
                             ui.end_row();
                         }
                     });
                 });
             });
         });
+
+        if let Some(pid) = self.selected_pid {
+            if let Some(process) = self.sys.process(sysinfo::Pid::from(pid as usize)) {
+                process.kill_with(Signal::Kill);
+            }
+            self.selected_pid = None;
+        }
 
         ctx.request_repaint_after(Duration::from_millis(100));
     }

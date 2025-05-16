@@ -6344,3 +6344,515 @@ Wi-Fi: 0.15 Mbps (down) / 1.67 Mbps (up)
 Datos insertados en SQLite exitosamente.
 =====================================
 
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:31:33
+CPU Uso (por núcleo): CPU 1: 47.38% | CPU 2: 40.94% | CPU 3: 56.17% | CPU 4: 49.37% | CPU 5: 56.40% | CPU 6: 49.29% | CPU 7: 62.32% | CPU 8: 46.21%
+CPU Uso (promedio total): 51.01%
+Memoria total: 16221.05 MB, Memoria usada: 10469.91 MB
+Procesos más demandantes de CPU:
+[18000] brave.exe (CPU: 8.96%) | [16860] brave.exe (CPU: 4.88%) | [3944] audiodg.exe (CPU: 1.92%) | [18908] Code.exe (CPU: 1.22%) | [3672] FxSound.exe (CPU: 0.91%)
+Procesos más demandantes de RAM:
+[3852] rust-analyzer.exe (Mem: 2801.63 MB) | [16860] brave.exe (Mem: 548.51 MB) | [18000] brave.exe (Mem: 476.88 MB) | [10268] Code.exe (Mem: 459.17 MB) | [18908] Code.exe (Mem: 392.53 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 2953.50 MB | Escritura: 3544.47 MB | [C:\][Tipo: SSD] Lectura: 9105.56 MB | Escritura: 7199.78 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 1.63 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:31:39
+CPU Uso (por núcleo): CPU 1: 44.12% | CPU 2: 34.05% | CPU 3: 47.23% | CPU 4: 41.69% | CPU 5: 48.46% | CPU 6: 42.49% | CPU 7: 49.76% | CPU 8: 39.46%
+CPU Uso (promedio total): 43.41%
+Memoria total: 16221.05 MB, Memoria usada: 10433.65 MB
+Procesos más demandantes de CPU:
+[16860] brave.exe (CPU: 22.26%) | [18000] brave.exe (CPU: 6.14%) | [7244] metricas-bueno.exe (CPU: 2.93%) | [3944] audiodg.exe (CPU: 1.30%) | [17176] brave.exe (CPU: 0.64%)
+Procesos más demandantes de RAM:
+[3852] rust-analyzer.exe (Mem: 2801.63 MB) | [16860] brave.exe (Mem: 522.22 MB) | [18000] brave.exe (Mem: 477.59 MB) | [10268] Code.exe (Mem: 456.65 MB) | [18908] Code.exe (Mem: 389.72 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 2953.50 MB | Escritura: 3559.50 MB | [C:\][Tipo: SSD] Lectura: 9105.56 MB | Escritura: 7200.12 MB
+Redes:
+Wi-Fi: 0.03 Mbps (down) / 1.57 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:31:45
+CPU Uso (por núcleo): CPU 1: 44.71% | CPU 2: 34.47% | CPU 3: 49.42% | CPU 4: 40.67% | CPU 5: 48.16% | CPU 6: 40.49% | CPU 7: 47.53% | CPU 8: 38.32%
+CPU Uso (promedio total): 42.97%
+Memoria total: 16221.05 MB, Memoria usada: 10427.53 MB
+Procesos más demandantes de CPU:
+[16860] brave.exe (CPU: 20.40%) | [18000] brave.exe (CPU: 7.16%) | [7244] metricas-bueno.exe (CPU: 3.21%) | [3944] audiodg.exe (CPU: 0.91%) | [17176] brave.exe (CPU: 0.68%)
+Procesos más demandantes de RAM:
+[3852] rust-analyzer.exe (Mem: 2801.63 MB) | [16860] brave.exe (Mem: 533.61 MB) | [18000] brave.exe (Mem: 478.95 MB) | [10268] Code.exe (Mem: 456.70 MB) | [18908] Code.exe (Mem: 389.99 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 2953.50 MB | Escritura: 3568.09 MB | [C:\][Tipo: SSD] Lectura: 9105.56 MB | Escritura: 7200.24 MB
+Redes:
+Wi-Fi: 0.04 Mbps (down) / 1.57 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:31:51
+CPU Uso (por núcleo): CPU 1: 50.72% | CPU 2: 38.71% | CPU 3: 55.40% | CPU 4: 43.23% | CPU 5: 50.55% | CPU 6: 40.36% | CPU 7: 52.53% | CPU 8: 42.46%
+CPU Uso (promedio total): 46.74%
+Memoria total: 16221.05 MB, Memoria usada: 10383.05 MB
+Procesos más demandantes de CPU:
+[16860] brave.exe (CPU: 20.20%) | [18000] brave.exe (CPU: 6.14%) | [7244] metricas-bueno.exe (CPU: 2.74%) | [3944] audiodg.exe (CPU: 1.37%) | [17176] brave.exe (CPU: 0.80%)
+Procesos más demandantes de RAM:
+[3852] rust-analyzer.exe (Mem: 2801.63 MB) | [16860] brave.exe (Mem: 519.47 MB) | [18000] brave.exe (Mem: 480.70 MB) | [10268] Code.exe (Mem: 456.58 MB) | [18908] Code.exe (Mem: 390.04 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 2953.50 MB | Escritura: 3580.20 MB | [C:\][Tipo: SSD] Lectura: 9112.02 MB | Escritura: 7201.46 MB
+Redes:
+Wi-Fi: 0.05 Mbps (down) / 1.61 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:31:58
+CPU Uso (por núcleo): CPU 1: 62.05% | CPU 2: 50.46% | CPU 3: 63.04% | CPU 4: 53.29% | CPU 5: 60.40% | CPU 6: 54.01% | CPU 7: 62.00% | CPU 8: 55.01%
+CPU Uso (promedio total): 57.53%
+Memoria total: 16221.05 MB, Memoria usada: 10422.28 MB
+Procesos más demandantes de CPU:
+[16860] brave.exe (CPU: 17.35%) | [18000] brave.exe (CPU: 7.38%) | [7244] metricas-bueno.exe (CPU: 3.91%) | [18908] Code.exe (CPU: 3.29%) | [3140] Code.exe (CPU: 2.00%)
+Procesos más demandantes de RAM:
+[3852] rust-analyzer.exe (Mem: 2801.63 MB) | [16860] brave.exe (Mem: 546.64 MB) | [18000] brave.exe (Mem: 481.50 MB) | [10268] Code.exe (Mem: 456.48 MB) | [18908] Code.exe (Mem: 383.88 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 2953.50 MB | Escritura: 3594.20 MB | [C:\][Tipo: SSD] Lectura: 9127.77 MB | Escritura: 7204.02 MB
+Redes:
+Wi-Fi: 0.03 Mbps (down) / 1.54 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:32:04
+CPU Uso (por núcleo): CPU 1: 76.21% | CPU 2: 71.53% | CPU 3: 80.43% | CPU 4: 73.62% | CPU 5: 78.97% | CPU 6: 72.66% | CPU 7: 79.74% | CPU 8: 73.30%
+CPU Uso (promedio total): 75.81%
+Memoria total: 16221.05 MB, Memoria usada: 10691.70 MB
+Procesos más demandantes de CPU:
+[16860] brave.exe (CPU: 13.60%) | [18000] brave.exe (CPU: 9.15%) | [19148] Code.exe (CPU: 4.05%) | [3140] Code.exe (CPU: 3.99%) | [20024] Code.exe (CPU: 2.29%)
+Procesos más demandantes de RAM:
+[3852] rust-analyzer.exe (Mem: 2801.63 MB) | [16860] brave.exe (Mem: 537.05 MB) | [18000] brave.exe (Mem: 481.87 MB) | [10268] Code.exe (Mem: 456.38 MB) | [18908] Code.exe (Mem: 385.35 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 2953.54 MB | Escritura: 3594.28 MB | [C:\][Tipo: SSD] Lectura: 9134.52 MB | Escritura: 7207.75 MB
+Redes:
+Wi-Fi: 0.14 Mbps (down) / 1.81 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:32:12
+CPU Uso (por núcleo): CPU 1: 92.91% | CPU 2: 91.73% | CPU 3: 94.23% | CPU 4: 92.39% | CPU 5: 94.23% | CPU 6: 92.97% | CPU 7: 93.54% | CPU 8: 92.40%
+CPU Uso (promedio total): 93.05%
+Memoria total: 16221.05 MB, Memoria usada: 10898.96 MB
+Procesos más demandantes de CPU:
+[18000] brave.exe (CPU: 9.28%) | [3140] Code.exe (CPU: 8.75%) | [16860] brave.exe (CPU: 7.51%) | [19148] Code.exe (CPU: 3.73%) | [20024] Code.exe (CPU: 3.39%)
+Procesos más demandantes de RAM:
+[3852] rust-analyzer.exe (Mem: 2801.63 MB) | [16860] brave.exe (Mem: 534.21 MB) | [18000] brave.exe (Mem: 480.03 MB) | [10268] Code.exe (Mem: 456.27 MB) | [18908] Code.exe (Mem: 386.79 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 2954.59 MB | Escritura: 3594.91 MB | [C:\][Tipo: SSD] Lectura: 9138.22 MB | Escritura: 7213.31 MB
+Redes:
+Wi-Fi: 0.05 Mbps (down) / 2.58 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:32:19
+CPU Uso (por núcleo): CPU 1: 96.18% | CPU 2: 95.80% | CPU 3: 96.94% | CPU 4: 96.18% | CPU 5: 96.29% | CPU 6: 95.79% | CPU 7: 97.31% | CPU 8: 96.39%
+CPU Uso (promedio total): 96.36%
+Memoria total: 16221.05 MB, Memoria usada: 11218.17 MB
+Procesos más demandantes de CPU:
+[6108] Code.exe (CPU: 15.39%) | [18000] brave.exe (CPU: 7.90%) | [19148] Code.exe (CPU: 5.03%) | [3140] Code.exe (CPU: 4.21%) | [15132] Code.exe (CPU: 2.98%)
+Procesos más demandantes de RAM:
+[3852] rust-analyzer.exe (Mem: 2801.63 MB) | [16860] brave.exe (Mem: 560.54 MB) | [18000] brave.exe (Mem: 489.09 MB) | [10268] Code.exe (Mem: 456.28 MB) | [18908] Code.exe (Mem: 389.22 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 2957.96 MB | Escritura: 3598.16 MB | [C:\][Tipo: SSD] Lectura: 9155.24 MB | Escritura: 7216.01 MB
+Redes:
+Wi-Fi: 0.09 Mbps (down) / 1.64 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:32:25
+CPU Uso (por núcleo): CPU 1: 89.44% | CPU 2: 85.79% | CPU 3: 91.06% | CPU 4: 88.90% | CPU 5: 89.68% | CPU 6: 87.70% | CPU 7: 88.84% | CPU 8: 90.79%
+CPU Uso (promedio total): 89.02%
+Memoria total: 16221.05 MB, Memoria usada: 11466.09 MB
+Procesos más demandantes de CPU:
+[10228] Code.exe (CPU: 12.06%) | [18000] brave.exe (CPU: 9.69%) | [16860] brave.exe (CPU: 7.42%) | [6108] Code.exe (CPU: 4.37%) | [19148] Code.exe (CPU: 3.95%)
+Procesos más demandantes de RAM:
+[3852] rust-analyzer.exe (Mem: 2801.63 MB) | [16860] brave.exe (Mem: 509.34 MB) | [18000] brave.exe (Mem: 487.36 MB) | [10268] Code.exe (Mem: 456.41 MB) | [18908] Code.exe (Mem: 391.11 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 2974.74 MB | Escritura: 3600.28 MB | [C:\][Tipo: SSD] Lectura: 9166.06 MB | Escritura: 7224.73 MB
+Redes:
+Wi-Fi: 0.16 Mbps (down) / 1.49 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:32:34
+CPU Uso (por núcleo): CPU 1: 94.36% | CPU 2: 94.30% | CPU 3: 95.42% | CPU 4: 94.55% | CPU 5: 94.85% | CPU 6: 93.82% | CPU 7: 94.59% | CPU 8: 94.74%
+CPU Uso (promedio total): 94.58%
+Memoria total: 16221.05 MB, Memoria usada: 11833.88 MB
+Procesos más demandantes de CPU:
+[10228] Code.exe (CPU: 9.78%) | [18000] brave.exe (CPU: 8.13%) | [6108] Code.exe (CPU: 4.69%) | [20024] Code.exe (CPU: 3.39%) | [18908] Code.exe (CPU: 2.24%)
+Procesos más demandantes de RAM:
+[3852] rust-analyzer.exe (Mem: 2801.63 MB) | [10228] Code.exe (Mem: 552.30 MB) | [16860] brave.exe (Mem: 509.34 MB) | [18000] brave.exe (Mem: 488.95 MB) | [10268] Code.exe (Mem: 456.39 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 2991.45 MB | Escritura: 3607.13 MB | [C:\][Tipo: SSD] Lectura: 9173.94 MB | Escritura: 7226.05 MB
+Redes:
+Wi-Fi: 0.03 Mbps (down) / 1.54 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:32:50
+CPU Uso (por núcleo): CPU 1: 94.38% | CPU 2: 93.22% | CPU 3: 95.58% | CPU 4: 95.77% | CPU 5: 94.22% | CPU 6: 93.30% | CPU 7: 94.99% | CPU 8: 95.23%
+CPU Uso (promedio total): 94.59%
+Memoria total: 16221.05 MB, Memoria usada: 13258.77 MB
+Procesos más demandantes de CPU:
+[10228] Code.exe (CPU: 8.54%) | [4204] Code.exe (CPU: 7.51%) | [18000] brave.exe (CPU: 6.01%) | [6108] Code.exe (CPU: 5.70%) | [12704] rust-analyzer.exe (CPU: 3.92%)
+Procesos más demandantes de RAM:
+[3852] rust-analyzer.exe (Mem: 2738.82 MB) | [20044] python.exe (Mem: 1010.44 MB) | [10228] Code.exe (Mem: 641.56 MB) | [16860] brave.exe (Mem: 506.84 MB) | [10268] Code.exe (Mem: 456.27 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3006.58 MB | Escritura: 3620.37 MB | [C:\][Tipo: SSD] Lectura: 9229.77 MB | Escritura: 7248.50 MB
+Redes:
+Wi-Fi: 0.03 Mbps (down) / 0.46 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:32:56
+CPU Uso (por núcleo): CPU 1: 100.00% | CPU 2: 100.00% | CPU 3: 100.00% | CPU 4: 100.00% | CPU 5: 100.00% | CPU 6: 100.00% | CPU 7: 100.00% | CPU 8: 100.00%
+CPU Uso (promedio total): 100.00%
+Memoria total: 16221.05 MB, Memoria usada: 13966.50 MB
+Procesos más demandantes de CPU:
+[12704] rust-analyzer.exe (CPU: 5.37%) | [6108] Code.exe (CPU: 4.49%) | [18000] brave.exe (CPU: 3.98%) | [4204] Code.exe (CPU: 3.94%) | [10228] Code.exe (CPU: 3.86%)
+Procesos más demandantes de RAM:
+[3852] rust-analyzer.exe (Mem: 2687.24 MB) | [20044] python.exe (Mem: 1338.71 MB) | [12704] rust-analyzer.exe (Mem: 658.12 MB) | [10228] Code.exe (Mem: 655.52 MB) | [16860] brave.exe (Mem: 502.35 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3006.95 MB | Escritura: 3621.93 MB | [C:\][Tipo: SSD] Lectura: 9244.31 MB | Escritura: 7251.60 MB
+Redes:
+Wi-Fi: 0.07 Mbps (down) / 1.13 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:33:02
+CPU Uso (por núcleo): CPU 1: 100.00% | CPU 2: 100.00% | CPU 3: 100.00% | CPU 4: 100.00% | CPU 5: 100.00% | CPU 6: 100.00% | CPU 7: 100.00% | CPU 8: 100.00%
+CPU Uso (promedio total): 100.00%
+Memoria total: 16221.05 MB, Memoria usada: 14292.53 MB
+Procesos más demandantes de CPU:
+[4204] Code.exe (CPU: 7.24%) | [18000] brave.exe (CPU: 6.52%) | [10228] Code.exe (CPU: 3.98%) | [6108] Code.exe (CPU: 3.51%) | [7244] metricas-bueno.exe (CPU: 3.28%)
+Procesos más demandantes de RAM:
+[3852] rust-analyzer.exe (Mem: 2687.24 MB) | [20044] python.exe (Mem: 1720.07 MB) | [12704] rust-analyzer.exe (Mem: 669.81 MB) | [10228] Code.exe (Mem: 563.56 MB) | [16860] brave.exe (Mem: 502.35 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3007.16 MB | Escritura: 3623.46 MB | [C:\][Tipo: SSD] Lectura: 9257.42 MB | Escritura: 7253.97 MB
+Redes:
+Wi-Fi: 0.05 Mbps (down) / 1.03 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:33:07
+CPU Uso (por núcleo): CPU 1: 99.47% | CPU 2: 99.55% | CPU 3: 99.64% | CPU 4: 99.72% | CPU 5: 99.94% | CPU 6: 99.94% | CPU 7: 99.82% | CPU 8: 99.73%
+CPU Uso (promedio total): 99.72%
+Memoria total: 16221.05 MB, Memoria usada: 12783.29 MB
+Procesos más demandantes de CPU:
+[4204] Code.exe (CPU: 8.34%) | [18000] brave.exe (CPU: 6.87%) | [6108] Code.exe (CPU: 3.65%) | [20024] Code.exe (CPU: 2.80%) | [10228] Code.exe (CPU: 2.67%)
+Procesos más demandantes de RAM:
+[3852] rust-analyzer.exe (Mem: 2674.43 MB) | [20044] python.exe (Mem: 1720.07 MB) | [12704] rust-analyzer.exe (Mem: 679.37 MB) | [10228] Code.exe (Mem: 567.56 MB) | [16860] brave.exe (Mem: 502.33 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3007.16 MB | Escritura: 3624.22 MB | [C:\][Tipo: SSD] Lectura: 9297.77 MB | Escritura: 7255.69 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 1.02 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:33:13
+CPU Uso (por núcleo): CPU 1: 87.16% | CPU 2: 83.32% | CPU 3: 88.91% | CPU 4: 86.60% | CPU 5: 86.09% | CPU 6: 83.75% | CPU 7: 87.49% | CPU 8: 87.05%
+CPU Uso (promedio total): 86.30%
+Memoria total: 16221.05 MB, Memoria usada: 13241.71 MB
+Procesos más demandantes de CPU:
+[4204] Code.exe (CPU: 17.65%) | [18000] brave.exe (CPU: 5.32%) | [6108] Code.exe (CPU: 3.50%) | [10228] Code.exe (CPU: 3.17%) | [10268] Code.exe (CPU: 2.65%)
+Procesos más demandantes de RAM:
+[3852] rust-analyzer.exe (Mem: 2674.43 MB) | [20044] python.exe (Mem: 1720.07 MB) | [6160] python.exe (Mem: 730.32 MB) | [12704] rust-analyzer.exe (Mem: 722.18 MB) | [10228] Code.exe (Mem: 562.92 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3007.16 MB | Escritura: 3624.90 MB | [C:\][Tipo: SSD] Lectura: 9358.17 MB | Escritura: 7261.88 MB
+Redes:
+Wi-Fi: 7.56 Mbps (down) / 1.15 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:33:19
+CPU Uso (por núcleo): CPU 1: 66.72% | CPU 2: 56.19% | CPU 3: 63.96% | CPU 4: 66.58% | CPU 5: 65.93% | CPU 6: 55.43% | CPU 7: 66.52% | CPU 8: 58.69%
+CPU Uso (promedio total): 62.50%
+Memoria total: 16221.05 MB, Memoria usada: 13663.41 MB
+Procesos más demandantes de CPU:
+[4204] Code.exe (CPU: 14.20%) | [18000] brave.exe (CPU: 4.80%) | [17196] Spotify.exe (CPU: 2.96%) | [6108] Code.exe (CPU: 2.69%) | [18060] Spotify.exe (CPU: 2.66%)
+Procesos más demandantes de RAM:
+[3852] rust-analyzer.exe (Mem: 2674.43 MB) | [20044] python.exe (Mem: 1720.07 MB) | [6160] python.exe (Mem: 1167.07 MB) | [12704] rust-analyzer.exe (Mem: 766.87 MB) | [10228] Code.exe (Mem: 561.02 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3007.74 MB | Escritura: 3625.02 MB | [C:\][Tipo: SSD] Lectura: 9372.24 MB | Escritura: 7269.03 MB
+Redes:
+Wi-Fi: 0.11 Mbps (down) / 1.05 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:33:25
+CPU Uso (por núcleo): CPU 1: 69.02% | CPU 2: 63.57% | CPU 3: 69.19% | CPU 4: 69.51% | CPU 5: 68.46% | CPU 6: 63.94% | CPU 7: 68.47% | CPU 8: 68.27%
+CPU Uso (promedio total): 67.56%
+Memoria total: 16221.05 MB, Memoria usada: 12556.05 MB
+Procesos más demandantes de CPU:
+[12704] rust-analyzer.exe (CPU: 17.93%) | [18000] brave.exe (CPU: 4.94%) | [3944] audiodg.exe (CPU: 1.73%) | [20024] Code.exe (CPU: 1.67%) | [6108] Code.exe (CPU: 1.29%)
+Procesos más demandantes de RAM:
+[3852] rust-analyzer.exe (Mem: 2674.43 MB) | [20044] python.exe (Mem: 1720.07 MB) | [6160] python.exe (Mem: 1167.07 MB) | [12704] rust-analyzer.exe (Mem: 817.89 MB) | [10228] Code.exe (Mem: 561.46 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3007.74 MB | Escritura: 3625.13 MB | [C:\][Tipo: SSD] Lectura: 9372.43 MB | Escritura: 7270.16 MB
+Redes:
+Wi-Fi: 0.04 Mbps (down) / 1.05 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:33:31
+CPU Uso (por núcleo): CPU 1: 62.85% | CPU 2: 55.10% | CPU 3: 67.57% | CPU 4: 60.61% | CPU 5: 60.66% | CPU 6: 61.04% | CPU 7: 63.17% | CPU 8: 58.44%
+CPU Uso (promedio total): 61.18%
+Memoria total: 16221.05 MB, Memoria usada: 12662.31 MB
+Procesos más demandantes de CPU:
+[12704] rust-analyzer.exe (CPU: 5.13%) | [18000] brave.exe (CPU: 4.50%) | [6108] Code.exe (CPU: 4.26%) | [7244] metricas-bueno.exe (CPU: 2.75%) | [3944] audiodg.exe (CPU: 1.58%)
+Procesos más demandantes de RAM:
+[3852] rust-analyzer.exe (Mem: 2674.43 MB) | [20044] python.exe (Mem: 1720.07 MB) | [6160] python.exe (Mem: 1167.07 MB) | [12704] rust-analyzer.exe (Mem: 824.12 MB) | [10228] Code.exe (Mem: 561.23 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3012.64 MB | Escritura: 3631.51 MB | [C:\][Tipo: SSD] Lectura: 9412.54 MB | Escritura: 7270.73 MB
+Redes:
+Wi-Fi: 0.03 Mbps (down) / 0.85 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:33:38
+CPU Uso (por núcleo): CPU 1: 95.58% | CPU 2: 93.95% | CPU 3: 95.81% | CPU 4: 94.95% | CPU 5: 95.28% | CPU 6: 94.56% | CPU 7: 95.38% | CPU 8: 94.54%
+CPU Uso (promedio total): 95.01%
+Memoria total: 16221.05 MB, Memoria usada: 10579.01 MB
+Procesos más demandantes de CPU:
+[18000] brave.exe (CPU: 4.22%) | [10228] Code.exe (CPU: 2.91%) | [18908] Code.exe (CPU: 2.88%) | [20024] Code.exe (CPU: 2.54%) | [7244] metricas-bueno.exe (CPU: 2.25%)
+Procesos más demandantes de RAM:
+[20044] python.exe (Mem: 1720.07 MB) | [6160] python.exe (Mem: 1167.07 MB) | [12704] rust-analyzer.exe (Mem: 825.32 MB) | [10228] Code.exe (Mem: 562.06 MB) | [16860] brave.exe (Mem: 501.12 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3013.98 MB | Escritura: 3639.56 MB | [C:\][Tipo: SSD] Lectura: 9419.42 MB | Escritura: 7271.26 MB
+Redes:
+Wi-Fi: 0.03 Mbps (down) / 0.53 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:33:44
+CPU Uso (por núcleo): CPU 1: 100.00% | CPU 2: 100.00% | CPU 3: 100.00% | CPU 4: 100.00% | CPU 5: 100.00% | CPU 6: 100.00% | CPU 7: 100.00% | CPU 8: 100.00%
+CPU Uso (promedio total): 100.00%
+Memoria total: 16221.05 MB, Memoria usada: 10010.30 MB
+Procesos más demandantes de CPU:
+[20024] Code.exe (CPU: 3.83%) | [18000] brave.exe (CPU: 2.94%) | [6108] Code.exe (CPU: 2.78%) | [18908] Code.exe (CPU: 2.23%) | [3944] audiodg.exe (CPU: 1.96%)
+Procesos más demandantes de RAM:
+[20044] python.exe (Mem: 1720.07 MB) | [6160] python.exe (Mem: 1167.07 MB) | [12704] rust-analyzer.exe (Mem: 825.88 MB) | [10228] Code.exe (Mem: 561.98 MB) | [16860] brave.exe (Mem: 501.12 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3044.69 MB | Escritura: 3643.07 MB | [C:\][Tipo: SSD] Lectura: 9424.61 MB | Escritura: 7303.95 MB
+Redes:
+Wi-Fi: 0.03 Mbps (down) / 0.94 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:33:51
+CPU Uso (por núcleo): CPU 1: 93.49% | CPU 2: 92.48% | CPU 3: 93.72% | CPU 4: 94.35% | CPU 5: 93.15% | CPU 6: 92.86% | CPU 7: 96.07% | CPU 8: 95.84%
+CPU Uso (promedio total): 93.99%
+Memoria total: 16221.05 MB, Memoria usada: 10852.16 MB
+Procesos más demandantes de CPU:
+[18000] brave.exe (CPU: 4.67%) | [20024] Code.exe (CPU: 3.76%) | [7244] metricas-bueno.exe (CPU: 2.90%) | [3944] audiodg.exe (CPU: 1.85%) | [18908] Code.exe (CPU: 1.72%)
+Procesos más demandantes de RAM:
+[20044] python.exe (Mem: 1720.07 MB) | [6160] python.exe (Mem: 1167.07 MB) | [12704] rust-analyzer.exe (Mem: 825.93 MB) | [10228] Code.exe (Mem: 562.05 MB) | [16860] brave.exe (Mem: 501.12 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3071.01 MB | Escritura: 3649.77 MB | [C:\][Tipo: SSD] Lectura: 9427.14 MB | Escritura: 7333.13 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.50 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:33:57
+CPU Uso (por núcleo): CPU 1: 100.00% | CPU 2: 100.00% | CPU 3: 100.00% | CPU 4: 100.00% | CPU 5: 100.00% | CPU 6: 100.00% | CPU 7: 100.00% | CPU 8: 100.00%
+CPU Uso (promedio total): 100.00%
+Memoria total: 16221.05 MB, Memoria usada: 10646.73 MB
+Procesos más demandantes de CPU:
+[20024] Code.exe (CPU: 4.10%) | [7244] metricas-bueno.exe (CPU: 3.16%) | [10228] Code.exe (CPU: 2.76%) | [18000] brave.exe (CPU: 2.62%) | [3944] audiodg.exe (CPU: 2.28%)
+Procesos más demandantes de RAM:
+[20044] python.exe (Mem: 1720.07 MB) | [6160] python.exe (Mem: 1167.07 MB) | [12704] rust-analyzer.exe (Mem: 829.10 MB) | [10228] Code.exe (Mem: 562.45 MB) | [16860] brave.exe (Mem: 501.12 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3074.65 MB | Escritura: 3657.77 MB | [C:\][Tipo: SSD] Lectura: 9429.23 MB | Escritura: 7357.52 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.90 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:34:05
+CPU Uso (por núcleo): CPU 1: 99.28% | CPU 2: 99.02% | CPU 3: 98.17% | CPU 4: 98.62% | CPU 5: 96.73% | CPU 6: 97.05% | CPU 7: 97.65% | CPU 8: 98.44%
+CPU Uso (promedio total): 98.12%
+Memoria total: 16221.05 MB, Memoria usada: 11000.13 MB
+Procesos más demandantes de CPU:
+[12704] rust-analyzer.exe (CPU: 10.08%) | [7244] metricas-bueno.exe (CPU: 5.34%) | [18000] brave.exe (CPU: 4.16%) | [20024] Code.exe (CPU: 3.46%) | [6108] Code.exe (CPU: 2.48%)
+Procesos más demandantes de RAM:
+[20044] python.exe (Mem: 1720.07 MB) | [6160] python.exe (Mem: 1167.07 MB) | [12704] rust-analyzer.exe (Mem: 983.89 MB) | [10228] Code.exe (Mem: 561.80 MB) | [16860] brave.exe (Mem: 501.13 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3074.90 MB | Escritura: 3663.00 MB | [C:\][Tipo: SSD] Lectura: 9431.38 MB | Escritura: 7360.21 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.40 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:34:12
+CPU Uso (por núcleo): CPU 1: 100.00% | CPU 2: 100.00% | CPU 3: 100.00% | CPU 4: 100.00% | CPU 5: 100.00% | CPU 6: 100.00% | CPU 7: 100.00% | CPU 8: 100.00%
+CPU Uso (promedio total): 100.00%
+Memoria total: 16221.05 MB, Memoria usada: 11767.64 MB
+Procesos más demandantes de CPU:
+[12704] rust-analyzer.exe (CPU: 5.79%) | [7244] metricas-bueno.exe (CPU: 4.92%) | [18000] brave.exe (CPU: 3.51%) | [20024] Code.exe (CPU: 2.82%) | [3944] audiodg.exe (CPU: 2.28%)
+Procesos más demandantes de RAM:
+[20044] python.exe (Mem: 1720.07 MB) | [6160] python.exe (Mem: 1167.07 MB) | [12704] rust-analyzer.exe (Mem: 1088.06 MB) | [10228] Code.exe (Mem: 561.98 MB) | [16860] brave.exe (Mem: 501.13 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3074.90 MB | Escritura: 3667.95 MB | [C:\][Tipo: SSD] Lectura: 9432.70 MB | Escritura: 7360.85 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.19 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:34:20
+CPU Uso (por núcleo): CPU 1: 100.00% | CPU 2: 100.00% | CPU 3: 100.00% | CPU 4: 100.00% | CPU 5: 100.00% | CPU 6: 100.00% | CPU 7: 100.00% | CPU 8: 100.00%
+CPU Uso (promedio total): 100.00%
+Memoria total: 16221.05 MB, Memoria usada: 12928.51 MB
+Procesos más demandantes de CPU:
+[12704] rust-analyzer.exe (CPU: 7.97%) | [9268] rustc.exe (CPU: 5.87%) | [7244] metricas-bueno.exe (CPU: 4.50%) | [7524] rustc.exe (CPU: 2.92%) | [20024] Code.exe (CPU: 2.68%)
+Procesos más demandantes de RAM:
+[20044] python.exe (Mem: 1720.07 MB) | [12704] rust-analyzer.exe (Mem: 1261.62 MB) | [6160] python.exe (Mem: 1167.07 MB) | [10228] Code.exe (Mem: 561.66 MB) | [16860] brave.exe (Mem: 501.13 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3074.90 MB | Escritura: 3668.76 MB | [C:\][Tipo: SSD] Lectura: 9433.41 MB | Escritura: 7361.45 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.35 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:34:28
+CPU Uso (por núcleo): CPU 1: 100.00% | CPU 2: 100.00% | CPU 3: 100.00% | CPU 4: 100.00% | CPU 5: 100.00% | CPU 6: 100.00% | CPU 7: 100.00% | CPU 8: 100.00%
+CPU Uso (promedio total): 100.00%
+Memoria total: 16221.05 MB, Memoria usada: 13548.47 MB
+Procesos más demandantes de CPU:
+[12704] rust-analyzer.exe (CPU: 9.51%) | [9268] rustc.exe (CPU: 6.06%) | [7244] metricas-bueno.exe (CPU: 5.13%) | [9500] rustc.exe (CPU: 4.20%) | [20024] Code.exe (CPU: 3.19%)
+Procesos más demandantes de RAM:
+[20044] python.exe (Mem: 1720.07 MB) | [12704] rust-analyzer.exe (Mem: 1465.93 MB) | [6160] python.exe (Mem: 1167.07 MB) | [7524] rustc.exe (Mem: 577.61 MB) | [10228] Code.exe (Mem: 562.34 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3074.90 MB | Escritura: 3695.93 MB | [C:\][Tipo: SSD] Lectura: 9436.88 MB | Escritura: 7362.34 MB
+Redes:
+Wi-Fi: 0.04 Mbps (down) / 0.29 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:34:35
+CPU Uso (por núcleo): CPU 1: 100.00% | CPU 2: 100.00% | CPU 3: 100.00% | CPU 4: 100.00% | CPU 5: 100.00% | CPU 6: 100.00% | CPU 7: 100.00% | CPU 8: 100.00%
+CPU Uso (promedio total): 100.00%
+Memoria total: 16221.05 MB, Memoria usada: 14507.55 MB
+Procesos más demandantes de CPU:
+[9268] rustc.exe (CPU: 6.06%) | [12704] rust-analyzer.exe (CPU: 5.76%) | [7244] metricas-bueno.exe (CPU: 4.63%) | [7524] rustc.exe (CPU: 4.35%) | [10472] rustc.exe (CPU: 4.04%)
+Procesos más demandantes de RAM:
+[20044] python.exe (Mem: 1720.07 MB) | [12704] rust-analyzer.exe (Mem: 1561.30 MB) | [6160] python.exe (Mem: 1167.07 MB) | [7524] rustc.exe (Mem: 681.75 MB) | [10228] Code.exe (Mem: 562.18 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3075.92 MB | Escritura: 3713.51 MB | [C:\][Tipo: SSD] Lectura: 9448.71 MB | Escritura: 7362.86 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.22 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:34:42
+CPU Uso (por núcleo): CPU 1: 100.00% | CPU 2: 100.00% | CPU 3: 100.00% | CPU 4: 100.00% | CPU 5: 100.00% | CPU 6: 100.00% | CPU 7: 100.00% | CPU 8: 100.00%
+CPU Uso (promedio total): 100.00%
+Memoria total: 16221.05 MB, Memoria usada: 10878.06 MB
+Procesos más demandantes de CPU:
+[9500] rustc.exe (CPU: 6.28%) | [9268] rustc.exe (CPU: 6.06%) | [12704] rust-analyzer.exe (CPU: 5.76%) | [7524] rustc.exe (CPU: 5.31%) | [10472] rustc.exe (CPU: 4.04%)
+Procesos más demandantes de RAM:
+[20044] python.exe (Mem: 1720.07 MB) | [12704] rust-analyzer.exe (Mem: 1561.30 MB) | [6160] python.exe (Mem: 1167.07 MB) | [7524] rustc.exe (Mem: 781.67 MB) | [10228] Code.exe (Mem: 562.44 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3075.98 MB | Escritura: 3720.96 MB | [C:\][Tipo: SSD] Lectura: 9449.79 MB | Escritura: 7363.65 MB
+Redes:
+Wi-Fi: 0.05 Mbps (down) / 0.32 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:34:48
+CPU Uso (por núcleo): CPU 1: 99.85% | CPU 2: 99.85% | CPU 3: 99.68% | CPU 4: 99.52% | CPU 5: 99.23% | CPU 6: 99.11% | CPU 7: 99.50% | CPU 8: 99.91%
+CPU Uso (promedio total): 99.58%
+Memoria total: 16221.05 MB, Memoria usada: 11631.21 MB
+Procesos más demandantes de CPU:
+[7524] rustc.exe (CPU: 8.05%) | [9500] rustc.exe (CPU: 7.84%) | [19868] rustc.exe (CPU: 7.67%) | [9268] rustc.exe (CPU: 6.06%) | [12704] rust-analyzer.exe (CPU: 5.76%)
+Procesos más demandantes de RAM:
+[20044] python.exe (Mem: 1720.07 MB) | [12704] rust-analyzer.exe (Mem: 1561.30 MB) | [6160] python.exe (Mem: 1167.07 MB) | [7524] rustc.exe (Mem: 920.12 MB) | [19868] rustc.exe (Mem: 733.38 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3075.98 MB | Escritura: 3721.34 MB | [C:\][Tipo: SSD] Lectura: 9449.92 MB | Escritura: 7363.81 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.33 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:34:55
+CPU Uso (por núcleo): CPU 1: 99.39% | CPU 2: 99.46% | CPU 3: 98.03% | CPU 4: 99.04% | CPU 5: 94.85% | CPU 6: 95.41% | CPU 7: 97.67% | CPU 8: 98.55%
+CPU Uso (promedio total): 97.80%
+Memoria total: 16221.05 MB, Memoria usada: 11650.55 MB
+Procesos más demandantes de CPU:
+[17116] rust-analyzer.exe (CPU: 11.37%) | [9500] rustc.exe (CPU: 9.44%) | [7524] rustc.exe (CPU: 9.34%) | [19868] rustc.exe (CPU: 8.95%) | [9268] rustc.exe (CPU: 6.06%)
+Procesos más demandantes de RAM:
+[20044] python.exe (Mem: 1720.07 MB) | [12704] rust-analyzer.exe (Mem: 1561.30 MB) | [6160] python.exe (Mem: 1167.07 MB) | [19868] rustc.exe (Mem: 856.14 MB) | [17116] rust-analyzer.exe (Mem: 836.22 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3097.05 MB | Escritura: 3721.45 MB | [C:\][Tipo: SSD] Lectura: 9450.36 MB | Escritura: 7386.45 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.26 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:35:01
+CPU Uso (por núcleo): CPU 1: 100.00% | CPU 2: 100.00% | CPU 3: 99.97% | CPU 4: 99.99% | CPU 5: 99.93% | CPU 6: 99.94% | CPU 7: 99.98% | CPU 8: 99.99%
+CPU Uso (promedio total): 99.97%
+Memoria total: 16221.05 MB, Memoria usada: 12094.57 MB
+Procesos más demandantes de CPU:
+[17116] rust-analyzer.exe (CPU: 15.71%) | [19708] rust-analyzer.exe (CPU: 12.97%) | [7524] rustc.exe (CPU: 9.34%) | [9268] rustc.exe (CPU: 6.06%) | [9500] rustc.exe (CPU: 5.90%)
+Procesos más demandantes de RAM:
+[20044] python.exe (Mem: 1720.07 MB) | [12704] rust-analyzer.exe (Mem: 1561.30 MB) | [6160] python.exe (Mem: 1167.07 MB) | [19868] rustc.exe (Mem: 1115.60 MB) | [17116] rust-analyzer.exe (Mem: 871.23 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3097.05 MB | Escritura: 3739.78 MB | [C:\][Tipo: SSD] Lectura: 9453.10 MB | Escritura: 7386.85 MB
+Redes:
+Wi-Fi: 0.03 Mbps (down) / 0.36 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 02:35:08
+CPU Uso (por núcleo): CPU 1: 99.22% | CPU 2: 98.73% | CPU 3: 97.45% | CPU 4: 97.97% | CPU 5: 96.66% | CPU 6: 95.74% | CPU 7: 98.09% | CPU 8: 97.78%
+CPU Uso (promedio total): 97.70%
+Memoria total: 16221.05 MB, Memoria usada: 10928.82 MB
+Procesos más demandantes de CPU:
+[17116] rust-analyzer.exe (CPU: 21.33%) | [7524] rustc.exe (CPU: 9.34%) | [19868] rustc.exe (CPU: 8.80%) | [9268] rustc.exe (CPU: 6.06%) | [9500] rustc.exe (CPU: 5.90%)
+Procesos más demandantes de RAM:
+[20044] python.exe (Mem: 1720.07 MB) | [12704] rust-analyzer.exe (Mem: 1561.30 MB) | [17116] rust-analyzer.exe (Mem: 1181.89 MB) | [6160] python.exe (Mem: 1167.07 MB) | [19868] rustc.exe (Mem: 822.04 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 3097.05 MB | Escritura: 3739.89 MB | [C:\][Tipo: SSD] Lectura: 9453.61 MB | Escritura: 7389.15 MB
+Redes:
+Wi-Fi: 0.48 Mbps (down) / 0.33 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
