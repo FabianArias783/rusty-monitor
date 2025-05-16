@@ -1,5 +1,6 @@
 use notify_rust::Notification;
 use std::time::{Instant, Duration};
+use sysinfo::{System}; // Importa solo System
 
 #[derive(Clone)]
 pub struct AlertCondition {
@@ -34,14 +35,51 @@ impl AlertManager {
         self.alerts.push(alert);
     }
 
-    pub fn check_alerts(&mut self, cpu: f32, net: f32, mem: f32) {
+    pub fn check_alerts(&mut self, cpu: f32, net: f32, mem: f32, system: &System, num_cores: f32) {
         let alerts = self.alerts.clone(); // evitar préstamos conflictivos
 
         for alert in alerts {
-            if cpu > alert.cpu_threshold || net > alert.network_threshold || mem > alert.memory_threshold {
+            if cpu > alert.cpu_threshold {
+                // Obtener el proceso con mayor uso de CPU
+                let mut processes = system.processes().values().collect::<Vec<_>>();
+                processes.sort_by(|a, b| b.cpu_usage().partial_cmp(&a.cpu_usage()).unwrap());
+                if let Some(top_process) = processes.first() {
+                    let top_cpu_percent = top_process.cpu_usage() / num_cores;
+                    self.trigger_cpu_alert(&alert, cpu, &top_process.name().to_string_lossy(), top_cpu_percent);
+                } else {
+                    self.trigger_alert(&alert, cpu, net, mem); // Si no hay procesos, alerta genérica
+                }
+            } else if net > alert.network_threshold || mem > alert.memory_threshold {
                 self.trigger_alert(&alert, cpu, net, mem);
             }
         }
+    }
+
+    fn trigger_cpu_alert(&mut self, alert: &AlertCondition, cpu: f32, process_name: &str, process_cpu: f32) {
+        let now = Instant::now();
+
+        if let Some(last) = self.last_alert {
+            if now.duration_since(last) < Duration::from_secs(60) {
+                return; // Cooldown de 60 segundos
+            }
+        }
+
+        self.last_alert = Some(now);
+
+        println!(
+            "⚠️ ALERTA: ¡Alto uso de CPU detectado!\n\
+             Proceso: {} ({:.2}%)\n\
+             Uso total de CPU: {:.2}% (Umbral: {:.2}%)",
+            process_name, process_cpu, cpu, alert.cpu_threshold
+        );
+
+        let _ = Notification::new()
+            .summary("⚠️ ¡Alerta de CPU!")
+            .body(&format!(
+                "Proceso: {} ({:.2}%)\nUso total de CPU: {:.2}% (>{:.2}%)",
+                process_name, process_cpu, cpu, alert.cpu_threshold
+            ))
+            .show();
     }
 
     fn trigger_alert(&mut self, alert: &AlertCondition, cpu: f32, net: f32, mem: f32) {

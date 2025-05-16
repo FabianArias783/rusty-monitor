@@ -856,3 +856,243 @@ Wi-Fi: 0.03 Mbps (down) / 0.32 Mbps (up)
 Datos insertados en SQLite exitosamente.
 =====================================
 
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:28:41
+CPU Uso: CPU 1: 0.86% | CPU 2: 0.27% | CPU 3: 7.61% | CPU 4: 0.29% | CPU 5: 3.80% | CPU 6: 0.87% | CPU 7: 1.34% | CPU 8: 0.36%
+Memoria total: 16221.05 MB, Memoria usada: 10736.02 MB
+Procesos más demandantes de CPU:
+[18888] msedgewebview2.exe (CPU: 0.00%) | [4488] IntelCpHeciSvc.exe (CPU: 0.00%) | [6500] powershell.exe (CPU: 0.00%) | [19112] Spotify.exe (CPU: 0.00%) | [18832] Code.exe (CPU: 0.00%)
+Procesos más demandantes de RAM:
+[19312] Code.exe (Mem: 371.55 MB) | [2452] brave.exe (Mem: 369.34 MB) | [24368] brave.exe (Mem: 347.33 MB) | [22052] Code.exe (Mem: 338.17 MB) | [4256] rust-analyzer.exe (Mem: 321.49 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 8880.64 MB | Escritura: 13098.21 MB | [C:\][Tipo: SSD] Lectura: 45030.47 MB | Escritura: 57825.47 MB
+Redes:
+Wi-Fi: 0.03 Mbps (down) / 0.04 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:28:47
+CPU Uso: CPU 1: 3.20% | CPU 2: 3.31% | CPU 3: 7.00% | CPU 4: 3.34% | CPU 5: 6.26% | CPU 6: 2.29% | CPU 7: 5.11% | CPU 8: 2.37%
+Memoria total: 16221.05 MB, Memoria usada: 10746.34 MB
+Procesos más demandantes de CPU:
+[3212] svchost.exe (CPU: 0.00%) | [20036] Code.exe (CPU: 0.00%) | [2020] svchost.exe (CPU: 0.00%) | [2596] svchost.exe (CPU: 0.00%) | [1488] svchost.exe (CPU: 0.00%)
+Procesos más demandantes de RAM:
+[2452] brave.exe (Mem: 370.73 MB) | [19312] Code.exe (Mem: 370.66 MB) | [24368] brave.exe (Mem: 356.07 MB) | [22052] Code.exe (Mem: 337.71 MB) | [4256] rust-analyzer.exe (Mem: 321.49 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 8880.64 MB | Escritura: 13098.46 MB | [C:\][Tipo: SSD] Lectura: 45030.54 MB | Escritura: 57825.77 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:28:54
+CPU Uso: CPU 1: 5.08% | CPU 2: 5.54% | CPU 3: 10.29% | CPU 4: 5.05% | CPU 5: 6.01% | CPU 6: 3.68% | CPU 7: 5.81% | CPU 8: 4.37%
+Memoria total: 16221.05 MB, Memoria usada: 10709.13 MB
+Procesos más demandantes de CPU:
+[15912] ShellHost.exe (CPU: 0.00%) | [724] csrss.exe (CPU: 0.00%) | [21788] powershell.exe (CPU: 0.00%) | [2288] svchost.exe (CPU: 0.00%) | [7672] Code.exe (CPU: 0.00%)
+Procesos más demandantes de RAM:
+[2452] brave.exe (Mem: 370.99 MB) | [19312] Code.exe (Mem: 370.86 MB) | [24368] brave.exe (Mem: 353.04 MB) | [22052] Code.exe (Mem: 337.61 MB) | [4256] rust-analyzer.exe (Mem: 321.49 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 8880.64 MB | Escritura: 13098.59 MB | [C:\][Tipo: SSD] Lectura: 45030.54 MB | Escritura: 57826.17 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:29:00
+CPU Uso: CPU 1: 4.30% | CPU 2: 3.88% | CPU 3: 7.53% | CPU 4: 4.23% | CPU 5: 6.70% | CPU 6: 3.80% | CPU 7: 4.84% | CPU 8: 4.05%
+Memoria total: 16221.05 MB, Memoria usada: 10665.37 MB
+Procesos más demandantes de CPU:
+[2780] svchost.exe (CPU: 0.00%) | [2088] svchost.exe (CPU: 0.00%) | [11872] CodeSetup-stable-91fa95bccb027ece6a968589bb1d662fa9c8e170.exe (CPU: 0.00%) | [3352] svchost.exe (CPU: 0.00%) | [11360] RuntimeBroker.exe (CPU: 0.00%)
+Procesos más demandantes de RAM:
+[2452] brave.exe (Mem: 371.25 MB) | [19312] Code.exe (Mem: 370.90 MB) | [24368] brave.exe (Mem: 348.07 MB) | [22052] Code.exe (Mem: 337.60 MB) | [4256] rust-analyzer.exe (Mem: 321.49 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 8880.64 MB | Escritura: 13099.32 MB | [C:\][Tipo: SSD] Lectura: 45030.54 MB | Escritura: 57826.57 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:29:07
+CPU Uso: CPU 1: 1.95% | CPU 2: 0.96% | CPU 3: 7.45% | CPU 4: 0.97% | CPU 5: 4.56% | CPU 6: 0.75% | CPU 7: 1.64% | CPU 8: 1.01%
+Memoria total: 16221.05 MB, Memoria usada: 10696.21 MB
+Procesos más demandantes de CPU:
+[22968] rust-analyzer.exe (CPU: 0.00%) | [4744] msedgewebview2.exe (CPU: 0.00%) | [4512] mDNSResponder.exe (CPU: 0.00%) | [4692] WsidService.exe (CPU: 0.00%) | [12068] SearchIndexer.exe (CPU: 0.00%)
+Procesos más demandantes de RAM:
+[2452] brave.exe (Mem: 371.50 MB) | [19312] Code.exe (Mem: 370.57 MB) | [24368] brave.exe (Mem: 369.22 MB) | [22052] Code.exe (Mem: 337.55 MB) | [4256] rust-analyzer.exe (Mem: 321.49 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 8880.64 MB | Escritura: 13099.46 MB | [C:\][Tipo: SSD] Lectura: 45030.54 MB | Escritura: 57827.70 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:29:13
+CPU Uso: CPU 1: 4.46% | CPU 2: 2.25% | CPU 3: 8.75% | CPU 4: 2.79% | CPU 5: 5.16% | CPU 6: 2.53% | CPU 7: 3.94% | CPU 8: 2.75%
+Memoria total: 16221.05 MB, Memoria usada: 10673.27 MB
+Procesos más demandantes de CPU:
+[13324] lghub_agent.exe (CPU: 0.21%) | [3604] Trading Paints.exe (CPU: 0.11%) | [12224] WhatsApp.exe (CPU: 0.08%) | [13688] lghub_system_tray.exe (CPU: 0.07%) | [9168] nvcontainer.exe (CPU: 0.06%)
+Procesos más demandantes de RAM:
+[2452] brave.exe (Mem: 371.89 MB) | [19312] Code.exe (Mem: 370.63 MB) | [24368] brave.exe (Mem: 359.30 MB) | [22052] Code.exe (Mem: 337.61 MB) | [4256] rust-analyzer.exe (Mem: 321.49 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 8880.64 MB | Escritura: 13099.60 MB | [C:\][Tipo: SSD] Lectura: 45030.54 MB | Escritura: 57828.46 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:29:20
+CPU Uso: CPU 1: 2.31% | CPU 2: 0.97% | CPU 3: 7.76% | CPU 4: 0.94% | CPU 5: 4.20% | CPU 6: 1.04% | CPU 7: 1.94% | CPU 8: 1.63%
+Memoria total: 16221.05 MB, Memoria usada: 10680.32 MB
+Procesos más demandantes de CPU:
+[17352] MicrosoftEdgeUpdate.exe (CPU: 0.00%) | [2416] svchost.exe (CPU: 0.00%) | [19316] RuntimeBroker.exe (CPU: 0.00%) | [7620] svchost.exe (CPU: 0.00%) | [4956] logi_lamparray_service.exe (CPU: 0.00%)
+Procesos más demandantes de RAM:
+[2452] brave.exe (Mem: 372.73 MB) | [19312] Code.exe (Mem: 370.62 MB) | [24368] brave.exe (Mem: 368.33 MB) | [22052] Code.exe (Mem: 337.61 MB) | [4256] rust-analyzer.exe (Mem: 321.49 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 8880.64 MB | Escritura: 13099.78 MB | [C:\][Tipo: SSD] Lectura: 45030.70 MB | Escritura: 57828.56 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:29:26
+CPU Uso: CPU 1: 6.91% | CPU 2: 3.35% | CPU 3: 9.01% | CPU 4: 3.17% | CPU 5: 7.53% | CPU 6: 3.56% | CPU 7: 6.74% | CPU 8: 3.06%
+Memoria total: 16221.05 MB, Memoria usada: 10665.47 MB
+Procesos más demandantes de CPU:
+[10800] conhost.exe (CPU: 0.00%) | [22800] conhost.exe (CPU: 0.00%) | [2704] svchost.exe (CPU: 0.00%) | [11644] unsecapp.exe (CPU: 0.00%) | [18764] Code.exe (CPU: 0.00%)
+Procesos más demandantes de RAM:
+[2452] brave.exe (Mem: 372.68 MB) | [19312] Code.exe (Mem: 370.79 MB) | [24368] brave.exe (Mem: 355.11 MB) | [22052] Code.exe (Mem: 337.61 MB) | [4256] rust-analyzer.exe (Mem: 321.49 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 8880.64 MB | Escritura: 13099.90 MB | [C:\][Tipo: SSD] Lectura: 45031.33 MB | Escritura: 57828.86 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:31:50
+CPU Uso: CPU 1: 2.33% | CPU 2: 0.73% | CPU 3: 2.24% | CPU 4: 1.91% | CPU 5: 2.12% | CPU 6: 1.79% | CPU 7: 2.30% | CPU 8: 1.23%
+Memoria total: 16221.05 MB, Memoria usada: 10734.59 MB
+Procesos más demandantes de CPU:
+[2452] brave.exe (CPU: 4.04%) | [3208] brave.exe (CPU: 1.73%) | [8076] brave.exe (CPU: 0.55%) | [17624] brave.exe (CPU: 0.51%) | [18832] Code.exe (CPU: 0.32%)
+Procesos más demandantes de RAM:
+[19312] Code.exe (Mem: 431.75 MB) | [2452] brave.exe (Mem: 363.47 MB) | [24368] brave.exe (Mem: 362.96 MB) | [22052] Code.exe (Mem: 340.99 MB) | [4256] rust-analyzer.exe (Mem: 321.81 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 8880.70 MB | Escritura: 13155.23 MB | [C:\][Tipo: SSD] Lectura: 45052.23 MB | Escritura: 57886.80 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:32:01
+CPU Uso: CPU 1: 2.44% | CPU 2: 1.25% | CPU 3: 2.87% | CPU 4: 1.20% | CPU 5: 2.39% | CPU 6: 1.83% | CPU 7: 2.16% | CPU 8: 1.55%
+Memoria total: 16221.05 MB, Memoria usada: 10653.48 MB
+Procesos más demandantes de CPU:
+[18832] Code.exe (CPU: 1.77%) | [15868] Code.exe (CPU: 1.42%) | [11772] Code.exe (CPU: 1.22%) | [7012] FxSound.exe (CPU: 0.53%) | [3968] Code.exe (CPU: 0.33%)
+Procesos más demandantes de RAM:
+[19312] Code.exe (Mem: 371.70 MB) | [2452] brave.exe (Mem: 361.26 MB) | [24368] brave.exe (Mem: 357.98 MB) | [22052] Code.exe (Mem: 340.36 MB) | [4256] rust-analyzer.exe (Mem: 321.81 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 8880.73 MB | Escritura: 13155.61 MB | [C:\][Tipo: SSD] Lectura: 45070.29 MB | Escritura: 57888.79 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:32:11
+CPU Uso: CPU 1: 2.90% | CPU 2: 2.17% | CPU 3: 4.19% | CPU 4: 2.18% | CPU 5: 3.19% | CPU 6: 2.59% | CPU 7: 3.16% | CPU 8: 1.64%
+Memoria total: 16221.05 MB, Memoria usada: 10706.80 MB
+Procesos más demandantes de CPU:
+[18984] explorer.exe (CPU: 0.86%) | [18832] Code.exe (CPU: 0.52%) | [15868] Code.exe (CPU: 0.44%) | [17624] brave.exe (CPU: 0.37%) | [3968] Code.exe (CPU: 0.33%)
+Procesos más demandantes de RAM:
+[19312] Code.exe (Mem: 371.56 MB) | [2452] brave.exe (Mem: 361.26 MB) | [24368] brave.exe (Mem: 357.98 MB) | [22052] Code.exe (Mem: 340.19 MB) | [4256] rust-analyzer.exe (Mem: 321.81 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 8882.53 MB | Escritura: 13155.90 MB | [C:\][Tipo: SSD] Lectura: 45087.83 MB | Escritura: 57892.18 MB
+Redes:
+Wi-Fi: 0.06 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:32:21
+CPU Uso: CPU 1: 3.02% | CPU 2: 1.85% | CPU 3: 2.92% | CPU 4: 1.77% | CPU 5: 3.72% | CPU 6: 2.20% | CPU 7: 3.04% | CPU 8: 1.52%
+Memoria total: 16221.05 MB, Memoria usada: 10655.56 MB
+Procesos más demandantes de CPU:
+[12224] WhatsApp.exe (CPU: 1.36%) | [13324] lghub_agent.exe (CPU: 0.42%) | [3968] Code.exe (CPU: 0.36%) | [18832] Code.exe (CPU: 0.36%) | [17624] brave.exe (CPU: 0.29%)
+Procesos más demandantes de RAM:
+[19312] Code.exe (Mem: 363.61 MB) | [24368] brave.exe (Mem: 361.53 MB) | [2452] brave.exe (Mem: 360.95 MB) | [22052] Code.exe (Mem: 338.12 MB) | [18832] Code.exe (Mem: 302.08 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 8916.90 MB | Escritura: 13156.73 MB | [C:\][Tipo: SSD] Lectura: 45093.53 MB | Escritura: 57922.33 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:32:31
+CPU Uso: CPU 1: 4.35% | CPU 2: 2.30% | CPU 3: 4.42% | CPU 4: 2.25% | CPU 5: 4.63% | CPU 6: 2.37% | CPU 7: 3.94% | CPU 8: 2.17%
+Memoria total: 16221.05 MB, Memoria usada: 10725.29 MB
+Procesos más demandantes de CPU:
+[21444] Taskmgr.exe (CPU: 5.25%) | [12224] WhatsApp.exe (CPU: 2.20%) | [18984] explorer.exe (CPU: 0.94%) | [3968] Code.exe (CPU: 0.55%) | [7012] FxSound.exe (CPU: 0.48%)
+Procesos más demandantes de RAM:
+[2452] brave.exe (Mem: 372.01 MB) | [19312] Code.exe (Mem: 363.56 MB) | [24368] brave.exe (Mem: 357.61 MB) | [22052] Code.exe (Mem: 338.07 MB) | [18832] Code.exe (Mem: 302.99 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 8944.12 MB | Escritura: 13156.90 MB | [C:\][Tipo: SSD] Lectura: 45095.63 MB | Escritura: 57923.42 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:32:42
+CPU Uso: CPU 1: 6.40% | CPU 2: 4.85% | CPU 3: 6.82% | CPU 4: 4.78% | CPU 5: 6.40% | CPU 6: 5.16% | CPU 7: 6.73% | CPU 8: 5.07%
+Memoria total: 16221.05 MB, Memoria usada: 10907.16 MB
+Procesos más demandantes de CPU:
+[21444] Taskmgr.exe (CPU: 4.24%) | [11772] Code.exe (CPU: 3.63%) | [15868] Code.exe (CPU: 2.98%) | [18984] explorer.exe (CPU: 2.02%) | [3968] Code.exe (CPU: 1.60%)
+Procesos más demandantes de RAM:
+[2452] brave.exe (Mem: 373.02 MB) | [19312] Code.exe (Mem: 363.62 MB) | [24368] brave.exe (Mem: 357.61 MB) | [22052] Code.exe (Mem: 338.21 MB) | [18832] Code.exe (Mem: 304.13 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 8944.12 MB | Escritura: 13157.34 MB | [C:\][Tipo: SSD] Lectura: 45105.01 MB | Escritura: 57923.92 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:32:52
+CPU Uso: CPU 1: 4.16% | CPU 2: 2.39% | CPU 3: 4.81% | CPU 4: 2.62% | CPU 5: 4.27% | CPU 6: 3.03% | CPU 7: 3.85% | CPU 8: 2.77%
+Memoria total: 16221.05 MB, Memoria usada: 10778.35 MB
+Procesos más demandantes de CPU:
+[11772] Code.exe (CPU: 4.35%) | [15868] Code.exe (CPU: 2.68%) | [21444] Taskmgr.exe (CPU: 2.67%) | [3968] Code.exe (CPU: 1.64%) | [7012] FxSound.exe (CPU: 0.57%)
+Procesos más demandantes de RAM:
+[2452] brave.exe (Mem: 373.52 MB) | [19312] Code.exe (Mem: 363.59 MB) | [24368] brave.exe (Mem: 356.45 MB) | [22052] Code.exe (Mem: 338.18 MB) | [18832] Code.exe (Mem: 304.79 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 8944.12 MB | Escritura: 13157.50 MB | [C:\][Tipo: SSD] Lectura: 45113.57 MB | Escritura: 57924.71 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.04 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-15 20:33:18
+CPU Uso: CPU 1: 9.60% | CPU 2: 8.77% | CPU 3: 10.06% | CPU 4: 8.81% | CPU 5: 9.70% | CPU 6: 8.86% | CPU 7: 9.44% | CPU 8: 8.79%
+Memoria total: 16221.05 MB, Memoria usada: 10887.61 MB
+Procesos más demandantes de CPU:
+[21444] Taskmgr.exe (CPU: 3.53%) | [11772] Code.exe (CPU: 2.47%) | [15868] Code.exe (CPU: 1.14%) | [3968] Code.exe (CPU: 0.89%) | [22052] Code.exe (CPU: 0.34%)
+Procesos más demandantes de RAM:
+[2452] brave.exe (Mem: 378.70 MB) | [19312] Code.exe (Mem: 363.59 MB) | [24368] brave.exe (Mem: 357.96 MB) | [22052] Code.exe (Mem: 339.98 MB) | [18832] Code.exe (Mem: 305.74 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 8944.12 MB | Escritura: 13157.78 MB | [C:\][Tipo: SSD] Lectura: 45114.01 MB | Escritura: 57926.34 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+

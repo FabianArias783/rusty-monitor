@@ -2,6 +2,7 @@ use std::{fs::OpenOptions, io::{self, Write}, path::Path, thread::sleep, time::D
 use chrono::Local;
 use rusqlite::{Connection, Result, params};
 use sysinfo::{System, Disks, Networks, ProcessesToUpdate, RefreshKind};
+
 use winreg::enums::*;
 use winreg::RegKey;
 use notify_rust::Notification;
@@ -48,6 +49,7 @@ fn main() -> Result<()> {
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             Hora TEXT NOT NULL,
             Uso_CPU TEXT,
+            Uso_CPU_Total TEXT,
             Memoria_total TEXT,
             Memoria_usada TEXT,
             Procesos TEXT,
@@ -94,19 +96,23 @@ fn main() -> Result<()> {
         let total_memory = sys.total_memory();
         let used_memory = sys.used_memory();
 
+        let total_cpu_usage: f32 = sys.cpus().iter().map(|c| c.cpu_usage()).sum();
+        let avg_system_cpu_usage = total_cpu_usage / num_cores; // Promedio del uso total
+
         let mut cpu_usages = Vec::new();
         for (i, cpu) in sys.cpus().iter().enumerate() {
-            cpu_usages.push(format!("CPU {}: {:.2}%", i + 1, cpu.cpu_usage() / num_cores));
+            cpu_usages.push(format!("CPU {}: {:.2}%", i + 1, cpu.cpu_usage())); // Uso por núcleo
         }
         let cpu_usage_str = cpu_usages.join(" | ");
 
-        let avg_cpu_usage = sys.cpus().iter().map(|c| c.cpu_usage() / num_cores).sum::<f32>() / sys.cpus().len() as f32;
         let mem_percentage = (used_memory as f64 / total_memory as f64) * 100.0;
 
         alert_manager.check_alerts(
-            avg_cpu_usage,
+            avg_system_cpu_usage, // Usar el promedio del uso total del sistema
             received_mbps as f32,
             mem_percentage as f32,
+            &sys,
+            num_cores,
         );
 
         // Obtener los procesos más demandantes por CPU
@@ -124,6 +130,7 @@ fn main() -> Result<()> {
         }
         let process_cpu_info_str = process_cpu_info.join(" | ");
 
+        // Obtener los procesos más demandantes por RAM
         let mut procesos_mem: Vec<_> = sys.processes().values().collect();
         procesos_mem.sort_by(|a, b| b.memory().partial_cmp(&a.memory()).unwrap());
         let mut process_mem_info = Vec::new();
@@ -165,16 +172,18 @@ fn main() -> Result<()> {
             "INSERT INTO metrics (
                 Hora,
                 Uso_CPU,
+                Uso_CPU_Total,
                 Memoria_total,
                 Memoria_usada,
                 Procesos,
                 Discos,
                 Internet,
                 Procesos_CPU
-            ) VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8)",
+            ) VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9)",
             params![
                 timestamp,
                 cpu_usage_str,
+                format!("{:.2}", avg_system_cpu_usage),
                 total_memory_mb,
                 used_memory_mb,
                 process_mem_info_str,
@@ -187,7 +196,8 @@ fn main() -> Result<()> {
         let output = format!(
             "=== Información del sistema ===\n\
              Fecha y hora: {}\n\
-             CPU Uso: {}\n\
+             CPU Uso (por núcleo): {}\n\
+             CPU Uso (promedio total): {:.2}%\n\
              Memoria total: {}, Memoria usada: {}\n\
              Procesos más demandantes de CPU:\n{}\n\
              Procesos más demandantes de RAM:\n{}\n\
@@ -195,13 +205,13 @@ fn main() -> Result<()> {
              Redes:\n{}\n\
              Datos insertados en SQLite exitosamente.\n\
              =====================================\n\n",
-            timestamp, cpu_usage_str, total_memory_mb, used_memory_mb, process_cpu_info_str, process_mem_info_str, disk_info_str, network_info_str
+            timestamp, cpu_usage_str, avg_system_cpu_usage, total_memory_mb, used_memory_mb, process_cpu_info_str, process_mem_info_str, disk_info_str, network_info_str
         );
 
         log_writer.write_all(output.as_bytes()).expect("Failed to write to log file");
 
         println!("{}", output); // También imprime a la terminal
 
-        sleep(Duration::from_secs(1)); // Espera 5 segundos antes de la siguiente iteración
+        sleep(Duration::from_millis(500)); // Espera 500 milisegundos antes de la siguiente iteración
     }
 }
