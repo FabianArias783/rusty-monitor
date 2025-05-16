@@ -34,7 +34,6 @@ impl Default for MonitorApp {
 
 impl App for MonitorApp {
     fn update(&mut self, ctx: &egui::Context, _frame: &mut eframe::Frame) {
-        // Cambiar tema según el modo
         if self.dark_mode {
             ctx.set_visuals(egui::Visuals::dark());
         } else {
@@ -44,11 +43,9 @@ impl App for MonitorApp {
         if self.last_update.elapsed() > Duration::from_secs(1) {
             self.sys.refresh_all();
 
-            // CPU total promedio
             let cpus = self.sys.cpus();
             let cpu_usage = cpus.iter().map(|c| c.cpu_usage()).sum::<f32>() / cpus.len() as f32;
 
-            // RAM %
             let total_memory = self.sys.total_memory();
             let used_memory = self.sys.used_memory();
             let ram_usage = if total_memory > 0 {
@@ -57,13 +54,11 @@ impl App for MonitorApp {
                 0.0
             };
 
-            // Actualizar históricos
             self.cpu_history.push(cpu_usage);
             self.cpu_history.remove(0);
             self.ram_history.push(ram_usage);
             self.ram_history.remove(0);
 
-            // Procesos ordenados por CPU descendente
             let mut processes: Vec<_> = self.sys.processes().values().collect();
             processes.sort_by(|a, b| b.cpu_usage().partial_cmp(&a.cpu_usage()).unwrap());
 
@@ -76,7 +71,6 @@ impl App for MonitorApp {
                 ))
                 .collect();
 
-            // Procesos ordenados por memoria descendente
             processes.sort_by(|a, b| b.memory().cmp(&a.memory()));
 
             self.top_ram = processes.iter()
@@ -92,64 +86,70 @@ impl App for MonitorApp {
         }
 
         egui::CentralPanel::default().show(ctx, |ui| {
-            ui.horizontal(|ui| {
-                ui.heading("Monitor de Sistema");
-                ui.with_layout(egui::Layout::right_to_left(egui::Align::TOP), |ui| {
-                    if ui.button(if self.dark_mode { "Modo Claro" } else { "Modo Oscuro" }).clicked() {
-                        self.dark_mode = !self.dark_mode;
-                    }
+            egui::ScrollArea::vertical().show(ui, |ui| {
+                ui.horizontal(|ui| {
+                    ui.heading("Monitor de Sistema");
+                    ui.with_layout(egui::Layout::right_to_left(egui::Align::TOP), |ui| {
+                        if ui.button(if self.dark_mode { "Modo Claro" } else { "Modo Oscuro" }).clicked() {
+                            self.dark_mode = !self.dark_mode;
+                        }
+                    });
                 });
-            });
 
-            ui.label(format!("CPU: {:.2}%", self.cpu_history.last().unwrap()));
-            Plot::new("cpu_plot").view_aspect(2.0).show(ui, |plot_ui| {
-                plot_ui.line(Line::new(PlotPoints::from_iter(
-                    self.cpu_history.iter().enumerate().map(|(i, v)| [i as f64, *v as f64]),
-                ))
-                .color(egui::Color32::LIGHT_BLUE)
-                .name("CPU %"));
-            });
-
-            ui.label(format!("RAM: {:.2}%", self.ram_history.last().unwrap()));
-            Plot::new("ram_plot").view_aspect(2.0).show(ui, |plot_ui| {
-                plot_ui.line(Line::new(PlotPoints::from_iter(
-                    self.ram_history.iter().enumerate().map(|(i, v)| [i as f64, *v as f64]),
-                ))
-                .color(egui::Color32::LIGHT_GREEN)
-                .name("RAM %"));
-            });
-
-            ui.separator();
-            ui.label("Top 10 Procesos por uso de CPU:");
-            egui::ScrollArea::vertical().max_height(150.0).show(ui, |ui| {
-                egui::Grid::new("cpu_grid").striped(true).show(ui, |ui| {
-                    ui.label("PID");
-                    ui.label("Nombre");
-                    ui.label("CPU %");
-                    ui.end_row();
-                    for (pid, name, cpu) in &self.top_cpu {
-                        ui.label(pid.to_string());
-                        ui.label(name);
-                        ui.label(format!("{:.2}%", cpu));
-                        ui.end_row();
-                    }
+                ui.label(format!("CPU: {:.2}%", self.cpu_history.last().unwrap()));
+                Plot::new("cpu_plot").view_aspect(2.0).show(ui, |plot_ui| {
+                    plot_ui.line(Line::new(PlotPoints::from_iter(
+                        self.cpu_history.iter().enumerate().map(|(i, v)| [i as f64, *v as f64]),
+                    ))
+                    .color(egui::Color32::LIGHT_BLUE)
+                    .name("CPU %"));
                 });
-            });
 
-            ui.separator();
-            ui.label("Top 10 Procesos por uso de RAM:");
-            egui::ScrollArea::vertical().max_height(150.0).show(ui, |ui| {
-                egui::Grid::new("ram_grid").striped(true).show(ui, |ui| {
-                    ui.label("PID");
-                    ui.label("Nombre");
-                    ui.label("RAM (KB)");
-                    ui.end_row();
-                    for (pid, name, ram) in &self.top_ram {
-                        ui.label(pid.to_string());
-                        ui.label(name);
-                        ui.label(format!("{}", ram));
+                ui.label(format!("RAM: {:.2}%", self.ram_history.last().unwrap()));
+                Plot::new("ram_plot").view_aspect(2.0).show(ui, |plot_ui| {
+                    plot_ui.line(Line::new(PlotPoints::from_iter(
+                        self.ram_history.iter().enumerate().map(|(i, v)| [i as f64, *v as f64]),
+                    ))
+                    .color(egui::Color32::LIGHT_GREEN)
+                    .name("RAM %"));
+                });
+
+                ui.separator();
+                ui.label("Top 10 Procesos por uso de CPU:");
+
+                // Scroll con max height, limita ancho del nombre para evitar overlap
+                egui::ScrollArea::vertical().max_height(150.0).show(ui, |ui| {
+                    egui::Grid::new("cpu_grid").striped(true).show(ui, |ui| {
+                        ui.label("PID");
+                        ui.label("Nombre");
+                        ui.label("CPU %");
                         ui.end_row();
-                    }
+                        for (pid, name, cpu) in &self.top_cpu {
+                            ui.label(pid.to_string());
+                            // Limitar ancho de nombre para evitar que crezca demasiado
+                            ui.add_sized([200.0, 20.0], egui::Label::new(name).wrap(true));
+                            ui.label(format!("{:.2}%", cpu));
+                            ui.end_row();
+                        }
+                    });
+                });
+
+                ui.separator();
+                ui.label("Top 10 Procesos por uso de RAM:");
+
+                egui::ScrollArea::vertical().max_height(150.0).show(ui, |ui| {
+                    egui::Grid::new("ram_grid").striped(true).show(ui, |ui| {
+                        ui.label("PID");
+                        ui.label("Nombre");
+                        ui.label("RAM (KB)");
+                        ui.end_row();
+                        for (pid, name, ram) in &self.top_ram {
+                            ui.label(pid.to_string());
+                            ui.add_sized([200.0, 20.0], egui::Label::new(name).wrap(true));
+                            ui.label(format!("{}", ram));
+                            ui.end_row();
+                        }
+                    });
                 });
             });
         });

@@ -2760,3 +2760,643 @@ Wi-Fi: 0.02 Mbps (down) / 0.00 Mbps (up)
 Datos insertados en SQLite exitosamente.
 =====================================
 
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:07:22
+CPU Uso (por núcleo): CPU 1: 65.34% | CPU 2: 41.11% | CPU 3: 53.50% | CPU 4: 49.83% | CPU 5: 54.11% | CPU 6: 41.30% | CPU 7: 64.25% | CPU 8: 32.44%
+CPU Uso (promedio total): 50.23%
+Memoria total: 16221.05 MB, Memoria usada: 11866.75 MB
+Procesos más demandantes de CPU:
+[3208] brave.exe (CPU: 1.38%) | [8076] brave.exe (CPU: 0.71%) | [18832] Code.exe (CPU: 0.61%) | [17624] brave.exe (CPU: 0.54%) | [24368] brave.exe (CPU: 0.47%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 597.24 MB) | [14672] rust-analyzer.exe (Mem: 509.07 MB) | [24368] brave.exe (Mem: 474.11 MB) | [18832] Code.exe (Mem: 436.55 MB) | [9288] Code.exe (Mem: 398.29 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23405.61 MB | [C:\][Tipo: SSD] Lectura: 68662.98 MB | Escritura: 69265.31 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:07:28
+CPU Uso (por núcleo): CPU 1: 46.02% | CPU 2: 20.54% | CPU 3: 45.62% | CPU 4: 23.79% | CPU 5: 36.47% | CPU 6: 22.97% | CPU 7: 39.55% | CPU 8: 21.68%
+CPU Uso (promedio total): 32.08%
+Memoria total: 16221.05 MB, Memoria usada: 11870.64 MB
+Procesos más demandantes de CPU:
+[24028] metricas-bueno.exe (CPU: 8.91%) | [8164] audiodg.exe (CPU: 2.74%) | [7012] FxSound.exe (CPU: 1.77%) | [18832] Code.exe (CPU: 0.80%) | [23396] Code.exe (CPU: 0.55%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 597.24 MB) | [14672] rust-analyzer.exe (Mem: 509.07 MB) | [24368] brave.exe (Mem: 474.11 MB) | [18832] Code.exe (Mem: 433.58 MB) | [9288] Code.exe (Mem: 398.80 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23413.67 MB | [C:\][Tipo: SSD] Lectura: 68663.31 MB | Escritura: 69266.43 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:07:33
+CPU Uso (por núcleo): CPU 1: 31.92% | CPU 2: 13.10% | CPU 3: 32.58% | CPU 4: 15.31% | CPU 5: 27.33% | CPU 6: 15.51% | CPU 7: 33.26% | CPU 8: 20.83%
+CPU Uso (promedio total): 23.73%
+Memoria total: 16221.05 MB, Memoria usada: 11846.67 MB
+Procesos más demandantes de CPU:
+[24028] metricas-bueno.exe (CPU: 6.99%) | [8164] audiodg.exe (CPU: 1.93%) | [7012] FxSound.exe (CPU: 1.55%) | [17624] brave.exe (CPU: 0.35%) | [10052] Spotify.exe (CPU: 0.31%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 597.24 MB) | [14672] rust-analyzer.exe (Mem: 509.07 MB) | [24368] brave.exe (Mem: 474.11 MB) | [18832] Code.exe (Mem: 433.21 MB) | [9288] Code.exe (Mem: 398.32 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23431.59 MB | [C:\][Tipo: SSD] Lectura: 68663.31 MB | Escritura: 69266.65 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:07:40
+CPU Uso (por núcleo): CPU 1: 37.66% | CPU 2: 14.98% | CPU 3: 37.73% | CPU 4: 19.51% | CPU 5: 31.54% | CPU 6: 17.73% | CPU 7: 35.13% | CPU 8: 16.79%
+CPU Uso (promedio total): 26.38%
+Memoria total: 16221.05 MB, Memoria usada: 11825.48 MB
+Procesos más demandantes de CPU:
+[24028] metricas-bueno.exe (CPU: 6.50%) | [8164] audiodg.exe (CPU: 2.78%) | [7012] FxSound.exe (CPU: 1.58%) | [10052] Spotify.exe (CPU: 0.74%) | [18832] Code.exe (CPU: 0.42%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 597.34 MB) | [14672] rust-analyzer.exe (Mem: 509.07 MB) | [24368] brave.exe (Mem: 474.11 MB) | [18832] Code.exe (Mem: 433.88 MB) | [9288] Code.exe (Mem: 398.33 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23431.66 MB | [C:\][Tipo: SSD] Lectura: 68663.31 MB | Escritura: 69267.00 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.03 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:07:46
+CPU Uso (por núcleo): CPU 1: 41.90% | CPU 2: 17.11% | CPU 3: 35.02% | CPU 4: 23.62% | CPU 5: 29.43% | CPU 6: 23.51% | CPU 7: 38.77% | CPU 8: 20.81%
+CPU Uso (promedio total): 28.77%
+Memoria total: 16221.05 MB, Memoria usada: 11769.84 MB
+Procesos más demandantes de CPU:
+[24028] metricas-bueno.exe (CPU: 5.21%) | [18832] Code.exe (CPU: 3.39%) | [8164] audiodg.exe (CPU: 2.76%) | [7012] FxSound.exe (CPU: 1.88%) | [11772] Code.exe (CPU: 1.60%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 597.34 MB) | [14672] rust-analyzer.exe (Mem: 509.07 MB) | [24368] brave.exe (Mem: 474.11 MB) | [18832] Code.exe (Mem: 426.06 MB) | [9288] Code.exe (Mem: 398.46 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23431.73 MB | [C:\][Tipo: SSD] Lectura: 68663.56 MB | Escritura: 69267.15 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:07:52
+CPU Uso (por núcleo): CPU 1: 36.04% | CPU 2: 11.87% | CPU 3: 34.82% | CPU 4: 17.28% | CPU 5: 25.92% | CPU 6: 16.36% | CPU 7: 33.65% | CPU 8: 15.60%
+CPU Uso (promedio total): 23.94%
+Memoria total: 16221.05 MB, Memoria usada: 11765.25 MB
+Procesos más demandantes de CPU:
+[24028] metricas-bueno.exe (CPU: 6.81%) | [8164] audiodg.exe (CPU: 2.34%) | [7012] FxSound.exe (CPU: 1.91%) | [18832] Code.exe (CPU: 0.81%) | [10052] Spotify.exe (CPU: 0.63%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 597.34 MB) | [14672] rust-analyzer.exe (Mem: 509.07 MB) | [24368] brave.exe (Mem: 474.11 MB) | [18832] Code.exe (Mem: 425.88 MB) | [9288] Code.exe (Mem: 398.30 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23432.68 MB | [C:\][Tipo: SSD] Lectura: 68663.56 MB | Escritura: 69267.33 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:07:58
+CPU Uso (por núcleo): CPU 1: 41.35% | CPU 2: 19.10% | CPU 3: 41.95% | CPU 4: 24.08% | CPU 5: 32.11% | CPU 6: 22.67% | CPU 7: 38.86% | CPU 8: 21.01%
+CPU Uso (promedio total): 30.14%
+Memoria total: 16221.05 MB, Memoria usada: 11770.20 MB
+Procesos más demandantes de CPU:
+[24028] metricas-bueno.exe (CPU: 6.11%) | [8164] audiodg.exe (CPU: 2.67%) | [7012] FxSound.exe (CPU: 1.87%) | [18984] explorer.exe (CPU: 1.23%) | [18832] Code.exe (CPU: 0.95%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 595.79 MB) | [14672] rust-analyzer.exe (Mem: 509.07 MB) | [24368] brave.exe (Mem: 474.11 MB) | [18832] Code.exe (Mem: 431.03 MB) | [9288] Code.exe (Mem: 398.33 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23432.80 MB | [C:\][Tipo: SSD] Lectura: 68663.68 MB | Escritura: 69267.86 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:08:05
+CPU Uso (por núcleo): CPU 1: 42.74% | CPU 2: 21.64% | CPU 3: 40.93% | CPU 4: 24.06% | CPU 5: 34.43% | CPU 6: 25.50% | CPU 7: 41.74% | CPU 8: 21.24%
+CPU Uso (promedio total): 31.54%
+Memoria total: 16221.05 MB, Memoria usada: 11777.83 MB
+Procesos más demandantes de CPU:
+[24028] metricas-bueno.exe (CPU: 4.10%) | [8164] audiodg.exe (CPU: 2.88%) | [18832] Code.exe (CPU: 2.03%) | [7012] FxSound.exe (CPU: 1.78%) | [15868] Code.exe (CPU: 1.47%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 595.79 MB) | [14672] rust-analyzer.exe (Mem: 509.07 MB) | [24368] brave.exe (Mem: 474.11 MB) | [18832] Code.exe (Mem: 433.80 MB) | [9288] Code.exe (Mem: 399.00 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23432.97 MB | [C:\][Tipo: SSD] Lectura: 68663.68 MB | Escritura: 69269.83 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:08:11
+CPU Uso (por núcleo): CPU 1: 42.76% | CPU 2: 22.27% | CPU 3: 40.25% | CPU 4: 24.02% | CPU 5: 34.50% | CPU 6: 22.48% | CPU 7: 39.62% | CPU 8: 23.82%
+CPU Uso (promedio total): 31.21%
+Memoria total: 16221.05 MB, Memoria usada: 11770.36 MB
+Procesos más demandantes de CPU:
+[24028] metricas-bueno.exe (CPU: 5.75%) | [18832] Code.exe (CPU: 3.24%) | [8164] audiodg.exe (CPU: 2.17%) | [18984] explorer.exe (CPU: 2.11%) | [7012] FxSound.exe (CPU: 1.61%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 595.79 MB) | [14672] rust-analyzer.exe (Mem: 509.07 MB) | [24368] brave.exe (Mem: 474.11 MB) | [18832] Code.exe (Mem: 427.21 MB) | [9288] Code.exe (Mem: 398.34 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23433.08 MB | [C:\][Tipo: SSD] Lectura: 68663.68 MB | Escritura: 69270.29 MB
+Redes:
+Wi-Fi: 0.03 Mbps (down) / 0.03 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:08:17
+CPU Uso (por núcleo): CPU 1: 40.78% | CPU 2: 23.30% | CPU 3: 38.63% | CPU 4: 26.98% | CPU 5: 33.04% | CPU 6: 23.20% | CPU 7: 39.19% | CPU 8: 28.50%
+CPU Uso (promedio total): 31.70%
+Memoria total: 16221.05 MB, Memoria usada: 11787.45 MB
+Procesos más demandantes de CPU:
+[8076] brave.exe (CPU: 2.83%) | [24028] metricas-bueno.exe (CPU: 2.80%) | [8164] audiodg.exe (CPU: 2.48%) | [7012] FxSound.exe (CPU: 1.97%) | [18832] Code.exe (CPU: 1.90%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 611.97 MB) | [14672] rust-analyzer.exe (Mem: 509.07 MB) | [24368] brave.exe (Mem: 474.11 MB) | [18832] Code.exe (Mem: 429.12 MB) | [9288] Code.exe (Mem: 398.36 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23433.18 MB | [C:\][Tipo: SSD] Lectura: 68663.75 MB | Escritura: 69270.97 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:08:23
+CPU Uso (por núcleo): CPU 1: 39.96% | CPU 2: 22.42% | CPU 3: 33.02% | CPU 4: 25.55% | CPU 5: 30.19% | CPU 6: 23.66% | CPU 7: 37.49% | CPU 8: 25.18%
+CPU Uso (promedio total): 29.68%
+Memoria total: 16221.05 MB, Memoria usada: 11782.36 MB
+Procesos más demandantes de CPU:
+[8076] brave.exe (CPU: 4.98%) | [8164] audiodg.exe (CPU: 2.63%) | [24028] metricas-bueno.exe (CPU: 2.41%) | [18832] Code.exe (CPU: 2.41%) | [7012] FxSound.exe (CPU: 1.70%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 612.15 MB) | [14672] rust-analyzer.exe (Mem: 509.07 MB) | [24368] brave.exe (Mem: 474.11 MB) | [18832] Code.exe (Mem: 429.54 MB) | [9288] Code.exe (Mem: 398.34 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23433.38 MB | [C:\][Tipo: SSD] Lectura: 68663.80 MB | Escritura: 69271.24 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.02 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:08:29
+CPU Uso (por núcleo): CPU 1: 41.12% | CPU 2: 18.93% | CPU 3: 32.35% | CPU 4: 24.56% | CPU 5: 29.31% | CPU 6: 21.71% | CPU 7: 37.98% | CPU 8: 22.83%
+CPU Uso (promedio total): 28.60%
+Memoria total: 16221.05 MB, Memoria usada: 11786.25 MB
+Procesos más demandantes de CPU:
+[8164] audiodg.exe (CPU: 2.98%) | [8076] brave.exe (CPU: 2.89%) | [24028] metricas-bueno.exe (CPU: 2.75%) | [17624] brave.exe (CPU: 2.32%) | [7012] FxSound.exe (CPU: 2.25%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 610.30 MB) | [14672] rust-analyzer.exe (Mem: 509.07 MB) | [24368] brave.exe (Mem: 474.11 MB) | [18832] Code.exe (Mem: 426.21 MB) | [9288] Code.exe (Mem: 398.49 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23433.48 MB | [C:\][Tipo: SSD] Lectura: 68663.82 MB | Escritura: 69298.84 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:08:35
+CPU Uso (por núcleo): CPU 1: 35.42% | CPU 2: 14.48% | CPU 3: 26.69% | CPU 4: 25.38% | CPU 5: 24.86% | CPU 6: 18.08% | CPU 7: 33.96% | CPU 8: 18.87%
+CPU Uso (promedio total): 24.72%
+Memoria total: 16221.05 MB, Memoria usada: 11698.50 MB
+Procesos más demandantes de CPU:
+[8164] audiodg.exe (CPU: 2.49%) | [24028] metricas-bueno.exe (CPU: 2.05%) | [7012] FxSound.exe (CPU: 2.01%) | [8076] brave.exe (CPU: 1.47%) | [17624] brave.exe (CPU: 1.05%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 605.85 MB) | [14672] rust-analyzer.exe (Mem: 472.90 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 423.45 MB) | [9288] Code.exe (Mem: 397.31 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23433.55 MB | [C:\][Tipo: SSD] Lectura: 68663.88 MB | Escritura: 69299.06 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:08:42
+CPU Uso (por núcleo): CPU 1: 42.78% | CPU 2: 19.71% | CPU 3: 35.14% | CPU 4: 24.19% | CPU 5: 32.18% | CPU 6: 21.29% | CPU 7: 38.95% | CPU 8: 25.11%
+CPU Uso (promedio total): 29.92%
+Memoria total: 16221.05 MB, Memoria usada: 11701.16 MB
+Procesos más demandantes de CPU:
+[8076] brave.exe (CPU: 3.24%) | [8164] audiodg.exe (CPU: 3.15%) | [24028] metricas-bueno.exe (CPU: 2.39%) | [17624] brave.exe (CPU: 2.12%) | [7012] FxSound.exe (CPU: 2.12%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 608.15 MB) | [14672] rust-analyzer.exe (Mem: 472.90 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 424.86 MB) | [9288] Code.exe (Mem: 397.33 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23433.77 MB | [C:\][Tipo: SSD] Lectura: 68663.95 MB | Escritura: 69300.10 MB
+Redes:
+Wi-Fi: 0.62 Mbps (down) / 0.08 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:08:48
+CPU Uso (por núcleo): CPU 1: 39.11% | CPU 2: 24.43% | CPU 3: 33.04% | CPU 4: 28.00% | CPU 5: 30.92% | CPU 6: 24.10% | CPU 7: 35.57% | CPU 8: 39.30%
+CPU Uso (promedio total): 31.81%
+Memoria total: 16221.05 MB, Memoria usada: 11740.41 MB
+Procesos más demandantes de CPU:
+[8076] brave.exe (CPU: 7.87%) | [10052] Spotify.exe (CPU: 2.57%) | [24028] metricas-bueno.exe (CPU: 2.20%) | [8164] audiodg.exe (CPU: 2.16%) | [7012] FxSound.exe (CPU: 1.58%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 625.38 MB) | [14672] rust-analyzer.exe (Mem: 472.90 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 424.64 MB) | [9288] Code.exe (Mem: 397.34 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23433.89 MB | [C:\][Tipo: SSD] Lectura: 68664.04 MB | Escritura: 69305.46 MB
+Redes:
+Wi-Fi: 7.83 Mbps (down) / 0.05 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:08:54
+CPU Uso (por núcleo): CPU 1: 33.04% | CPU 2: 19.45% | CPU 3: 26.56% | CPU 4: 22.56% | CPU 5: 25.87% | CPU 6: 24.97% | CPU 7: 29.45% | CPU 8: 51.27%
+CPU Uso (promedio total): 29.15%
+Memoria total: 16221.05 MB, Memoria usada: 11735.50 MB
+Procesos más demandantes de CPU:
+[8076] brave.exe (CPU: 18.01%) | [8164] audiodg.exe (CPU: 1.16%) | [24028] metricas-bueno.exe (CPU: 0.96%) | [7012] FxSound.exe (CPU: 0.45%) | [10052] Spotify.exe (CPU: 0.38%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 623.79 MB) | [14672] rust-analyzer.exe (Mem: 472.90 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 425.69 MB) | [9288] Code.exe (Mem: 397.50 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23433.96 MB | [C:\][Tipo: SSD] Lectura: 68664.04 MB | Escritura: 69306.06 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:09:00
+CPU Uso (por núcleo): CPU 1: 30.37% | CPU 2: 16.89% | CPU 3: 25.97% | CPU 4: 22.61% | CPU 5: 24.56% | CPU 6: 24.94% | CPU 7: 24.70% | CPU 8: 55.54%
+CPU Uso (promedio total): 28.20%
+Memoria total: 16221.05 MB, Memoria usada: 11739.38 MB
+Procesos más demandantes de CPU:
+[8076] brave.exe (CPU: 20.39%) | [24028] metricas-bueno.exe (CPU: 1.84%) | [8164] audiodg.exe (CPU: 0.68%) | [7012] FxSound.exe (CPU: 0.68%) | [13324] lghub_agent.exe (CPU: 0.26%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 628.77 MB) | [14672] rust-analyzer.exe (Mem: 472.90 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 425.87 MB) | [9288] Code.exe (Mem: 397.39 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23434.12 MB | [C:\][Tipo: SSD] Lectura: 68664.04 MB | Escritura: 69306.16 MB
+Redes:
+Wi-Fi: 0.03 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:09:06
+CPU Uso (por núcleo): CPU 1: 28.40% | CPU 2: 18.77% | CPU 3: 25.06% | CPU 4: 21.31% | CPU 5: 24.94% | CPU 6: 25.63% | CPU 7: 25.98% | CPU 8: 55.44%
+CPU Uso (promedio total): 28.19%
+Memoria total: 16221.05 MB, Memoria usada: 11748.50 MB
+Procesos más demandantes de CPU:
+[8076] brave.exe (CPU: 19.34%) | [24028] metricas-bueno.exe (CPU: 1.79%) | [8164] audiodg.exe (CPU: 1.17%) | [7012] FxSound.exe (CPU: 0.65%) | [18832] Code.exe (CPU: 0.33%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 638.30 MB) | [14672] rust-analyzer.exe (Mem: 472.90 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 426.65 MB) | [9288] Code.exe (Mem: 397.50 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23434.21 MB | [C:\][Tipo: SSD] Lectura: 68664.04 MB | Escritura: 69307.43 MB
+Redes:
+Wi-Fi: 0.05 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:09:12
+CPU Uso (por núcleo): CPU 1: 40.91% | CPU 2: 21.35% | CPU 3: 31.20% | CPU 4: 27.67% | CPU 5: 32.26% | CPU 6: 23.92% | CPU 7: 35.54% | CPU 8: 36.20%
+CPU Uso (promedio total): 31.13%
+Memoria total: 16221.05 MB, Memoria usada: 11724.46 MB
+Procesos más demandantes de CPU:
+[8076] brave.exe (CPU: 10.67%) | [3208] brave.exe (CPU: 2.76%) | [8164] audiodg.exe (CPU: 2.24%) | [24028] metricas-bueno.exe (CPU: 2.02%) | [7012] FxSound.exe (CPU: 1.12%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 624.07 MB) | [14672] rust-analyzer.exe (Mem: 472.90 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 428.05 MB) | [9288] Code.exe (Mem: 397.71 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23434.40 MB | [C:\][Tipo: SSD] Lectura: 68664.10 MB | Escritura: 69307.66 MB
+Redes:
+Wi-Fi: 0.03 Mbps (down) / 0.05 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:09:18
+CPU Uso (por núcleo): CPU 1: 43.19% | CPU 2: 22.84% | CPU 3: 38.47% | CPU 4: 23.98% | CPU 5: 34.91% | CPU 6: 22.00% | CPU 7: 40.28% | CPU 8: 27.84%
+CPU Uso (promedio total): 31.69%
+Memoria total: 16221.05 MB, Memoria usada: 11729.21 MB
+Procesos más demandantes de CPU:
+[8076] brave.exe (CPU: 4.62%) | [8164] audiodg.exe (CPU: 2.98%) | [24028] metricas-bueno.exe (CPU: 2.52%) | [17624] brave.exe (CPU: 2.27%) | [7012] FxSound.exe (CPU: 1.99%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 628.50 MB) | [14672] rust-analyzer.exe (Mem: 472.90 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 428.32 MB) | [9288] Code.exe (Mem: 397.83 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23434.52 MB | [C:\][Tipo: SSD] Lectura: 68664.17 MB | Escritura: 69308.32 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.03 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:09:24
+CPU Uso (por núcleo): CPU 1: 41.30% | CPU 2: 18.53% | CPU 3: 32.68% | CPU 4: 22.04% | CPU 5: 29.90% | CPU 6: 22.47% | CPU 7: 36.38% | CPU 8: 25.67%
+CPU Uso (promedio total): 28.62%
+Memoria total: 16221.05 MB, Memoria usada: 11725.77 MB
+Procesos más demandantes de CPU:
+[8076] brave.exe (CPU: 5.22%) | [8164] audiodg.exe (CPU: 3.01%) | [24028] metricas-bueno.exe (CPU: 2.43%) | [7012] FxSound.exe (CPU: 2.05%) | [17624] brave.exe (CPU: 1.65%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 626.21 MB) | [14672] rust-analyzer.exe (Mem: 472.90 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 429.30 MB) | [9288] Code.exe (Mem: 397.85 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23434.62 MB | [C:\][Tipo: SSD] Lectura: 68664.17 MB | Escritura: 69308.79 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:09:30
+CPU Uso (por núcleo): CPU 1: 40.08% | CPU 2: 16.49% | CPU 3: 29.80% | CPU 4: 21.94% | CPU 5: 27.36% | CPU 6: 19.78% | CPU 7: 37.92% | CPU 8: 20.29%
+CPU Uso (promedio total): 26.71%
+Memoria total: 16221.05 MB, Memoria usada: 11721.54 MB
+Procesos más demandantes de CPU:
+[8164] audiodg.exe (CPU: 3.12%) | [24028] metricas-bueno.exe (CPU: 3.03%) | [18832] Code.exe (CPU: 2.85%) | [7012] FxSound.exe (CPU: 2.26%) | [8076] brave.exe (CPU: 2.22%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 620.99 MB) | [14672] rust-analyzer.exe (Mem: 472.90 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 426.61 MB) | [9288] Code.exe (Mem: 397.77 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23434.80 MB | [C:\][Tipo: SSD] Lectura: 68664.17 MB | Escritura: 69309.11 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:09:35
+CPU Uso (por núcleo): CPU 1: 41.05% | CPU 2: 19.21% | CPU 3: 35.40% | CPU 4: 25.39% | CPU 5: 30.20% | CPU 6: 24.35% | CPU 7: 38.90% | CPU 8: 22.88%
+CPU Uso (promedio total): 29.67%
+Memoria total: 16221.05 MB, Memoria usada: 11716.32 MB
+Procesos más demandantes de CPU:
+[8164] audiodg.exe (CPU: 3.06%) | [24028] metricas-bueno.exe (CPU: 2.82%) | [8076] brave.exe (CPU: 2.66%) | [17624] brave.exe (CPU: 2.35%) | [7012] FxSound.exe (CPU: 2.00%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 622.71 MB) | [14672] rust-analyzer.exe (Mem: 472.90 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 424.80 MB) | [9288] Code.exe (Mem: 397.76 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23434.90 MB | [C:\][Tipo: SSD] Lectura: 68664.17 MB | Escritura: 69309.14 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:09:41
+CPU Uso (por núcleo): CPU 1: 39.62% | CPU 2: 19.31% | CPU 3: 32.34% | CPU 4: 23.26% | CPU 5: 32.00% | CPU 6: 20.77% | CPU 7: 40.36% | CPU 8: 24.30%
+CPU Uso (promedio total): 28.99%
+Memoria total: 16221.05 MB, Memoria usada: 11715.11 MB
+Procesos más demandantes de CPU:
+[8164] audiodg.exe (CPU: 3.28%) | [8076] brave.exe (CPU: 2.62%) | [24028] metricas-bueno.exe (CPU: 2.28%) | [17624] brave.exe (CPU: 1.94%) | [7012] FxSound.exe (CPU: 1.71%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 621.02 MB) | [14672] rust-analyzer.exe (Mem: 472.90 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 423.99 MB) | [9288] Code.exe (Mem: 397.77 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23435.01 MB | [C:\][Tipo: SSD] Lectura: 68664.17 MB | Escritura: 69309.80 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.02 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:10:04
+CPU Uso (por núcleo): CPU 1: 35.70% | CPU 2: 34.28% | CPU 3: 34.82% | CPU 4: 31.01% | CPU 5: 34.48% | CPU 6: 38.78% | CPU 7: 32.09% | CPU 8: 65.35%
+CPU Uso (promedio total): 38.31%
+Memoria total: 16221.05 MB, Memoria usada: 11876.40 MB
+Procesos más demandantes de CPU:
+[3208] brave.exe (CPU: 1.37%) | [8076] brave.exe (CPU: 0.72%) | [18832] Code.exe (CPU: 0.61%) | [17624] brave.exe (CPU: 0.54%) | [24368] brave.exe (CPU: 0.47%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 572.07 MB) | [14672] rust-analyzer.exe (Mem: 473.43 MB) | [24368] brave.exe (Mem: 470.89 MB) | [9288] Code.exe (Mem: 468.56 MB) | [18832] Code.exe (Mem: 424.08 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23501.95 MB | [C:\][Tipo: SSD] Lectura: 68664.90 MB | Escritura: 69313.79 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.04 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:10:10
+CPU Uso (por núcleo): CPU 1: 45.46% | CPU 2: 25.63% | CPU 3: 53.72% | CPU 4: 26.28% | CPU 5: 39.57% | CPU 6: 35.58% | CPU 7: 44.57% | CPU 8: 30.03%
+CPU Uso (promedio total): 37.60%
+Memoria total: 16221.05 MB, Memoria usada: 11841.19 MB
+Procesos más demandantes de CPU:
+[24504] metricas-bueno.exe (CPU: 9.14%) | [8076] brave.exe (CPU: 4.70%) | [8164] audiodg.exe (CPU: 2.92%) | [7012] FxSound.exe (CPU: 1.36%) | [18984] explorer.exe (CPU: 1.19%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 571.58 MB) | [14672] rust-analyzer.exe (Mem: 473.43 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 424.34 MB) | [9288] Code.exe (Mem: 400.94 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23513.97 MB | [C:\][Tipo: SSD] Lectura: 68664.97 MB | Escritura: 69313.93 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:10:16
+CPU Uso (por núcleo): CPU 1: 35.21% | CPU 2: 13.45% | CPU 3: 25.18% | CPU 4: 17.91% | CPU 5: 20.25% | CPU 6: 21.25% | CPU 7: 32.79% | CPU 8: 14.68%
+CPU Uso (promedio total): 22.59%
+Memoria total: 16221.05 MB, Memoria usada: 11812.91 MB
+Procesos más demandantes de CPU:
+[8164] audiodg.exe (CPU: 3.17%) | [24504] metricas-bueno.exe (CPU: 3.04%) | [7012] FxSound.exe (CPU: 2.01%) | [18984] explorer.exe (CPU: 1.04%) | [18832] Code.exe (CPU: 0.88%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 569.21 MB) | [14672] rust-analyzer.exe (Mem: 473.43 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 426.07 MB) | [9288] Code.exe (Mem: 399.46 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23522.04 MB | [C:\][Tipo: SSD] Lectura: 68664.98 MB | Escritura: 69315.22 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:10:22
+CPU Uso (por núcleo): CPU 1: 36.90% | CPU 2: 16.05% | CPU 3: 32.93% | CPU 4: 17.95% | CPU 5: 26.30% | CPU 6: 24.70% | CPU 7: 36.72% | CPU 8: 19.48%
+CPU Uso (promedio total): 26.38%
+Memoria total: 16221.05 MB, Memoria usada: 11738.84 MB
+Procesos más demandantes de CPU:
+[24504] metricas-bueno.exe (CPU: 4.62%) | [8164] audiodg.exe (CPU: 2.60%) | [9288] Code.exe (CPU: 2.02%) | [7012] FxSound.exe (CPU: 1.71%) | [17624] brave.exe (CPU: 1.07%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 569.94 MB) | [14672] rust-analyzer.exe (Mem: 473.43 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 426.32 MB) | [9288] Code.exe (Mem: 400.07 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23533.89 MB | [C:\][Tipo: SSD] Lectura: 68664.98 MB | Escritura: 69315.34 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.02 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:10:29
+CPU Uso (por núcleo): CPU 1: 40.05% | CPU 2: 19.78% | CPU 3: 35.11% | CPU 4: 21.76% | CPU 5: 30.94% | CPU 6: 21.50% | CPU 7: 37.24% | CPU 8: 26.64%
+CPU Uso (promedio total): 29.13%
+Memoria total: 16221.05 MB, Memoria usada: 11719.70 MB
+Procesos más demandantes de CPU:
+[8076] brave.exe (CPU: 4.12%) | [8164] audiodg.exe (CPU: 3.21%) | [7012] FxSound.exe (CPU: 2.40%) | [24504] metricas-bueno.exe (CPU: 2.34%) | [17624] brave.exe (CPU: 1.88%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 576.92 MB) | [14672] rust-analyzer.exe (Mem: 473.43 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 426.40 MB) | [9288] Code.exe (Mem: 398.71 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23552.59 MB | [C:\][Tipo: SSD] Lectura: 68664.98 MB | Escritura: 69316.04 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:10:35
+CPU Uso (por núcleo): CPU 1: 41.24% | CPU 2: 19.93% | CPU 3: 32.23% | CPU 4: 23.35% | CPU 5: 31.07% | CPU 6: 24.85% | CPU 7: 41.09% | CPU 8: 22.10%
+CPU Uso (promedio total): 29.48%
+Memoria total: 16221.05 MB, Memoria usada: 11698.97 MB
+Procesos más demandantes de CPU:
+[8164] audiodg.exe (CPU: 3.05%) | [7012] FxSound.exe (CPU: 2.46%) | [24504] metricas-bueno.exe (CPU: 2.37%) | [8076] brave.exe (CPU: 2.21%) | [17624] brave.exe (CPU: 1.46%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 572.64 MB) | [14672] rust-analyzer.exe (Mem: 473.43 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 427.50 MB) | [9288] Code.exe (Mem: 398.46 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23552.91 MB | [C:\][Tipo: SSD] Lectura: 68665.31 MB | Escritura: 69316.45 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:10:41
+CPU Uso (por núcleo): CPU 1: 42.99% | CPU 2: 22.11% | CPU 3: 36.22% | CPU 4: 25.69% | CPU 5: 32.50% | CPU 6: 24.62% | CPU 7: 40.91% | CPU 8: 25.90%
+CPU Uso (promedio total): 31.37%
+Memoria total: 16221.05 MB, Memoria usada: 11701.95 MB
+Procesos más demandantes de CPU:
+[8076] brave.exe (CPU: 3.46%) | [8164] audiodg.exe (CPU: 3.37%) | [24504] metricas-bueno.exe (CPU: 2.41%) | [17624] brave.exe (CPU: 2.40%) | [7012] FxSound.exe (CPU: 1.96%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 573.22 MB) | [14672] rust-analyzer.exe (Mem: 473.43 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 428.74 MB) | [9288] Code.exe (Mem: 398.52 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23553.02 MB | [C:\][Tipo: SSD] Lectura: 68665.31 MB | Escritura: 69316.78 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:10:47
+CPU Uso (por núcleo): CPU 1: 40.54% | CPU 2: 20.77% | CPU 3: 33.58% | CPU 4: 21.78% | CPU 5: 29.62% | CPU 6: 21.17% | CPU 7: 39.87% | CPU 8: 24.75%
+CPU Uso (promedio total): 29.01%
+Memoria total: 16221.05 MB, Memoria usada: 11717.05 MB
+Procesos más demandantes de CPU:
+[8076] brave.exe (CPU: 3.41%) | [8164] audiodg.exe (CPU: 3.27%) | [24504] metricas-bueno.exe (CPU: 2.61%) | [17624] brave.exe (CPU: 2.29%) | [7012] FxSound.exe (CPU: 2.03%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 572.84 MB) | [14672] rust-analyzer.exe (Mem: 473.43 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 429.51 MB) | [9288] Code.exe (Mem: 398.51 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23553.09 MB | [C:\][Tipo: SSD] Lectura: 68665.31 MB | Escritura: 69317.38 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:10:54
+CPU Uso (por núcleo): CPU 1: 45.35% | CPU 2: 21.97% | CPU 3: 40.99% | CPU 4: 22.92% | CPU 5: 34.12% | CPU 6: 27.99% | CPU 7: 44.24% | CPU 8: 24.23%
+CPU Uso (promedio total): 32.73%
+Memoria total: 16221.05 MB, Memoria usada: 11695.77 MB
+Procesos más demandantes de CPU:
+[24504] metricas-bueno.exe (CPU: 4.59%) | [8164] audiodg.exe (CPU: 2.89%) | [8076] brave.exe (CPU: 2.63%) | [18984] explorer.exe (CPU: 2.36%) | [11772] Code.exe (CPU: 1.97%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 572.23 MB) | [14672] rust-analyzer.exe (Mem: 473.43 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 430.78 MB) | [9288] Code.exe (Mem: 398.53 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23553.27 MB | [C:\][Tipo: SSD] Lectura: 68665.31 MB | Escritura: 69317.74 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:11:00
+CPU Uso (por núcleo): CPU 1: 44.41% | CPU 2: 20.43% | CPU 3: 43.93% | CPU 4: 22.21% | CPU 5: 31.44% | CPU 6: 31.27% | CPU 7: 43.84% | CPU 8: 22.37%
+CPU Uso (promedio total): 32.49%
+Memoria total: 16221.05 MB, Memoria usada: 11686.92 MB
+Procesos más demandantes de CPU:
+[24504] metricas-bueno.exe (CPU: 8.16%) | [8164] audiodg.exe (CPU: 3.37%) | [18832] Code.exe (CPU: 2.43%) | [7012] FxSound.exe (CPU: 1.93%) | [18984] explorer.exe (CPU: 0.91%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 572.23 MB) | [14672] rust-analyzer.exe (Mem: 473.43 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 425.92 MB) | [9288] Code.exe (Mem: 398.48 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23553.40 MB | [C:\][Tipo: SSD] Lectura: 68665.38 MB | Escritura: 69318.20 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:11:06
+CPU Uso (por núcleo): CPU 1: 36.69% | CPU 2: 14.43% | CPU 3: 30.81% | CPU 4: 17.38% | CPU 5: 25.42% | CPU 6: 22.46% | CPU 7: 36.84% | CPU 8: 17.96%
+CPU Uso (promedio total): 25.25%
+Memoria total: 16221.05 MB, Memoria usada: 11687.83 MB
+Procesos más demandantes de CPU:
+[24504] metricas-bueno.exe (CPU: 3.74%) | [8164] audiodg.exe (CPU: 2.93%) | [7012] FxSound.exe (CPU: 1.67%) | [8076] brave.exe (CPU: 1.20%) | [18984] explorer.exe (CPU: 1.01%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 574.48 MB) | [14672] rust-analyzer.exe (Mem: 473.43 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 426.53 MB) | [9288] Code.exe (Mem: 398.48 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23553.58 MB | [C:\][Tipo: SSD] Lectura: 68665.38 MB | Escritura: 69318.39 MB
+Redes:
+Wi-Fi: 0.01 Mbps (down) / 0.02 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:11:12
+CPU Uso (por núcleo): CPU 1: 38.16% | CPU 2: 19.07% | CPU 3: 30.55% | CPU 4: 21.18% | CPU 5: 26.72% | CPU 6: 21.30% | CPU 7: 34.78% | CPU 8: 32.60%
+CPU Uso (promedio total): 28.05%
+Memoria total: 16221.05 MB, Memoria usada: 11692.48 MB
+Procesos más demandantes de CPU:
+[8076] brave.exe (CPU: 5.56%) | [8164] audiodg.exe (CPU: 2.78%) | [24504] metricas-bueno.exe (CPU: 2.07%) | [7012] FxSound.exe (CPU: 1.60%) | [23396] Code.exe (CPU: 1.05%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 579.05 MB) | [14672] rust-analyzer.exe (Mem: 473.43 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 426.03 MB) | [9288] Code.exe (Mem: 398.48 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.40 MB | Escritura: 23553.69 MB | [C:\][Tipo: SSD] Lectura: 68665.51 MB | Escritura: 69318.50 MB
+Redes:
+Wi-Fi: 0.03 Mbps (down) / 0.00 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:11:18
+CPU Uso (por núcleo): CPU 1: 38.81% | CPU 2: 21.94% | CPU 3: 31.80% | CPU 4: 23.31% | CPU 5: 26.23% | CPU 6: 25.24% | CPU 7: 30.51% | CPU 8: 46.14%
+CPU Uso (promedio total): 30.50%
+Memoria total: 16221.05 MB, Memoria usada: 11732.97 MB
+Procesos más demandantes de CPU:
+[8076] brave.exe (CPU: 14.31%) | [24504] metricas-bueno.exe (CPU: 2.06%) | [8164] audiodg.exe (CPU: 1.70%) | [7012] FxSound.exe (CPU: 1.39%) | [18984] explorer.exe (CPU: 0.91%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 616.55 MB) | [14672] rust-analyzer.exe (Mem: 473.43 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 426.12 MB) | [9288] Code.exe (Mem: 398.48 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.46 MB | Escritura: 23553.81 MB | [C:\][Tipo: SSD] Lectura: 68665.70 MB | Escritura: 69319.10 MB
+Redes:
+Wi-Fi: 0.24 Mbps (down) / 0.08 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:11:25
+CPU Uso (por núcleo): CPU 1: 33.68% | CPU 2: 20.56% | CPU 3: 27.71% | CPU 4: 21.00% | CPU 5: 27.69% | CPU 6: 24.41% | CPU 7: 27.85% | CPU 8: 58.82%
+CPU Uso (promedio total): 30.21%
+Memoria total: 16221.05 MB, Memoria usada: 11738.75 MB
+Procesos más demandantes de CPU:
+[8076] brave.exe (CPU: 18.69%) | [8164] audiodg.exe (CPU: 0.98%) | [7012] FxSound.exe (CPU: 0.88%) | [22052] Code.exe (CPU: 0.69%) | [10052] Spotify.exe (CPU: 0.60%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 630.06 MB) | [14672] rust-analyzer.exe (Mem: 473.43 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 427.17 MB) | [9288] Code.exe (Mem: 398.49 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.46 MB | Escritura: 23553.99 MB | [C:\][Tipo: SSD] Lectura: 68665.70 MB | Escritura: 69319.70 MB
+Redes:
+Wi-Fi: 0.05 Mbps (down) / 0.02 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:11:31
+CPU Uso (por núcleo): CPU 1: 27.57% | CPU 2: 17.80% | CPU 3: 21.17% | CPU 4: 20.92% | CPU 5: 22.02% | CPU 6: 19.78% | CPU 7: 23.87% | CPU 8: 63.22%
+CPU Uso (promedio total): 27.04%
+Memoria total: 16221.05 MB, Memoria usada: 11741.87 MB
+Procesos más demandantes de CPU:
+[8076] brave.exe (CPU: 18.48%) | [8164] audiodg.exe (CPU: 1.02%) | [7012] FxSound.exe (CPU: 0.77%) | [24504] metricas-bueno.exe (CPU: 0.61%) | [2648] vctip.exe (CPU: 0.60%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 629.38 MB) | [14672] rust-analyzer.exe (Mem: 473.43 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 427.91 MB) | [9288] Code.exe (Mem: 398.43 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.46 MB | Escritura: 23554.14 MB | [C:\][Tipo: SSD] Lectura: 68665.70 MB | Escritura: 69320.76 MB
+Redes:
+Wi-Fi: 0.02 Mbps (down) / 0.03 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
+=== Información del sistema ===
+Fecha y hora: 2025-05-16 00:11:37
+CPU Uso (por núcleo): CPU 1: 34.38% | CPU 2: 13.94% | CPU 3: 25.43% | CPU 4: 17.57% | CPU 5: 23.71% | CPU 6: 23.88% | CPU 7: 26.31% | CPU 8: 29.33%
+CPU Uso (promedio total): 24.32%
+Memoria total: 16221.05 MB, Memoria usada: 11749.53 MB
+Procesos más demandantes de CPU:
+[8076] brave.exe (CPU: 8.97%) | [24504] metricas-bueno.exe (CPU: 2.35%) | [8164] audiodg.exe (CPU: 2.19%) | [7012] FxSound.exe (CPU: 1.59%) | [18984] explorer.exe (CPU: 0.99%)
+Procesos más demandantes de RAM:
+[8076] brave.exe (Mem: 633.12 MB) | [14672] rust-analyzer.exe (Mem: 473.43 MB) | [24368] brave.exe (Mem: 470.89 MB) | [18832] Code.exe (Mem: 428.89 MB) | [9288] Code.exe (Mem: 398.48 MB)
+Discos:
+[D:\][Tipo: HDD] Lectura: 10962.46 MB | Escritura: 23554.30 MB | [C:\][Tipo: SSD] Lectura: 68665.70 MB | Escritura: 69321.17 MB
+Redes:
+Wi-Fi: 0.00 Mbps (down) / 0.01 Mbps (up)
+Datos insertados en SQLite exitosamente.
+=====================================
+
