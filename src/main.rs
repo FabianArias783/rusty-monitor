@@ -1,7 +1,9 @@
-use std::{fs::OpenOptions, io::{self, Write}, path::Path, thread::{sleep, spawn}, time::Duration};
+use std::{fs::OpenOptions, io::{self, Write}, thread::{sleep, spawn}, time::Duration};
+use std::env;
 use chrono::Local;
 use rusqlite::{Connection, Result, params};
 use sysinfo::{System, Disks, Networks, ProcessesToUpdate, RefreshKind};
+use std::ffi::OsStr;
 
 use winreg::enums::*;
 use winreg::RegKey;
@@ -24,15 +26,24 @@ fn redirect_stdout() -> io::BufWriter<std::fs::File> {
 
 fn add_to_startup() {
     let hkcu = RegKey::predef(HKEY_CURRENT_USER);
-    let key = hkcu.open_subkey_with_flags("Software\\Microsoft\\Windows\\CurrentVersion\\Run", KEY_WRITE)
-        .expect("Failed to open registry key");
+    let key = hkcu.open_subkey_with_flags(
+        "Software\\Microsoft\\Windows\\CurrentVersion\\Run", 
+        KEY_WRITE
+    ).expect("Failed to open registry key");
 
-    let exe_path = Path::new(r"D:\fabia\Documents\metricas-bueno\target\debug\metricas-bueno.exe").to_str().unwrap();
+    let exe_path_buf = env::current_exe()
+        .expect("Failed to get current exe path");
+
+    let exe_path = exe_path_buf
+        .to_str()
+        .expect("Failed to convert path to str");
+
     key.set_value("Metricas", &exe_path).expect("Failed to add program to startup");
 }
 
-fn osstr_to_string(os: &std::ffi::OsStr) -> String {
-    os.to_string_lossy().into_owned()
+
+fn osstr_to_string(os_str: &OsStr) -> String {
+    os_str.to_string_lossy().into_owned()
 }
 
 fn run_monitoring() -> Result<()> {
