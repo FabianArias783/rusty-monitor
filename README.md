@@ -42,13 +42,6 @@ cargo build --release
 
 ---
 
-## 👤 Autor
-
-**Fabián Arias**
-
-* Ingeniería en Computación
-* Proyecto universitario y personal de aprendizaje en Rust
-
 ## 🧭 GUI
 
 ### Dark Mode
@@ -72,3 +65,10 @@ cargo build --release
 ### WIFI
 
 ![Alerta de WIFI](./Images/WIFI_Alert.png)
+
+## 👤 Autor
+
+**Fabián Arias**
+
+* Ingeniería en Computación
+* Proyecto universitario y personal de aprendizaje en Rust
