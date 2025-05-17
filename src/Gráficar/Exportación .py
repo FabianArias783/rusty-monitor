@@ -1,23 +1,32 @@
 import sqlite3
 import pandas as pd
+import os
 
-# Ruta del archivo DB
-db_path = r'D:\fabia\Documents\metricas-bueno\target\debug\metrics.db'
+def export_sqlite_table_relative(table_name='metrics'):
+    # Obtener el directorio donde está este script
+    base_dir = os.path.dirname(os.path.abspath(__file__))
 
-# Conexión a la base de datos
-conn = sqlite3.connect(db_path)
+    # Construir rutas relativas
+    db_path = os.path.join(base_dir, 'target', 'debug', 'metrics.db')
+    csv_path = os.path.join(base_dir, 'metrics.csv')
+    json_path = os.path.join(base_dir, 'metrics.json')
 
-# Leer los datos
-df = pd.read_sql_query("SELECT * FROM metrics;", conn)
+    # Conectar a la base de datos
+    conn = sqlite3.connect(db_path)
 
-# Exportar a CSV
-csv_path = r'D:\fabia\Documents\metricas-bueno\metrics.csv'
-df.to_csv(csv_path, index=False)
-print(f"✅ Datos exportados a CSV en: {csv_path}")
+    # Leer la tabla
+    query = f"SELECT * FROM {table_name};"
+    df = pd.read_sql_query(query, conn)
 
-# Exportar a JSON
-json_path = r'D:\fabia\Documents\metricas-bueno\metrics.json'
-df.to_json(json_path, orient='records', lines=True)
-print(f"✅ Datos exportados a JSON en: {json_path}")
+    # Exportar a CSV
+    df.to_csv(csv_path, index=False)
+    print(f"✅ Datos exportados a CSV en: {csv_path}")
 
-conn.close()
+    # Exportar a JSON
+    df.to_json(json_path, orient='records', lines=True)
+    print(f"✅ Datos exportados a JSON en: {json_path}")
+
+    conn.close()
+
+if __name__ == '__main__':
+    export_sqlite_table_relative()

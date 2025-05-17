@@ -1,9 +1,13 @@
+import os
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Ruta del archivo CSV
-csv_path = r'D:\fabia\Documents\metricas-bueno\metrics.csv'
+# Obtener la carpeta donde está este script
+base_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Ruta relativa al CSV dentro del repo
+csv_path = os.path.join(base_dir, 'metrics.csv')
 
 # Leer el archivo CSV
 df = pd.read_csv(csv_path)
@@ -44,4 +48,4 @@ for col in ['Uso_CPU'] + columnas_a_convertir:
     plt.title(f'{col} a lo largo del tiempo')
     plt.legend()
     plt.tight_layout()
-    plt.show()  # Mostrar gráficas
+    plt.show()
