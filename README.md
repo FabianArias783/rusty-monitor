@@ -20,8 +20,6 @@ Este proyecto es una aplicación de monitoreo del sistema en tiempo real desarro
 cargo build --release
 </span></span></code></div></div></pre>
 
-> ⚠️ **Importante:** cambia la ruta en la función `add_to_startup()` dentro de `main.rs` a la ubicación de tu ejecutable si quieres que inicie con Windows.
-
 ## 🚀 Uso
 
 ### Ejecución
